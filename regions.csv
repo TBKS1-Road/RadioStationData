@@ -5,6 +5,13 @@ AL;Alabama;USA;State
 AR;Arkansas;USA;State
 ARG;Argentina;ARG;Country
 AS;American Samoa;USA;Territory
+AUS-ACT;Australia Capital Territory;AUS;District
+AUS-NSW;New South Wales;AUS;State
+AUS-NT;Northern Territory;Territory
+AUS-QLD;Queensland;AUS;State
+AUS-SA;South Australia;AUS;State
+AUS-TAS;Tasmania;AUS;State
+AUS-VIC;Victoria;AUS;State
 AZ;Arizona;USA;State
 BC;British Columbia;CAN;Province
 BOL;Bolivia;BOL;Country
@@ -37,30 +44,87 @@ BRA-SC;Santa Catarina;BRA;State
 BRA-SP;São Paulo;BRA;State
 BRA-SE;Sergipe;BRA;State
 BRA-TO;Tocantins;BRA;State
+BRB;Barbados;BRB;Country
 CA;California;USA;State
+CHL;Chile;CHL;Country
 CO;Colorado;USA;State
+COL;Colombia;COL;Country
+CRI;Costa Rica;CRI;Country
 CT;Connecticut;USA;State
+CUB;Cuba;CUB;Country
+CUW;Curaçao;NLD;Territory
+CYM;Cayman Islands;GBR;Territory
 DC;District of Columbia;USA;District
 DE;Delaware;USA;State
+DMA;Dominica;DMA;Country
+DNK;Denmark;DNK;Country
+DOM;Dominican Republic;DOM;Country
 FL;Florida;USA;State
+FSM;Federated States of Micronesia;FSM;Country
 GA;Georgia;USA;State
+GRD;Grenada;GRD;Country
+GRL;Greenland;DNK;Territory
+GTM;Guatemala;GTM;Country
+GU;Guam;USA;Territory
 HI;Hawaii;USA;State
+HND;Honduras;HND;Country
+HTI;Haiti;HTI;Country
 IA;Iowa;USA;State
 ID;Idaho;USA;State
 IL;Illinois;USA;State
 IN;Indiana;USA;State
+ISL;Iceland;ISL;Country
+JAM;Jamaica;JAM;Country
+JPN;Japan;JPN;Country
+KIR;Kiribati;KIR;Country
+KOR;South Korea;KOR;Country
 KS;Kansas;USA;State
 KY;Kentucky;USA;State
 LA;Louisiana;USA;State
+LCA;St. Lucia;LCA;Country
 MA;Massachusetts;USA;State
 MB;Manitoba;CAN;Province
 MD;Maryland;USA;State
 ME;Maine;USA;State
+MEX-AGS;Aguascalientes;MEX;State
+MEX-BC;Baja California;MEX;State
+MEX-BCS;Baja California Sur;MEX;State
+MEX-CAMP;Campeche;MEX;State
+MEX-CHIS;Chiapas;MEX;State
+MEX-COAH;Coahuila;MEX;State
+MEX-CHIH;Chihuahua;MEX;State
+MEX-COL;Colima;MEX;State
+MEX-DF;Mexico City;MEX;District
+MEX-DGO;Durango;MEX;State
+MEX-EMEX;Estado de Mexico;MEX;State
+MEX-GTO;Guanajuato;MEX;State
+MEX-GRO;Guerrero;MEX;State
+MEX-HGO;Hidalgo;MEX;State
+MEX-JAL;Jalisco;MEX;State
+MEX-MICH;Michoacan;MEX;State
+MEX-MOR;Morelos;MEX;State
+MEX-NAY;Nayarit;MEX;State
+MEX-OAX;Oaxaca;MEX;State
+MEX-PUE;Puebla;MEX;State
+MEX-QRO;Queretaro;MEX;State
+MEX;QROO;Quintana Roo;MEX;State
+MEX-SLP;San Luis Potosi;MEX;State
+MEX-SIN;Sinaloa;MEX;State
+MEX-SON;Sonora;MEX;State
+MEX-TAB;Tabasco;MEX;State
+MEX-TAM;Tamaulipas;MEX;State
+MEX-TLAX;Tlaxcala;MEX;State
+MEX-VER;Veracruz;MEX;State
+MEX-YUC;Yucatan;MEX;State
+MEX-ZAC;Zacatecas;MEX;State
+MHL;Marshall Islands;MHL;Country
 MI;Michigan;USA;State
 MN;Minnesota;USA;State
 MO;Missouri;USA;State
+MP;Northern Mariana Islands;USA;Territory
 MS;Mississippi;USA;State
 MT;Montana;USA;State
+MTQ;Martinique;FRA;Territory
 NB;New Brunswick;CAN;Province
 NC;North Carolina;USA;State
 ND;North Dakota;USA;State
@@ -73,24 +137,38 @@ NS;Nova Scotia;CAN;Province
 NT;Northwest Territories;CAN;Territory
 NV;Nevada;USA;State
 NY;New York;USA;State
+NZL;New Zealand;NZL;Country
 OH;Ohio;USA;State
 OK;Oklahoma;USA;State
 ON;Ontario;CAN;Province
 OR;Oregon;USA;State
 PA;Pennsylvania;USA;State
+PAN;Panama;PAN;Country
 PE;Prince Edward Island;CAN;Province
+PER;Peru;PER;Country
+PRK;North Korea;PRK;Country
 QC;Quebec;CAN;Province
 RI;Rhode Island;USA;State
 SC;South Carolina;USA;State
 SD;South Dakota;USA;State
+SLV;El Salvador;SLV;Country
+SPM;St. Pierre and Miquelon;FRA;Territory
 SK;Saskatchewan;CAN;Province
+SUR;Suriname;SUR;Country
+TCA;Turks and Caicos Islands;GBR;Territory
+TON;Tonga;TON;Country
 TN;Tennessee;USA;State
 TX;Texas;USA;State
 UT;Utah;USA;State
 VA;Virginia;USA;State
+VCT;St. Vincent and the Grenadines;VCT;Country
+VEN;Venezuela;VEN;Country
+VGB;British Virgin Islands;GBR;Territory
+VI;Virgin Islands (U.S.);USA;Territory
 VT;Vermont;USA;State
 WA;Washington;USA;State
 WI;Wisconsin;USA;State
+WSM;Samoa;WSM;Country
 WV;West Virginia;USA;State
 WY;Wyoming;USA;State
 YT;Yukon Territory;CAN;Territory
