@@ -1,0 +1,96 @@
+code;name;region;regionType
+AB;Alberta;CAN;Province
+AK;Alaska;USA;State
+AL;Alabama;USA;State
+AR;Arkansas;USA;State
+ARG;Argentina;ARG;Country
+AS;American Samoa;USA;Territory
+AZ;Arizona;USA;State
+BC;British Columbia;CAN;Province
+BOL;Bolivia;BOL;Country
+BLZ;Belize;BLZ;Country
+BMU;Bermuda;GBR;Territory
+BRA-AC;Acre;BRA;State
+BRA-AL;Alagoas;BRA;State
+BRA-AP;Amapá;BRA;State
+BRA-AM;Amazonas;BRA;State
+BRA-BA;Bahia;BRA;State
+BRA-CE;Ceará;BRA;State
+BRA-DF;Federal District;BRA;District
+BRA-ES;Espírito Santo;BRA;State
+BRA-GO;Goiás;BRA;State
+BRA-MA;Maranhão;BRA;State
+BRA-MT;Mato Grosso;BRA;State
+BRA-MS;Mato Grosso do Sul;BRA;State
+BRA-MG;Minas Gerais;BRA;State
+BRA-PA;Pará;BRA;State
+BRA-PB;Paraíba;BRA;State
+BRA-PR;Paraná;BRA;State
+BRA-PE;Pernambuco;BRA;State
+BRA-PI;Piauí;BRA;State
+BRA-RJ;Rio de Janeiro;BRA;State
+BRA-RN;Rio Grande do Norte;BRA;State
+BRA-RS;Rio Grande do Sul;BRA;State
+BRA-RO;Rondônia;BRA;State
+BRA-RR;Roraima;BRA;State
+BRA-SC;Santa Catarina;BRA;State
+BRA-SP;São Paulo;BRA;State
+BRA-SE;Sergipe;BRA;State
+BRA-TO;Tocantins;BRA;State
+CA;California;USA;State
+CO;Colorado;USA;State
+CT;Connecticut;USA;State
+DC;District of Columbia;USA;District
+DE;Delaware;USA;State
+FL;Florida;USA;State
+GA;Georgia;USA;State
+HI;Hawaii;USA;State
+IA;Iowa;USA;State
+ID;Idaho;USA;State
+IL;Illinois;USA;State
+IN;Indiana;USA;State
+KS;Kansas;USA;State
+KY;Kentucky;USA;State
+LA;Louisiana;USA;State
+MA;Massachusetts;USA;State
+MB;Manitoba;CAN;Province
+MD;Maryland;USA;State
+ME;Maine;USA;State
+MI;Michigan;USA;State
+MN;Minnesota;USA;State
+MO;Missouri;USA;State
+MS;Mississippi;USA;State
+MT;Montana;USA;State
+NB;New Brunswick;CAN;Province
+NC;North Carolina;USA;State
+ND;North Dakota;USA;State
+NE;Nebraska;USA;State
+NH;New Hampshire;USA;State
+NJ;New Jersey;USA;State
+NL;Newfoundland and Labrador;CAN;Province
+NM;New Mexico;USA;State
+NS;Nova Scotia;CAN;Province
+NT;Northwest Territories;CAN;Territory
+NV;Nevada;USA;State
+NY;New York;USA;State
+OH;Ohio;USA;State
+OK;Oklahoma;USA;State
+ON;Ontario;CAN;Province
+OR;Oregon;USA;State
+PA;Pennsylvania;USA;State
+PE;Prince Edward Island;CAN;Province
+QC;Quebec;CAN;Province
+RI;Rhode Island;USA;State
+SC;South Carolina;USA;State
+SD;South Dakota;USA;State
+SK;Saskatchewan;CAN;Province
+TN;Tennessee;USA;State
+TX;Texas;USA;State
+UT;Utah;USA;State
+VA;Virginia;USA;State
+VT;Vermont;USA;State
+WA;Washington;USA;State
+WI;Wisconsin;USA;State
+WV;West Virginia;USA;State
+WY;Wyoming;USA;State
+YT;Yukon Territory;CAN;Territory
