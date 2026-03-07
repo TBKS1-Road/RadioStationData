@@ -1,0 +1,23 @@
+System;Country;Name;Tier;Status
+argam;ARG;Argentina AM stations;1;preview
+ausam;AUS;Australia AM stations;1;preview
+bolam;BOL;Bolivia AM stations;1;preview
+braam;BRA;Brazil AM stations;1;preview
+canam;CAN;Canada AM stations;1;preview
+canaml;CAN;Canada Low-Powered AM stations;2;preview
+colam;COL;Colombia AM stations;1;preview
+chlam;CHL;Chile AM stations;1;preview
+criam;CRI;Costa Rica AM stations;1;preview
+hndam;HND;Honduras AM stations;1;preview
+htiam;HTI;Haiti AM stations;1;preview
+kiram;KIR;Kiribati AM stations;1;preview
+koram;KOR;South Korea AM stations;1;preview
+mexam;MEX;Mexico AM stations;1;preview
+nicam;NIC;Nicaragua AM stations;1;preview
+nzlam;NZL;New Zealand AM stations;1;preview
+panam;PAN;Panama AM stations;1;preview
+peram;PER;Peru AM stations;1;preview
+slvam;SLV;El Salvador AM stations;1;preview
+tonam;TON;Tonga AM stations;1;preview
+usaam;USA;United States AM stations;1;preview
+venam;VEN;Venezuela AM stations;1;preview
