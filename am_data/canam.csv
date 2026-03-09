@@ -1,0 +1,137 @@
+region;freq;call;program;col
+ON;530;CHLO;;Brampton, ON
+SK;540;CBK;;Watrous, SK
+YT;560;CBDN;;Dawson, YT
+BC;570;CKWL;;Williams Lake, BC
+NL;570;CFCB;;Corner Brook, NL
+ON;570;CKGL;;Kitchener, ON
+SK;570;CKSW;;Swift Current, SK
+AB;580;CHAH;;Edmonton, AB
+ON;580;CKWW;;Windsor, ON
+ON;580;CFRA;;Ottawa, ON
+BC;590;CFTK;;Terrace, BC
+MB;590;CFAR;;Flin Flon, MB
+NB;590;CJCW;;Sussex, NB
+NL;590;VOCM;;Saint John's, NL
+ON;590;CJCL;;Toronto, ON
+BC;600;CKSP;;Vancouver, BC
+ON;600;CKAT;;North Bay, ON
+QC;600;CFQR;;Montréal, QC
+SK;600;CJWW;;Saskatoon, SK
+BC;610;CHNL;;Kamloops, BC
+MB;610;CHTM;;Thompson, MB
+ON;610;CKTB;;St. Catharines, ON
+NL;620;CKCM;;Grand Falls, NL
+SK;620;CKRM;;Regina, SK
+ON;630;CFCO;;Chatham, ON
+NL;640;CBN;;Saint John's, NL
+ON;640;CFIQ;;Richmond Hill, ON
+BC;650;CISL;;Richmond, BC
+NL;650;CKGA;;Gander, NL
+SK;650;CKOM;;Saskatoon, SK
+AB;660;CFFR;;Calgary, AB
+MB;680;CJOB;;Winnipeg, MB
+ON;680;CFTR;;Toronto, ON
+BC;690;CBU;;Vancouver, BC
+QC;690;CKGM;;Montréal, QC
+SK;690;CBKF-1;;Gravelbourg, SK
+AB;700;CJLI;;Calgary, AB
+NL;710;CKVO;;Clarenville, NL
+BC;730;CKNW;;Vancouver, BC
+MB;730;CKDM;;Dauphin, MB
+QC;730;CKAC;;Montréal, QC
+AB;740;CBX;;Edmonton, AB
+ON;740;CFZM;;Toronto, ON
+NL;750;CBGY;;Bonavista Bay, NL
+SK;750;CKJH;;Melfort, SK
+BC;760;CFLD;;Burns Lake, BC
+AB;770;CHQR;;Calgary, AB
+BC;800;CKOR;;Penticton, BC
+NL;800;VOWR;;Saint John's, NL
+ON;800;CJBQ;;Belleville, ON
+ON;800;CKLW;;Windsor, ON
+QC;800;CJAD;;Montréal, QC
+SK;800;CHAB;;Moose Jaw, SK
+ON;820;CHAM;;Hamilton, ON
+AB;840;CFCW;;Camrose, AB
+BC;840;CKBX;;100 Mile House, BC
+BC;860;CFPR;;Prince Rupert, BC
+NT;860;CHAK;;Inuvik, NT
+ON;860;CJBC;;Toronto, ON
+SK;860;CBKF-2;;Saskatoon, SK
+BC;870;CFBV;;Smithers, BC
+BC;870;CKIR;;Invermere, BC
+NL;870;CFSX;;Stephenville, NL
+AB;880;CHED;;Edmonton, AB
+BC;890;CJDC;;Dawson Creek, BC
+ON;900;CHIN;;Toronto Island, ON
+SK;900;CKBI;;Prince Albert, SK
+MB;920;CFRY;;Portage La Prairie, MB
+ON;920;CKNX;;Wingham, ON
+AB;930;CJCA;;Edmonton, AB
+NB;930;CFBC;;Saint John, NB
+NL;930;CJYQ;;Saint John's, NL
+QC;940;CFNV;;Montréal, QC
+SK;940;CJGX;;Yorkton, SK
+MB;950;CFAM;;Altona, MB
+AB;960;CFAC;;Calgary, AB
+ON;960;CKNT;;Mississauga, ON
+ON;980;CFPL;;London, ON
+SK;980;CJME;;Regina, SK
+MB;990;CBW;;Winnipeg, MB
+NL;990;CBY;;Corner Brook, NL
+YT;990;CBDB;;Watson Lake, YT
+AB;1010;CBR;;Calgary, AB
+ON;1010;CFRB;;Toronto, ON
+ON;1050;CHUM;;Toronto, ON
+SK;1050;CJNB;;North Battleford, SK
+BC;1070;CFAX;;Victoria, BC
+ON;1070;CHOK;;Sarnia, ON
+BC;1130;CKWX;;Vancouver, BC
+AB;1140;CHRB;;High River, AB
+NS;1140;CBI;;Sydney, NS
+BC;1150;CKFR;;Kelowna, BC
+ON;1150;CKOC;;Hamilton, ON
+SK;1150;CJSL;;Estevan, SK
+SK;1190;CFSL;;Weyburn, SK
+BC;1200;CJRJ;;Vancouver, BC
+ON;1200;CFGO;;Ottawa, ON
+SK;1210;CFYM;;Kindersley, SK
+MB;1220;CJRB;;Boissevain, MB
+ON;1220;CFAJ;;Saint Catharines, ON
+MB;1230;CHFC;;Churchill, MB
+BC;1240;CFNI;;Port Hardy, BC
+BC;1240;CJOR;;Osoyoos, BC
+MB;1240;CJAR;;The Pas, MB
+MB;1250;CHSM;;Steinbach, MB
+NB;1260;CKHJ;;Fredericton, NB
+NS;1270;CJCB;;Sydney, NS
+ON;1280;CJTM;;Toronto, ON
+QC;1280;CFMB;;Montréal, QC
+MB;1290;CJRC;;Winnipeg, MB
+BC;1320;CHMB;;Vancouver, BC
+SK;1330;CJYM;;Rosetown, SK
+BC;1340;CFKC;;Creston, BC
+NS;1350;CKAD;;Middleton, NS
+ON;1350;CIRF;;Brampton, ON
+BC;1400;CIOR;;Princeton, BC
+NL;1400;CBG;;Gander, NL
+QC;1410;CJWI;;Saint-Constant, QC
+ON;1430;CHKT;;Toronto Island, ON
+AB;1440;CKJR;;Wetaskiwin, AB
+NS;1450;CFAB;;Windsor, NS
+ON;1450;CHMO;;Moosonee, ON
+QC;1450;CHOU;;Montréal, QC
+ON;1460;CJOY;;Guelph, ON
+SK;1490;CJSN;;Shaunavon, SK
+ON;1540;CHIN;;Toronto Island, ON
+ON;1550;CBEF;;Windsor, ON
+QC;1570;CJLV;;Laval, QC
+ON;1580;CKDO;;Oshawa, ON
+ON;1610;CHHA;;Toronto, ON
+QC;1610;CHRN;;Montréal, QC
+ON;1650;CINA;;Mississauga, ON
+QC;1650;CKZW;;Montréal, QC
+QC;1670;CJEU;;Gatineau, QC
+ON;1690;CHTO;;Toronto, ON
+QC;1690;CJLO;;Montréal, QC
