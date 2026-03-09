@@ -1,0 +1,4321 @@
+region;freq;call;program;col
+AL;540;WASG;;Daphne, AL
+CA;540;KRXA;;Carmel Valley, CA
+CA;540;KVIP;;Redding, CA
+FL;540;WFLF;;Pine Hills, FL
+GA;540;WDAK;;Columbus, GA
+IA;540;KWMT;;Fort Dodge, IA
+LA;540;KMLB;;Monroe, LA
+MD;540;WGOP;;Pocomoke City, MD
+MN;540;WXYG;;Sauk Rapids, MN
+NC;540;WETC;;Wendell-Zebulon, NC
+NC;540;WRGC;;Sylva, NC
+NM;540;KNMX;;Las Vegas, NM
+NY;540;WBWD;;Islip, NY
+PA;540;WWCS;;Canonsburg, PA
+SC;540;WYNN;;Florence, SC
+TN;540;WKFN;;Clarksville, TN
+TX;540;KDFT;;Ferris, TX
+VA;540;WGTH;;Richlands, VA
+WI;540;WAUK;;Jackson, WI
+AK;550;KTZN;;Anchorage, AK
+AZ;550;KFYI;;Phoenix, AZ
+CA;550;KUZZ;;Bakersfield, CA
+CO;550;KLLV;;Breen, CO
+CO;550;KRAI;;Craig, CO
+FL;550;WAYR;;Fleming Island, FL
+GA;550;WDUN;;Gainesville, GA
+HI;550;KNUI;;Wailuku, HI
+KS;550;KFRM;;Salina, KS
+MO;550;KTRS;;St. Louis, MO
+MT;550;KBOW;;Butte, MT
+NC;550;WAME;;Statesville, NC
+NC;550;WIOZ;;Pinehurst, NC
+ND;550;KFYR;;Bismarck, ND
+NY;550;WGR;;Buffalo, NY
+OH;550;WKRC;;Cincinnati, OH
+OR;550;KOAC;;Corvallis, OR
+PR;550;WPAB;;Ponce, PR
+RI;550;WSJW;;Pawtucket, RI
+TX;550;KCRS;;Midland, TX
+TX;550;KTSA;;San Antonio, TX
+VA;550;WSVA;;Harrisonburg, VA
+VT;550;WDEV;;Waterbury, VT
+WA;550;KARI;;Blaine, WA
+WI;550;WSAU;;Wausau, WI
+AL;560;WOOF;;Dothan, AL
+AZ;560;KBLU;;Yuma, AZ
+CA;560;KZAC;;San Francisco, CA
+CO;560;KLZ;;Denver, CO
+FL;560;WQAM;;Miami, FL
+IL;560;WIND;;Chicago, IL
+KY;560;WMIK;;Middlesboro, KY
+MA;560;WHYN;;Springfield, MA
+MD;560;WFRB;;Frostburg, MD
+ME;560;WGAN;;Portland, ME
+MI;560;WRDT;;Monroe, MI
+MN;560;WEBC;;Duluth, MN
+MO;560;KWTO;;Springfield, MO
+MT;560;KMON;;Great Falls, MT
+NC;560;WGAI;;Elizabeth City, NC
+PA;560;WFIL;;Philadelphia, PA
+SC;560;WVOC;;Columbia, SC
+TN;560;WHBQ;;Memphis, TN
+TN;560;WNSR;;Brentwood, TN
+TX;560;KLVI;;Beaumont, TX
+WA;560;KPQ;;Wenatchee, WA
+WV;560;WJLS;;Beckley, WV
+GU;567;KGUM;;Agana, GU
+AL;570;WAAX;;Gadsden, AL
+CA;570;KCFJ;;Alturas, CA
+CA;570;KLAC;;Los Angeles, CA
+FL;570;WTBN;;Pinellas Park, FL
+HI;570;KUAI;;Eleele, HI
+KY;570;WBMP;;Paducah, KY
+KY;570;WIDS;;Russell Springs, KY
+MD;570;WWRC;;Bethesda, MD
+NC;570;WQDR;;Raleigh, NC
+NC;570;WWNC;;Asheville, NC
+NM;570;KWML;;Las Cruces, NM
+NY;570;WMCA;;New York, NY
+NY;570;WSYR;;Syracuse, NY
+OH;570;WKBN;;Youngstown, OH
+SD;570;WNAX;;Yankton, SD
+TX;570;KLIF;;Dallas, TX
+UT;570;KNRS;;Salt Lake City, UT
+WA;570;KVI;;Seattle, WA
+WI;570;WMAM;;Marinette, WI
+AL;580;WACQ;;Tuskegee, AL
+AZ;580;KSAZ;;Marana, AZ
+CA;580;KMJ;;Fresno, CA
+CO;580;KUBC;;Montrose, CO
+FL;580;WDBO;;Orlando, FL
+GA;580;WGAC;;Augusta, GA
+ID;580;KIDO;;Nampa, ID
+IL;580;WILL;;Urbana, IL
+KS;580;WIBW;;Topeka, KS
+LA;580;KJMJ;;Alexandria, LA
+MA;580;WTAG;;Worcester, MA
+MI;580;WTCM;;Traverse City, MI
+MS;580;WELO;;Tupelo, MS
+NC;580;WKSK;;West Jefferson, NC
+OR;580;KTMT;;Ashland, OR
+PA;580;WHP;;Harrisburg, PA
+PR;580;WKAQ;;San Juan, PR
+SD;580;KZMX;;Hot Springs, SD
+TN;580;WXRH;;Rockwood, TN
+TX;580;KRFE;;Lubbock, TX
+VA;580;WLVA;;Lynchburg, VA
+WI;580;WKTY;;La Crosse, WI
+WV;580;WCHS;;Charleston, WV
+AK;590;KHAR;;Anchorage, AK
+CA;590;KTIE;;San Bernardino, CA
+CO;590;KCSJ;;Pueblo, CO
+FL;590;WAFC;;Clewiston, FL
+GA;590;WDWD;;Atlanta, GA
+HI;590;KSSK;;Honolulu, HI
+KY;590;WVLK;;Lexington, KY
+MA;590;WEZE;;Boston, MA
+MI;590;WJMS;;Ironwood, MI
+MI;590;WKZO;;Kalamazoo, MI
+MT;590;KGLE;;Glendive, MT
+NC;590;WCAB;;Rutherfordton, NC
+NE;590;KXSP;;Omaha, NE
+NY;590;WROW;;Albany, NY
+OR;590;KUGN;;Eugene, OR
+PA;590;WARM;;Scranton, PA
+PA;590;WMBS;;Uniontown, PA
+TN;590;WWLX;;Lawrenceburg, TN
+TX;590;KLBJ;;Austin, TX
+UT;590;KSUB;;Cedar City, UT
+VA;590;WLES;;Lawrenceville, VA
+WA;590;KQNT;;Spokane, WA
+AZ;600;KVNA;;Flagstaff, AZ
+CA;600;KOGO;;San Diego, CA
+CO;600;KCOL;;Wellington, CO
+CT;600;WICC;;Bridgeport, CT
+FL;600;WBOB;;Jacksonville, FL
+IA;600;WMT;;Cedar Rapids, IA
+KY;600;WKYH;;Paintsville, KY
+LA;600;WVOG;;New Orleans, LA
+MD;600;WCAO;;Baltimore, MD
+ME;600;WFST;;Caribou, ME
+MI;600;WCHT;;Escanaba, MI
+MI;600;WSNL;;Flint, MI
+MT;600;KGEZ;;Kalispell, MT
+NC;600;WCVP;;Murphy, NC
+NC;600;WSJS;;Winston-Salem, NC
+ND;600;KSJB;;Jamestown, ND
+OH;600;WRQX;;Salem, OH
+PA;600;WFRM;;Coudersport, PA
+PR;600;WYEL;;Mayag ez, PR
+TN;600;WREC;;Memphis, TN
+TX;600;KROD;;El Paso, TX
+TX;600;KTBB;;Tyler, TX
+WV;600;WVAR;;Richwood, WV
+AL;610;WAGG;;Birmingham, AL
+AR;610;KARV;;Russellville, AR
+CA;610;KAVL;;Lancaster, CA
+CA;610;KEAR;;San Francisco, CA
+CT;610;WSNG;;Torrington, CT
+FL;610;WIOD;;Miami, FL
+FL;610;WVTJ;;Pensacola, FL
+GA;610;WCEH;;Hawkinsville, GA
+GA;610;WPLO;;Grayson, GA
+KY;610;WRUS;;Russellville, KY
+MN;610;KDAL;;Duluth, MN
+MO;610;KFNZ;;Kansas City, MO
+MT;610;KOJM;;Havre, MT
+NC;610;WPZS;;Charlotte, NC
+NE;610;KCSR;;Chadron, NE
+NH;610;WGIR;;Manchester, NH
+NM;610;KNML;;Albuquerque, NM
+OH;610;WTVN;;Columbus, OH
+OR;610;KRTA;;Medford, OR
+PA;610;WTEL;;Philadelphia, PA
+PR;610;WEXS;;Patillas, PR
+TX;610;KILT;;Houston, TX
+UT;610;KVNU;;Logan, UT
+VA;610;WPLI;;Roanoke, VA
+VA;610;WXVA;;Winchester, VA
+WA;610;KONA;;Kennewick-Richland, WA
+AK;620;KGTL;;Homer, AK
+AZ;620;KTAR;;Phoenix, AZ
+CA;620;KIGS;;Hanford, CA
+CA;620;KMJC;;Mount Shasta, CA
+CO;620;KJOL;;Grand Junction, CO
+FL;620;WDAE;;St. Petersburg, FL
+GA;620;WTRP;;La Grange, GA
+IA;620;KMNS;;Sioux City, IA
+KY;620;WAKY;;Louisville, KY
+ME;620;WZON;;Bangor, ME
+MS;620;WJDX;;Jackson, MS
+NC;620;WDNC;;Durham, NC
+NJ;620;WSNR;;Jersey City, NJ
+NY;620;WHEN;;Syracuse, NY
+OR;620;KPOJ;;Portland, OR
+PA;620;WKHB;;Irwin, PA
+SC;620;WFMV;;Cayce, SC
+TN;620;WRJZ;;Knoxville, TN
+TX;620;KTNO;;Plano, TX
+VT;620;WVMT;;Burlington, VT
+WI;620;WTMJ;;Milwaukee, WI
+WV;620;WWNR;;Beckley, WV
+AK;630;KIAM;;Nenana, AK
+AK;630;KJNO;;Juneau, AK
+AL;630;WAVU;;Albertville, AL
+AR;630;KVMA;;Magnolia, AR
+CO;630;KHOW;;Denver, CO
+DC;630;WSBN;;Washington, DC
+GA;630;WNEG;;Toccoa, GA
+GU;630;KICH;;Agana, GU
+ID;630;KFXD;;Boise, ID
+KY;630;WLAP;;Lexington, KY
+MN;630;WREY;;Saint Paul, MN
+MO;630;KYFI;;St. Louis, MO
+NC;630;WAIZ;;Hickory, NC
+NC;630;WMFD;;Wilmington, NC
+NV;630;KPLY;;Reno, NV
+OR;630;KWRO;;Coquille, OR
+PA;630;WEJL;;Scranton, PA
+PR;630;WUNO;;San Juan, PR
+RI;630;WPRO;;Providence, RI
+TX;630;KSLR;;San Antonio, TX
+WA;630;KCIS;;Edmonds, WA
+WA;630;KTRW;;Opportunity, WA
+WV;630;WJAW;;St. Marys, WV
+AK;640;KYUK;;Bethel, AK
+CA;640;KFI;;Los Angeles, CA
+FL;640;WMEN;;Royal Palm Beach, FL
+FL;640;WVLG;;Wildwood, FL
+GA;640;WBIN;;Atlanta, GA
+IA;640;WOI;;Ames, IA
+IL;640;WMFN;;Peotone, IL
+LA;640;KTIB;;Thibodaux, LA
+MA;640;WNNZ;;Westfield, MA
+NC;640;WFNC;;Fayetteville, NC
+NJ;640;WWJZ;;Mount Holly, NJ
+OH;640;WHLO;;Akron, OH
+OK;640;KWPN;;Moore, OK
+TN;640;WCRV;;Collierville, TN
+TN;640;WXSM;;Blountville, TN
+AK;650;KENI;;Anchorage, AK
+CA;650;KSTE;;Rancho Cordova, CA
+HI;650;KPRP;;Honolulu, HI
+MN;650;KDAH;;Nashwauk, MN
+TN;650;WSM;;Nashville, TN
+TX;650;KIKK;;Pasadena, TX
+UT;650;KMTI;;Manti, UT
+WY;650;KGAB;;Orchard Valley, WY
+AK;660;KFAR;;Fairbanks, AK
+AL;660;WXQW;;Fairhope, AL
+AZ;660;KTNN;;Window Rock, AZ
+CA;660;KGSV;;Oildale, CA
+FL;660;WDYZ;;Altamonte Springs, FL
+MI;660;WMIC;;Sandusky, MI
+MN;660;WBHR;;Sauk Rapids, MN
+ND;660;KEYZ;;Williston, ND
+NE;660;KCRO;;Omaha, NE
+NY;660;WFAN;;New York, NY
+OH;660;WXIC;;Waverly, OH
+OR;660;KXOR;;Junction City, OR
+PA;660;WAMO;;Wilkinsburg, PA
+SC;660;WESC;;Greenville, SC
+TX;660;KSKY;;Balch Springs, TX
+VA;660;WLOY;;Rural Retreat, VA
+WA;660;KAPS;;Mount Vernon, WA
+AK;670;KDLG;;Dillingham, AK
+AR;670;KHGZ;;Glenwood, AR
+CA;670;KIRN;;Simi Valley, CA
+CO;670;KLTT;;Commerce City, CO
+FL;670;WWFE;;Miami, FL
+HI;670;KPUA;;Hilo, HI
+ID;670;KBOI;;Boise, ID
+IL;670;WSCR;;Chicago, IL
+NV;670;KMZQ;;Las Vegas, NV
+PA;670;WLUI;;Lewistown, PA
+VA;670;WRJR;;Claremont, VA
+AK;680;KBRW;;Utqiagvik, AK
+CA;680;KNBR;;San Francisco, CA
+FL;680;WGES;;St. Petersburg, FL
+GA;680;WCNN;;North Atlanta, GA
+KY;680;WCTT;;Corbin, KY
+KY;680;WHBE;;Newburg, KY
+MA;680;WRKO;;Boston, MA
+MD;680;WCBM;;Baltimore, MD
+MI;680;WDBC;;Escanaba, MI
+MI;680;WNZK;;Dearborn Heights, MI
+MO;680;KFEQ;;St. Joseph, MO
+MT;680;KKGR;;East Helena, MT
+NC;680;WPTF;;Raleigh, NC
+NM;680;KWKA;;Clovis, NM
+NY;680;WINR;;Binghamton, NY
+PA;680;WISR;;Butler, PA
+PR;680;WAPA;;San Juan, PR
+TN;680;WMFS;;Memphis, TN
+TX;680;KKYX;;San Antonio, TX
+WA;680;KOMW;;Omak, WA
+WA;680;KUTI;;Lacey, WA
+WI;680;WOGO;;Hallie, WI
+WV;680;WKAZ;;Charleston, WV
+AL;690;WJOX;;Birmingham, AL
+AR;690;KAFN;;Benton, AR
+AZ;690;KCEE;;Tucson, AZ
+CO;690;KWRP;;Pueblo, CO
+CT;690;WADS;;Ansonia, CT
+FL;690;WOKV;;Jacksonville, FL
+HI;690;KHNR;;Honolulu, HI
+KS;690;KGGF;;Coffeyville, KS
+LA;690;WQNO;;New Orleans, LA
+MN;690;KFXN;;Minneapolis, MN
+MO;690;KSTL;;St. Louis, MO
+NE;690;KOLT;;Terrytown, NE
+OR;690;KRCO;;Prineville, OR
+PA;690;WPHE;;Phoenixville, PA
+TX;690;KPET;;Lamesa, TX
+TX;690;KTSM;;El Paso, TX
+VA;690;WZAP;;Bristol, VA
+WI;690;WVCY;;Oshkosh, WI
+WV;690;WELD;;Fisher, WV
+AK;700;KBYR;;Anchorage, AK
+AL;700;WARB;;Dothan, AL
+CA;700;KMBX;;Soledad, CA
+MA;700;WQVD;;Orange-Athol, MA
+MD;700;WDMV;;Walkersville, MD
+NC;700;WZOO;;Asheboro, NC
+NM;700;KDAZ;;Albuquerque, NM
+OH;700;WLW;;Cincinnati, OH
+OR;700;KGRV;;Winston, OR
+TX;700;KHSE;;Wylie, TX
+TX;700;KSEV;;Tomball, TX
+UT;700;KALL;;North Salt Lake City, UT
+WA;700;KXLX;;Spokane, WA
+AL;710;WNTM;;Mobile, AL
+CA;710;KFIA;;Carmichael, CA
+CA;710;KSPN;;Los Angeles, CA
+CO;710;KNUS;;Denver, CO
+FL;710;WAQI;;Miami, FL
+GA;710;WROM;;Rome, GA
+GA;710;WUFF;;Eastman, GA
+LA;710;KEEL;;Shreveport, LA
+MO;710;KCMO;;Kansas City, MO
+NC;710;WKOO;;Rose Hill, NC
+ND;710;KXMR;;Bismarck, ND
+NY;710;WOR;;New York, NY
+PR;710;WKJB;;Mayag ez, PR
+SC;710;WPOG;;St. Matthews, SC
+TN;710;WTPR;;Paris, TN
+TN;710;WYJV;;Smyrna, TN
+TX;710;KGNC;;Amarillo, TX
+TX;710;KURV;;Edinburg, TX
+WA;710;KIRO;;Seattle, WA
+WI;710;WDSM;;Superior, WI
+AK;720;KOTZ;;Kotzebue, AK
+FL;720;WRZN;;Hernando, FL
+GA;720;WGST;;Hogansville, GA
+IL;720;WGN;;Chicago, IL
+MA;720;WJIB;;Cambridge, MA
+NC;720;WGCR;;Pisgah Forest, NC
+OR;720;KFIR;;Sweet Home, OR
+PA;720;WHYF;;Shiremanstown, PA
+TX;720;KSAH;;Universal City, TX
+AL;730;WUMP;;Madison, AL
+AR;730;KQPN;;West Memphis, AR
+FL;730;WWTK;;Lake Placid, FL
+GA;730;WSTT;;Thomasville, GA
+KS;730;KLOE;;Goodland, KS
+KY;730;WFMW;;Madisonville, KY
+MA;730;WACE;;Chicopee, MA
+MI;730;WVFN;;East Lansing, MI
+MN;730;KWOA;;Worthington, MN
+MO;730;KWRE;;Warrenton, MO
+MT;730;KYYA;;Billings, MT
+NC;730;WFMC;;Goldsboro, NC
+NC;730;WZGV;;Cramerton, NC
+NY;730;WDOS;;Oneonta, NY
+OH;730;WJYM;;Bowling Green, OH
+PA;730;WAZL;;Nanticoke, PA
+PA;730;WPIT;;Pittsburgh, PA
+SC;730;WLTQ;;Charleston, SC
+TN;730;WLIL;;Lenoir City, TN
+TX;730;KKDA;;Grand Prairie, TX
+UT;730;KSVN;;Ogden, UT
+VA;730;WMNA;;Gretna, VA
+VA;730;WTNT;;Alexandria, VA
+WA;730;KULE;;Ephrata, WA
+WI;730;WJMT;;Merrill, WI
+AL;740;WMSP;;Montgomery, AL
+AZ;740;KIDR;;Phoenix, AZ
+CA;740;KBRT;;Costa Mesa, CA
+CA;740;KCBS;;San Francisco, CA
+CO;740;KVFC;;Cortez, CO
+CO;740;KVOR;;Colorado Springs, CO
+FL;740;WYGM;;Orlando, FL
+HI;740;KCIK;;Kihei, HI
+IA;740;KMZN;;Oskaloosa, IA
+IL;740;WVLN;;Olney, IL
+KY;740;WNOP;;Newport, KY
+NC;740;WPAQ;;Mount Airy, NC
+ND;740;KNFL;;Fargo, ND
+NM;740;KATK;;Carlsbad, NM
+NY;740;WNYH;;Huntington, NY
+OK;740;KRMG;;Tulsa, OK
+PA;740;WJFP;;Chester, PA
+PR;740;WIAC;;San Juan, PR
+TN;740;WCXZ;;Harrogate, TN
+TN;740;WHMT;;Tullahoma, TN
+TX;740;KCMC;;Texarkana, TX
+TX;740;KTRH;;Houston, TX
+VA;740;WMBG;;Williamsburg, VA
+WI;740;WDGY;;Hudson, WI
+WI;740;WRPQ;;Baraboo, WI
+WV;740;WRNR;;Martinsburg, WV
+AK;750;KFQD;;Anchorage, AK
+GA;750;WSB;;Atlanta, GA
+IL;750;WRIK;;Brookport, IL
+IN;750;WNDZ;;Portage, IN
+LA;750;KKNO;;Gretna, LA
+MD;750;WBMD;;Baltimore, MD
+ME;750;WJTO;;Bath, ME
+MO;750;KBNN;;Lebanon, MO
+MT;750;KERR;;Polson, MT
+NC;750;WAUG;;New Hope, NC
+NE;750;KMMJ;;Grand Island, NE
+OK;750;KSEO;;Durant, OK
+OR;750;KXTG;;Portland, OR
+PA;750;WGMF;;Olyphant, PA
+TX;750;KAMA;;El Paso, TX
+UT;750;KOAL;;Price, UT
+AL;760;WURL;;Moody, AL
+AR;760;KMTL;;Sherwood, AR
+AZ;760;KTBA;;Tuba City, AZ
+CA;760;KEJY;;Eureka, CA
+CA;760;KGB;;San Diego, CA
+CO;760;KDFD;;Thornton, CO
+FL;760;WEFL;;Tequesta, FL
+FL;760;WLCC;;Brandon, FL
+HI;760;KGU;;Honolulu, HI
+KS;760;KCCV;;Overland Park, KS
+MA;760;WVNE;;Leicester, MA
+MI;760;WJR;;Detroit, MI
+NC;760;WCIS;;Morganton, NC
+NC;760;WCPS;;Tarboro, NC
+NY;760;WCHP;;Champlain, NY
+PR;760;WORA;;Mayag ez, PR
+TN;760;WENO;;Nashville, TN
+TN;760;WETR;;Knoxville, TN
+TX;760;KTKR;;San Antonio, TX
+AK;770;KCHU;;Valdez, AK
+AL;770;WVNN;;Athens, AL
+CA;770;KCBC;;Manteca, CA
+FL;770;WBCN;;North Fort Myers, FL
+KY;770;WCGW;;Nicholasville, KY
+MN;770;KUOM;;Minneapolis, MN
+MO;770;WEW;;St. Louis, MO
+MT;770;KATL;;Miles City, MT
+NC;770;WLWL;;Rockingham, NC
+NM;770;KKOB;;Albuquerque, NM
+NY;770;WABC;;New York, NY
+NY;770;WTOR;;Youngstown, NY
+OH;770;WAIS;;Buchtel, OH
+PA;770;WKFB;;Jeannette, PA
+TX;770;KCBI;;Garland, TX
+VA;770;WYRV;;Cedar Bluff, VA
+WA;770;KTTH;;Seattle, WA
+AK;780;KNOM;;Nome, AK
+AZ;780;KAZM;;Sedona, AZ
+CO;780;KRNX;;Fountain, CO
+IL;780;WBBM;;Chicago, IL
+ME;780;WXME;;Monticello, ME
+MS;780;WIIN;;Ridgeland, MS
+NC;780;WCKB;;Dunn, NC
+NC;780;WWOL;;Forest City, NC
+NE;780;WJAG;;Norfolk, NE
+NV;780;KKOH;;Reno, NV
+OK;780;KSPI;;Stillwater, OK
+TN;780;WPTN;;Cookeville, TN
+VA;780;WAVA;;Arlington, VA
+AK;790;KCAM;;Glennallen, AK
+AL;790;WTSK;;Tuscaloosa, AL
+AR;790;KURM;;Rogers, AR
+AZ;790;KNST;;Tucson, AZ
+CA;790;KABC;;Los Angeles, CA
+CA;790;KFPT;;Clovis, CA
+FL;790;WAXY;;South Miami, FL
+FL;790;WLBE;;Leesburg-Eustis, FL
+FL;790;WPNN;;Pensacola, FL
+GA;790;WGRA;;Cairo, GA
+GA;790;WQXI;;Atlanta, GA
+GA;790;WSFN;;Brunswick, GA
+ID;790;KSPD;;Boise, ID
+IL;790;WRMS;;Beardstown, IL
+KS;790;KXXX;;Colby, KS
+KY;790;WKRD;;Louisville, KY
+MI;790;WSGW;;Saginaw, MI
+MT;790;KGHL;;Billings, MT
+NC;790;WBLO;;Thomasville, NC
+ND;790;KFGO;;Fargo, ND
+NV;790;KBET;;Winchester, NV
+NY;790;WLSV;;Wellsville, NY
+NY;790;WTNY;;Watertown, NY
+OH;790;WHTH;;Heath, OH
+OR;790;KWIL;;Albany, OR
+PA;790;WAEB;;Allentown, PA
+PA;790;WPIC;;Sharon, PA
+RI;790;WPRV;;Providence, RI
+SC;790;WVCD;;Bamberg-Denmark, SC
+TN;790;WETB;;Johnson City, TN
+TN;790;WMC;;Memphis, TN
+TN;790;WNTC;;Ashland City, TN
+TX;790;KBME;;Houston, TX
+TX;790;KFYO;;Lubbock, TX
+VA;790;WAMM;;Mount Jackson, VA
+VA;790;WNIS;;Norfolk, VA
+WA;790;KGMI;;Bellingham, WA
+WA;790;KJRB;;Spokane, WA
+WI;790;WAYY;;Eau Claire, WI
+AK;800;KINY;;Juneau, AK
+AL;800;WBHP;;Decatur, AL
+AL;800;WMGY;;Montgomery, AL
+AR;800;KAGH;;Crossett, AR
+AR;800;KVOM;;Morrilton, AR
+CA;800;KBFP;;Bakersfield, CA
+CT;800;WLAD;;Danbury, CT
+FL;800;WPLK;;Palatka, FL
+GA;800;WJAT;;Swainsboro, GA
+IA;800;KXIC;;Iowa City, IA
+ID;800;KBRV;;Soda Springs, ID
+IL;800;WKZI;;Casey, IL
+LA;800;WSHO;;New Orleans, LA
+MA;800;WNNW;;Methuen, MA
+MN;800;KQAD;;Luverne, MN
+MN;800;WVAL;;Sauk Rapids, MN
+MO;800;KREI;;Farmington, MO
+NC;800;WKBC;;North Wilkesboro, NC
+NJ;800;WTMR;;Camden, NJ
+OK;800;KQCV;;Oklahoma City, OK
+OR;800;KPDQ;;Portland, OR
+PA;800;WCHA;;Chambersburg, PA
+PA;800;WPEL;;Montrose, PA
+SC;800;WDSC;;Dillon, SC
+SC;800;WPJM;;Greer, SC
+TN;800;WDEH;;Sweetwater, TN
+TX;800;KDDD;;Dumas, TX
+VA;800;WSVS;;Crewe, VA
+WI;800;WPCA;;Waupaca, WI
+WV;800;WVHU;;Huntington, WV
+GU;801;KTWG;;Agana, GU
+AL;810;WCKA;;Jacksonville, AL
+CA;810;KSFO;;San Francisco, CA
+CO;810;KLVZ;;Brighton, CO
+FL;810;WRSO;;Orlovista, FL
+GA;810;WYZI;;Royston, GA
+GA;810;WZYN;;Hahira, GA
+IN;810;WSYW;;Indianapolis, IN
+KY;810;WEKG;;Jackson, KY
+MD;810;WYRE;;Annapolis, MD
+MI;810;WMJH;;Rockford, MI
+MO;810;WHB;;Kansas City, MO
+MS;810;WSJC;;Magee, MS
+NM;810;KSWV;;Santa Fe, NM
+NY;810;WGY;;Duanesburgh, NY
+PA;810;WEDO;;McKeesport, PA
+PR;810;WKVM;;San Juan, PR
+SC;810;WWOS;;St. George, SC
+SD;810;KBHB;;Sturgis, SD
+TN;810;WMGC;;Murfreesboro, TN
+TX;810;KXOI;;Crane, TX
+TX;810;KYTY;;Somerset, TX
+VA;810;WPIN;;Dublin, VA
+WA;810;KTBI;;Ephrata, WA
+WI;810;WJJQ;;Tomahawk, WI
+WI;810;WZRK;;Dodgeville, WI
+AK;820;KCBF;;Fairbanks, AK
+FL;820;WWBA;;Largo, FL
+IL;820;WCPT;;Willow Springs, IL
+IN;820;WSWI;;Evansville, IN
+MD;820;WSHE;;Frederick, MD
+MN;820;WBKK;;Wilton, MN
+NY;820;WNYC;;New York, NY
+NY;820;WPGO;;Horseheads, NY
+OH;820;WVSG;;Columbus, OH
+TX;820;WBAP;;Fort Worth, TX
+UT;820;KUTR;;Taylorsville, UT
+VA;820;WJFN;;Chester, VA
+WA;820;KGNW;;Seattle, WA
+AK;830;KSDP;;Sand Point, AK
+AZ;830;KDRI;;Tucson, AZ
+CA;830;KLAA;;Orange, CA
+CA;830;KNCO;;Grass Valley, CA
+FL;830;WACC;;Hialeah, FL
+HI;830;KHVH;;Honolulu, HI
+LA;830;KGLA;;Norco, LA
+MA;830;WCRN;;Worcester, MA
+MI;830;WMMI;;Shepherd, MI
+MN;830;WCCO;;Minneapolis, MN
+NC;830;WTRU;;Kernersville, NC
+OH;830;WKTX;;Cortland, OH
+PA;830;WEEU;;Reading, PA
+TN;830;WQZQ;;Goodlettsville, TN
+TN;830;WUMY;;Memphis, TN
+WY;830;KUYO;;Evansville, WY
+AK;840;KPEN;;Kenai, AK
+AL;840;WBHY;;Mobile, AL
+CA;840;KMPH;;Modesto, CA
+CT;840;WRYM;;New Britain, CT
+FL;840;WPGS;;Mims, FL
+GA;840;WHGH;;Thomasville, GA
+KY;840;WHAS;;Louisville, KY
+LA;840;KWDF;;Ball, LA
+MD;840;WKDI;;Denton, MD
+NE;840;KTIC;;West Point, NE
+NM;840;KDNF;;Belen, NM
+NV;840;KXNT;;North Las Vegas, NV
+OR;840;KKNX;;Eugene, OR
+OR;840;KSWB;;Seaside, OR
+PA;840;WPCO;;Stroudsburg, PA
+PR;840;WXEW;;Yabucoa, PR
+SC;840;WCEO;;Columbia, SC
+TX;840;KVJY;;Pharr, TX
+VA;840;WKTR;;Earlysville, VA
+WA;840;KMAX;;Colfax, WA
+AK;850;KICY;;Nome, AK
+AL;850;WXJC;;Birmingham, AL
+CO;850;KOA;;Denver, CO
+CT;850;WAXB;;Ridgefield, CT
+FL;850;WFTL;;West Palm Beach, FL
+FL;850;WRUF;;Gainesville, FL
+GA;850;WPTB;;Statesboro, GA
+HI;850;KHLO;;Hilo, HI
+MA;850;WEEI;;Boston, MA
+MI;850;WSMZ;;Muskegon, MI
+MN;850;WQRM;;Duluth, MN
+MO;850;KFUO;;Clayton, MO
+MS;850;WLRC;;Walnut, MS
+NC;850;WKIX;;Raleigh, NC
+NY;850;WYLF;;Penn Yan, NY
+OH;850;WKNR;;Cleveland, OH
+PR;850;WABA;;Aguadilla, PR
+TN;850;WVLZ;;Knoxville, TN
+TX;850;KEYH;;Houston, TX
+TX;850;KJON;;Carrollton, TX
+VA;850;WTAR;;Norfolk, VA
+WA;850;KHHO;;Tacoma, WA
+AR;860;KOSE;;Wilson, AR
+AZ;860;KNAI;;Phoenix, AZ
+CA;860;KTRB;;San Francisco, CA
+FL;860;WGUL;;Dunedin, FL
+GA;860;WDMG;;Douglas, GA
+IA;860;KWPC;;Muscatine, IA
+IN;860;WMRI;;Marion, IN
+KS;860;KKOW;;Pittsburg, KS
+KY;860;WSON;;Henderson, KY
+MA;860;WSBS;;Great Barrington, MA
+MD;860;WFSI;;Baltimore, MD
+MN;860;KNUJ;;New Ulm, MN
+NC;860;WACB;;Taylorsville, NC
+NC;860;WFMO;;Fairmont, NC
+OR;860;KPAM;;Troutdale, OR
+PA;860;WAOB;;Millvale, PA
+PA;860;WWDB;;Philadelphia, PA
+SC;860;WLBG;;Laurens, SC
+TN;860;WTZX;;Sparta, TN
+TX;860;KFST;;Fort Stockton, TX
+TX;860;KONO;;San Antonio, TX
+TX;860;KPAN;;Hereford, TX
+TX;860;KSFA;;Nacogdoches, TX
+UT;860;KKAT;;Salt Lake City, UT
+VA;860;WEVA;;Emporia, VA
+WI;860;WNOV;;Milwaukee, WI
+WV;860;WOAY;;Oak Hill, WV
+CA;870;KRLA;;Glendale, CA
+CO;870;KJMP;;Pierce, CO
+IL;870;WTIM;;Shelbyville, IL
+KY;870;WMTL;;Leitchfield, KY
+LA;870;WWL;;New Orleans, LA
+ME;870;WLVP;;Gorham, ME
+MI;870;WKAR;;East Lansing, MI
+MN;870;KPRM;;Park Rapids, MN
+MO;870;KAAN;;Bethany, MO
+NC;870;WTCG;;Mount Holly, NC
+NV;870;KLSQ;;Whitney, NV
+NY;870;WHCU;;Ithaca, NY
+PR;870;WQBS;;San Juan, PR
+TN;870;WPWT;;Colonial Heights, TN
+TX;870;KFJZ;;Fort Worth, TX
+VA;870;WFLO;;Farmville, VA
+WA;870;KFLD;;Pasco, WA
+AL;880;WAMI;;Opp, AL
+AR;880;KLRG;;Sheridan, AR
+CA;880;KKMC;;Gonzales, CA
+FL;880;WXBN;;Sweetwater, FL
+HI;880;KHCM;;Honolulu, HI
+IL;880;WIJR;;Highland, IL
+MT;880;KJJR;;Whitefish, MT
+NC;880;WPEK;;Fairview, NC
+NC;880;WPIP;;Winston-Salem, NC
+NC;880;WRRZ;;Clinton, NC
+NE;880;KRVN;;Lexington, NE
+NM;880;KHAC;;Tse Bonito, NM
+NY;880;WHSQ;;New York, NY
+OH;880;WRFD;;Columbus-Worthington, OH
+OR;880;KWIP;;Dallas, OR
+TN;880;WMDB;;Nashville, TN
+TX;880;KJOZ;;Conroe, TX
+VA;880;WSLK;;Moneta, VA
+WA;880;KIXI;;Seattle, WA
+WI;880;WMEQ;;Menomonie, WI
+AK;890;KBBI;;Homer, AK
+AL;890;WYAM;;Hartselle, AL
+CA;890;KIHC;;Arroyo Grande, CA
+CA;890;KSAC;;Olivehurst, CA
+CO;890;KCEG;;Fountain, CO
+ID;890;KYWN;;Meridian, ID
+IL;890;WLS;;Chicago, IL
+MA;890;WAMG;;Dedham, MA
+MO;890;KMVG;;Gladstone, MO
+MS;890;WHJA;;Laurel, MS
+NC;890;WHNC;;Henderson, NC
+ND;890;KQLX;;Lisbon, ND
+OK;890;KTLR;;Oklahoma City, OK
+PA;890;WFKJ;;Cashtown, PA
+PR;890;WFAB;;Ceiba, PR
+SC;890;WBAJ;;Blythewood, SC
+TX;890;KTXV;;Mabank, TX
+TX;890;KVOZ;;Del Mar Hills, TX
+UT;890;KDXU;;St. George, UT
+VA;890;WKNV;;Fairlawn, VA
+AK;900;KZPA;;Fort Yukon, AK
+AL;900;WATV;;Birmingham, AL
+AL;900;WGOK;;Mobile, AL
+AL;900;WOZK;;Ozark, AL
+AR;900;KHOZ;;Harrison, AR
+CA;900;KALI;;West Covina, CA
+CA;900;KBIF;;Fresno, CA
+DE;900;WJWL;;Georgetown, DE
+FL;900;WMOP;;Ocala, FL
+FL;900;WSWN;;Belle Glade, FL
+GA;900;WJTH;;Calhoun, GA
+GA;900;WYPZ;;Macon, GA
+HI;900;KMVI;;Kahului, HI
+KS;900;KSGL;;Wichita, KS
+KY;900;WFIA;;Louisville, KY
+KY;900;WLSI;;Pikeville, KY
+MD;900;WACA;;Laurel, MD
+ME;900;WCME;;Brunswick, ME
+MN;900;KTIS;;Minneapolis, MN
+MO;900;KFAL;;Fulton, MO
+NC;900;WAYN;;Rockingham, NC
+NC;900;WIAM;;Williamston, NC
+NC;900;WYCV;;Granite Falls, NC
+NE;900;KJSK;;Columbus, NE
+NH;900;WGHM;;Nashua, NH
+NY;900;WABY;;Watervliet, NY
+NY;900;WBRV;;Boonville, NY
+PA;900;WCPA;;Clearfield, PA
+PA;900;WURD;;Philadelphia, PA
+SC;900;WNMB;;North Myrtle Beach, SC
+TN;900;WKDA;;Lebanon, TN
+TN;900;WKXV;;Knoxville, TN
+TX;900;KCLW;;Hamilton, TX
+TX;900;KFLP;;Floydada, TX
+TX;900;KPYN;;Atlanta, TX
+TX;900;KREH;;Pecan Grove, TX
+VA;900;WCBX;;Bassett, VA
+VA;900;WKDW;;Staunton, VA
+WA;900;KKRT;;Wenatchee, WA
+WI;900;WATK;;Antigo, WI
+WI;900;WDLS;;Wisconsin Dells, WI
+AL;910;WZMG;;Pepperell, AL
+AZ;910;KGME;;Phoenix, AZ
+CA;910;KECR;;El Cajon, CA
+CA;910;KKSF;;Oakland, CA
+CA;910;KOXR;;Oxnard, CA
+CO;910;KPOF;;Denver, CO
+CT;910;WLAT;;New Britain, CT
+FL;910;WTWD;;Plant City, FL
+IA;910;WSUI;;Iowa City, IA
+IL;910;WAKO;;Lawrenceville, IL
+KS;910;KINA;;Salina, KS
+KY;910;WSEK;;Burnside, KY
+LA;910;WUBR;;Baton Rouge, LA
+ME;910;WTOS;;Bangor, ME
+MI;910;WFDF;;Farmington Hills, MI
+MI;910;WGTO;;Cassopolis, MI
+MS;910;WMOG;;Meridian, MS
+MT;910;KBLG;;Billings, MT
+NC;910;WSRP;;Jacksonville, NC
+ND;910;KCJB;;Minot, ND
+NM;910;KBIM;;Roswell, NM
+NY;910;WRKL;;New City, NY
+OH;910;WLTP;;Marietta, OH
+OH;910;WPFB;;Middletown, OH
+OK;910;KVIS;;Miami, OK
+OR;910;KURY;;Brookings, OR
+PA;910;WAAF;;Scranton, PA
+PA;910;WJFA;;Apollo, PA
+PA;910;WSBA;;York, PA
+PR;910;WPRP;;Ponce, PR
+SC;910;WOLI;;Spartanburg, SC
+SC;910;WTMZ;;Dorchester Terr.-Bre, SC
+SD;910;KJJQ;;Volga, SD
+TN;910;WEPG;;South Pittsburg, TN
+TN;910;WJCW;;Johnson City, TN
+TN;910;WMRB;;Columbia, TN
+TX;910;KATH;;Frisco, TX
+TX;910;KNAF;;Fredericksburg, TX
+TX;910;KRIO;;McAllen, TX
+VA;910;WFJX;;Roanoke, VA
+VA;910;WRNL;;Richmond, VA
+WA;910;KMTT;;Vancouver, WA
+WI;910;WBZH;;Hayward, WI
+WI;910;WDOR;;Sturgeon Bay, WI
+AK;920;KSRM;;Soldotna, AK
+AL;920;WGOL;;Russelville, AL
+AL;920;WXKD;;Brantley, AL
+AR;920;KARN;;Little Rock, AR
+CA;920;KKGX;;Palm Springs, CA
+CA;920;KVEC;;San Luis Obispo, CA
+CA;920;KVIN;;Ceres, CA
+CO;920;KLMR;;Lamar, CO
+FL;920;WDMC;;Melbourne, FL
+GA;920;WGKA;;Atlanta, GA
+GA;920;WHJD;;Hazlehurst, GA
+IA;920;KYFR;;Shenandoah, IA
+IL;920;KWUL;;Granite City, IL
+IL;920;WMOK;;Metropolis, IL
+IN;920;WBAA;;West Lafayette, IN
+KY;920;WTCW;;Whitesburg, KY
+LA;920;WBOX;;Bogalusa, LA
+MI;920;WMPL;;Hancock, MI
+MN;920;KDHL;;Faribault, MN
+MN;920;KWAD;;Wadena, MN
+MT;920;KWYS;;West Yellowstone, MT
+NC;920;WPCM;;Burlington-Graham, NC
+NC;920;WPTL;;Canton, NC
+NJ;920;WNJE;;Trenton, NJ
+NM;920;KSVA;;Albuquerque, NM
+NV;920;KIHM;;Reno, NV
+NV;920;KRLV;;Las Vegas, NV
+NY;920;WGHQ;;Kingston, NY
+OH;920;WMNI;;Columbus, OH
+OR;920;KSHO;;Lebanon, OR
+PA;920;WKVA;;Lewistown, PA
+RI;920;WHJJ;;Providence, RI
+SC;920;WYMB;;Manning, SC
+SD;920;KKLS;;Rapid City, SD
+TN;920;WLIV;;Livingston, TN
+TX;920;KQBU;;El Paso, TX
+TX;920;KYST;;Texas City, TX
+UT;920;KVEL;;Vernal, UT
+VA;920;WURA;;Quantico, VA
+WA;920;KBRD;;Olympia, WA
+WA;920;KXLY;;Spokane, WA
+WI;920;WOKY;;Milwaukee, WI
+WV;920;WMMN;;Fairmont, WV
+AK;930;KTKN;;Ketchikan, AK
+AK;930;KNSA;;Unalakleet, AK
+AL;930;WGAD;;Rainbow City, AL
+AZ;930;KAFF;;Flagstaff, AZ
+AZ;930;KAPR;;Douglas, AZ
+CA;930;KHJ;;Los Angeles, CA
+CA;930;KKXX;;Paradise, CA
+CO;930;KIUP;;Durango, CO
+CO;930;KRKY;;Granby, CO
+DE;930;WNCL;;Milford, DE
+FL;930;WFXJ;;Jacksonville, FL
+FL;930;WLSS;;Sarasota, FL
+GA;930;WMGR;;Bainbridge, GA
+ID;930;KSEI;;Pocatello, ID
+IL;930;WKBM;;Sandwich, IL
+IL;930;WTAD;;Quincy, IL
+KY;930;WKCT;;Bowling Green, KY
+MD;930;WFMD;;Frederick, MD
+MI;930;WFAT;;Battle Creek, MI
+MN;930;KKIN;;Aitkin, MN
+MO;930;KWOC;;Poplar Bluff, MO
+MS;930;WSFZ;;Jackson, MS
+MT;930;KMPT;;East Missoula, MT
+NC;930;WDLX;;Washington, NC
+NC;930;WYFQ;;Charlotte, NC
+NE;930;KOGA;;Ogallala, NE
+NH;930;WPKX;;Rochester, NH
+NJ;930;WPAT;;Paterson, NJ
+NM;930;KCCC;;Carlsbad, NM
+NY;930;WBEN;;Buffalo, NY
+NY;930;WIZR;;Johnstown, NY
+OH;930;WNCR;;Elyria, OH
+OK;930;WKY;;Oklahoma City, OK
+OR;930;KAGI;;Grants Pass, OR
+PA;930;WHLM;;Bloomsburg, PA
+PR;930;WYAC;;Cabo Rojo, PR
+SD;930;KSDN;;Aberdeen, SD
+TN;930;WSEV;;Sevierville, TN
+TN;930;WWON;;Waynesboro, TN
+TX;930;KDET;;Center, TX
+TX;930;KLUP;;Terrell Hills, TX
+VA;930;WLLL;;Forest, VA
+WA;930;KYAK;;Yakima, WA
+WI;930;WLBL;;Auburndale, WI
+WV;930;WRVC;;Huntington, WV
+WY;930;KROE;;Sheridan, WY
+AZ;940;KGMS;;Tucson, AZ
+CA;940;KYNO;;Fresno, CA
+CT;940;WINE;;Brookfield, CT
+FL;940;WINZ;;Miami, FL
+FL;940;WLQH;;Chiefland, FL
+GA;940;WMAC;;Macon, GA
+HI;940;KKNE;;Waipahu, HI
+IA;940;KPSZ;;Des Moines, IA
+ID;940;KDIL;;Jerome, ID
+IL;940;WMIX;;Mount Vernon, IL
+KY;940;WCND;;Shelbyville, KY
+LA;940;WYLD;;New Orleans, LA
+MA;940;WQVR;;Webster, MA
+MI;940;WIDG;;St. Ignace, MI
+MO;940;KSWM;;Aurora, MO
+MS;940;WCPC;;Houston, MS
+NC;940;WKYK;;Burnsville, NC
+NE;940;KVSH;;Valentine, NE
+OH;940;WCIT;;Lima, OH
+OR;940;KWBY;;Woodburn, OR
+PA;940;WADV;;Lebanon, PA
+PA;940;WGRP;;Greenville, PA
+PR;940;WIPR;;San Juan, PR
+TN;940;WECO;;Wartburg, TN
+TX;940;KIXZ;;Amarillo, TX
+TX;940;KTFS;;Texarkana, TX
+VA;940;WKGM;;Smithfield, VA
+VA;940;WNRG;;Grundy, VA
+WI;940;WFAW;;Fort Atkinson, WI
+WI;940;WXNK;;Shell Lake, WI
+WY;940;KMER;;Kemmerer, WY
+AL;950;WZKD;;Montgomery, AL
+AR;950;KFSA;;Fort Smith, AR
+AR;950;KXJK;;Forrest City, AR
+CA;950;KAHI;;Auburn, CA
+CO;950;KKSE;;Parker, CO
+FL;950;WORL;;Orlando, FL
+GA;950;WGUN;;Valdosta, GA
+IA;950;KOEL;;Oelwein, IA
+ID;950;KMHR;;Boise, ID
+ID;950;KOZE;;Lewiston, ID
+IL;950;WNTD;;Chicago, IL
+IN;950;WXLW;;Indianapolis, IN
+KS;950;KJRG;;Newton, KS
+KY;950;WYWY;;Barbourville, KY
+MA;950;WROL;;Boston, MA
+MD;950;WCTN;;Potomac-Cabin John, MD
+MI;950;WWJ;;Detroit, MI
+MN;950;KTNF;;St. Louis Park, MN
+MO;950;KWOS;;Jefferson City, MO
+MS;950;WHSY;;Hattiesburg, MS
+MT;950;KCAP;;Helena, MT
+NC;950;WPET;;Greensboro, NC
+NM;950;KDCE;;Espanola, NM
+NM;950;KNFT;;Bayard, NM
+NY;950;WHVW;;Hyde Park, NY
+NY;950;WIBX;;Utica, NY
+NY;950;WROC;;Rochester, NY
+OH;950;WIXZ;;Steubenville, OH
+OR;950;KTBR;;Roseburg, OR
+PA;950;WKDN;;Philadelphia, PA
+SC;950;WCDC;;Moncks Corner, SC
+SC;950;WORD;;Spartanburg, SC
+SD;950;KWAT;;Watertown, SD
+TN;950;WAKM;;Franklin, TN
+TX;950;KPRC;;Houston, TX
+TX;950;KTTU;;Lubbock, TX
+VA;950;WXGI;;Richmond, VA
+WA;950;KJR;;Seattle, WA
+WI;950;WCLB;;Sheboygan, WI
+WI;950;WERL;;Eagle River, WI
+WV;950;WBES;;Charleston, WV
+AK;960;KABN;;Kenai, AK
+AL;960;WERC;;Birmingham, AL
+AL;960;WLPR;;Prichard, AL
+AZ;960;KKNT;;Phoenix, AZ
+CA;960;KIXW;;Apple Valley, CA
+CA;960;KNEW;;Oakland, CA
+CT;960;WELI;;New Haven, CT
+FL;960;WGRO;;Lake City, FL
+FL;960;WSVU;;North Palm Beach, FL
+GA;960;WJYZ;;Albany, GA
+GA;960;WRFC;;Athens, GA
+IA;960;KMA;;Shenandoah, IA
+ID;960;KSRA;;Salmon, ID
+IL;960;WDLM;;East Moline, IL
+IN;960;WSBT;;South Bend, IN
+KY;960;WPRT;;Prestonsburg, KY
+LA;960;KROF;;Abbeville, LA
+MA;960;WFGL;;Fitchburg, MA
+MD;960;WTGM;;Salisbury, MD
+MI;960;WHAK;;Rogers City, MI
+MN;960;KLTF;;Little Falls, MN
+MO;960;KZIM;;Cape Girardeau, MO
+MS;960;WABG;;Greenwood, MS
+MT;960;KFLN;;Baker, MT
+NC;960;WCRU;;Dallas, NC
+NC;960;WRNS;;Kinston, NC
+NE;960;KNEB;;Scottsbluff, NE
+NM;960;KNDN;;Farmington, NM
+NY;960;WEAV;;Plattsburgh, NY
+OH;960;WKVX;;Wooster, OH
+OK;960;KGWA;;Enid, OK
+OR;960;KLAD;;Klamath Falls, OR
+PA;960;WATS;;Sayre, PA
+PA;960;WHYL;;Carlisle, PA
+PR;960;WDNO;;Quebradillas, PR
+TN;960;WBMC;;McMinnville, TN
+TN;960;WQLA;;La Follette, TN
+TX;960;KGKL;;San Angelo, TX
+TX;960;KIMP;;Mount Pleasant, TX
+UT;960;KOVO;;Provo, UT
+VA;960;WFIR;;Roanoka, VA
+WA;960;KALE;;Richland, WA
+WI;960;WTCH;;Shawano, WI
+AK;970;KFBX;;Fairbanks, AK
+AL;970;WTBF;;Troy, AL
+AR;970;KNEA;;Jonesboro, AR
+AZ;970;KVWM;;Show Low, AZ
+CA;970;KESP;;Modesto, CA
+CA;970;KHTY;;Bakersfield, CA
+CA;970;KNWZ;;Coachella, CA
+CO;970;KFEL;;Pueblo, CO
+FL;970;WFLA;;Tampa, FL
+FL;970;WNNR;;Jacksonville, FL
+GA;970;WNIV;;Atlanta, GA
+GA;970;WVOP;;Vidalia, GA
+ID;970;KKRK;;Rupert, ID
+IL;970;WMAY;;Springfield, IL
+KY;970;WFSR;;Harlan, KY
+KY;970;WGTK;;Louisville, KY
+LA;970;KSYL;;Alexandria, LA
+MA;970;WESO;;Southbridge, MA
+MD;970;WAMD;;Aberdeen, MD
+ME;970;WZAN;;Portland, ME
+MI;970;WKHM;;Jackson, MI
+MI;970;WZAM;;Ishpeming, MI
+MN;970;KQAQ;;Austin, MN
+MS;970;WFQY;;Brandon, MS
+MT;970;KBUL;;Billings, MT
+NC;970;WEZZ;;Canton, NC
+NC;970;WRCS;;Ahoskie, NC
+ND;970;WDAY;;Fargo, ND
+NE;970;KJLT;;North Platte, NE
+NJ;970;WNYM;;Hackensack, NJ
+NV;970;KNIH;;Paradise, NV
+NY;970;WDCZ;;Buffalo, NY
+OH;970;WATH;;Athens, OH
+OH;970;WFUN;;Ashtabula, OH
+OK;970;KCFO;;Tulsa, OK
+OR;970;KUFO;;Portland, OR
+PA;970;WBGG;;Pittsburgh, PA
+PA;970;WBLF;;Bellefonte, PA
+SC;970;WWRK;;Florence, SC
+TN;970;WDNT;;Spring City, TN
+TX;970;KHVN;;Fort Worth, TX
+TX;970;KIXL;;Del Valle, TX
+VA;970;WKCI;;Waynesboro, VA
+VA;970;WMPW;;Danville, VA
+VI;970;WSTX;;Christiansted, VI
+WA;970;KTTO;;Spokane, WA
+WI;970;WDUL;;Superior, WI
+WI;970;WHA;;Madison, WI
+AR;980;KCAB;;Dardanelle, AR
+AZ;980;KNTR;;Lake Havasu City, AZ
+CA;980;KEYQ;;Fresno, CA
+CA;980;KFWB;;Los Angeles, CA
+CA;980;KWSW;;Eureka, CA
+CO;980;KGLN;;Glenwood Springs, CO
+CT;980;WXLM;;Groton, CT
+DC;980;WTEM;;Washington, DC
+FL;980;WDVH;;Gainesville, FL
+FL;980;WRNE;;Gulf Breeze, FL
+FL;980;WTPA;;Pompano Beach, FL
+GA;980;WDDO;;Perry, GA
+GA;980;WDYN;;Rossville, GA
+GA;980;WKLY;;Hartwell, GA
+ID;980;KSPZ;;Ammon, ID
+IL;980;KSGM;;Chester, IL
+IL;980;WITY;;Danville, IL
+LA;980;KOKA;;Shreveport, LA
+MA;980;WCAP;;Lowell, MA
+MI;980;WAKV;;Otsego, MI
+MN;980;KKMS;;Richfield, MN
+MO;980;KMBZ;;Kansas City, MO
+NC;980;WAAV;;Leland, NC
+NC;980;WTOB;;Winston-Salem, NC
+NM;980;KMIN;;Grants, NM
+NV;980;KVLV;;Fallon, NV
+NY;980;WOFX;;Troy, NY
+OH;980;WONE;;Dayton, OH
+PA;980;WILK;;Wilkes-Barre, PA
+SC;980;WAZS;;Summerville, SC
+SC;980;WULR;;York, SC
+SD;980;KDSJ;;Deadwood, SD
+TN;980;WYFN;;Nashville, TN
+TX;980;KQUE;;Rosenburg, TX
+UT;980;KSVC;;Richfield, UT
+VA;980;WJYK;;Chase City, VA
+VA;980;WWTB;;Bristol, VA
+WA;980;KTCR;;Selah, WA
+WI;980;WCUB;;Two Rivers, WI
+WI;980;WPFP;;Park Falls, WI
+WI;980;WPRE;;Prairie du Chien, WI
+WV;980;WHAW;;Lost Creek, WV
+AL;990;WEIS;;Centre, AL
+AL;990;WLDX;;Fayette, AL
+AZ;990;KTKT;;Tucson, AZ
+CA;990;KATD;;Pittsburg, CA
+CA;990;KTMS;;Santa Barbara, CA
+CO;990;KRKS;;Denver, CO
+CT;990;WNTY;;Southington, CT
+FL;990;WMYM;;Kendall, FL
+FL;990;WTLN;;Orlando, FL
+GA;990;WISK;;Lawrenceville, GA
+HI;990;KIKI;;Honolulu, HI
+IA;990;KAYL;;Storm Lake, IA
+IN;990;WITZ;;Jasper, IN
+KS;990;KRSL;;Russell, KS
+KY;990;WWKY;;Winchester, KY
+LA;990;WGSO;;New Orleans, LA
+MI;990;WDEO;;Ypsilanti, MI
+MO;990;KRMO;;Cassville, MO
+MS;990;WABO;;Waynesboro, MS
+NC;990;WBTE;;Windsor, NC
+NC;990;WEEB;;Southern Pines, NC
+NM;990;KSVP;;Artesia, NM
+NY;990;WDCX;;Rochester, NY
+OH;990;WTIG;;Massillon, OH
+OR;990;KTHH;;Albany, OR
+PA;990;WGGI;;Somerset, PA
+PA;990;WNTP;;Philadelphia, PA
+PR;990;WPRA;;Mayag ez, PR
+TN;990;KWAM;;Memphis, TN
+TN;990;WNML;;Knoxville, TN
+TX;990;KAML;;Karnes City, TX
+TX;990;KFCD;;Farmersville, TX
+TX;990;KZZB;;Beaumont, TX
+VA;990;WNRV;;Narrows-Pearisburg, VA
+VA;990;WREJ;;Richmond, VA
+AL;1000;WDJL;;Huntsville, AL
+AL;1000;WJNZ;;Robertsdale, AL
+AL;1000;WKLF;;Clanton, AL
+AZ;1000;KFLG;;Bullhead City, AZ
+CA;1000;KCEO;;Vista, CA
+FL;1000;WJBW;;Jupiter, FL
+FL;1000;WYBT;;Blountstown, FL
+IL;1000;WMVP;;Chicago, IL
+MA;1000;WCMX;;Leominster, MA
+MS;1000;WXTN;;Benton, MS
+NC;1000;WRTG;;Garner, NC
+NM;1000;KKIM;;Albuquerque, NM
+NY;1000;WLNL;;Horseheads, NY
+OH;1000;WABQ;;Parma, OH
+OK;1000;KTOK;;Oklahoma City, OK
+PA;1000;WIOO;;Carlisle, PA
+SD;1000;KSOO;;Sioux Falls, SD
+TN;1000;WHNY;;Paris, TN
+TX;1000;KBIB;;Marion, TX
+TX;1000;KSTA;;Coleman, TX
+VA;1000;WGVY;;Altavista, VA
+VI;1000;WVWI;;Charlotte Amalie, VI
+WA;1000;KNWN;;Seattle, WA
+AZ;1010;KXXT;;Tolleson, AZ
+CA;1010;KCHJ;;Delano, CA
+CA;1010;KIQI;;San Francisco, CA
+CO;1010;KSIR;;Brush, CO
+FL;1010;WJBR;;Seffner, FL
+FL;1010;WJXL;;Jacksonville Beach, FL
+GA;1010;WXKG;;Atlanta, GA
+IA;1010;KRNI;;Mason City, IA
+IN;1010;WCSI;;Columbus, IN
+KS;1010;KIND;;Independence, KS
+LA;1010;WCKW;;Garyville, LA
+MD;1010;WOLB;;Baltimore, MD
+MN;1010;WMIN;;Sauk Rapids, MN
+MO;1010;KCHI;;Chillicothe, MO
+MO;1010;KDHX;;St. Louis, MO
+MS;1010;WMOX;;Meridian, MS
+NC;1010;WKJW;;Black Mountain, NC
+NC;1010;WSPC;;Albemarle, NC
+NC;1010;WWMC;;Kinston, NC
+NH;1010;WCNL;;Newport, NH
+NY;1010;WINS;;New York, NY
+OH;1010;WIOI;;New Boston, OH
+OR;1010;KOOR;;Milwaukie, OR
+TN;1010;WHIN;;Gallatin, TN
+TN;1010;WORM;;Savannah, TN
+TX;1010;KBBW;;Waco, TX
+TX;1010;KDJW;;Amarillo, TX
+TX;1010;KLAT;;Houston, TX
+UT;1010;KIHU;;Tooele, UT
+VA;1010;WUKZ;;Marion, VA
+WI;1010;WPCN;;Stevens Point, WI
+WV;1010;WCST;;Berkeley Springs, WV
+AK;1020;KVNT;;Eagle River, AK
+CA;1020;KTNQ;;Los Angeles, CA
+CT;1020;WHDD;;Sharon, CT
+FL;1020;WLVJ;;Boynton Beach, FL
+IL;1020;WCIL;;Carbondale, IL
+IL;1020;WPEO;;Peoria, IL
+MN;1020;KJJK;;Fergus Falls, MN
+NE;1020;KMMQ;;Plattsmouth, NE
+NJ;1020;WWAC;;Ocean City, NJ
+NM;1020;KCKN;;Roswell, NM
+OK;1020;KOKP;;Perry, OK
+PA;1020;KDKA;;Pittsburgh, PA
+PR;1020;WOQI;;Adjuntas, PR
+SC;1020;WRIX;;Homeland Park, SC
+WA;1020;KDYK;;Union Gap, WA
+WA;1020;KWIQ;;Moses Lake North, WA
+AR;1030;KFAY;;Farmington, AR
+AZ;1030;KVOI;;Cortaro, AZ
+CA;1030;KJDJ;;San Luis Obispo, CA
+FL;1030;WONQ;;Longwood, FL
+GA;1030;WEBS;;Calhoun, GA
+IL;1030;WNVR;;Vernon Hills, IL
+KS;1030;KBUF;;Holcomb, KS
+MA;1030;WBZ;;Boston, MA
+MD;1030;WWGB;;Indian Head, MD
+MI;1030;WKEG;;Sterling Heights, MI
+MN;1030;WCTS;;Maplewood, MN
+MO;1030;KCWJ;;Blue Springs, MO
+NC;1030;WDRU;;Creedmoor, NC
+NC;1030;WNOW;;Mint Hill, NC
+TN;1030;WGSF;;Memphis, TN
+TN;1030;WYCZ;;White Bluff, TN
+TX;1030;KCTA;;Corpus Christi, TX
+VA;1030;WGFC;;Floyd, VA
+WA;1030;KMAS;;Shelton, WA
+WV;1030;WTHQ;;Point Pleasant, WV
+WY;1030;KTWO;;Casper, WY
+CA;1040;KURS;;San Diego, CA
+CO;1040;KPPF;;Monument, CO
+FL;1040;WHBO;;Pinellas Park, FL
+FL;1040;WURN;;Miami, FL
+GA;1040;WPBS;;Conyers, GA
+HI;1040;KLHT;;Honolulu, HI
+IA;1040;WHO;;Des Moines, IA
+KY;1040;WLCR;;Mt Washington, KY
+NC;1040;WSGH;;Lewisville, NC
+NJ;1040;WCHR;;Flemington, NJ
+NY;1040;WYSL;;Avon, NY
+OR;1040;KXPD;;Tigard, OR
+PR;1040;WZNA;;Moca, PR
+TN;1040;WJBE;;Powell, TN
+TX;1040;KGGR;;Dallas, TX
+AL;1050;WFXO;;Alexander City, AL
+AL;1050;WWIC;;Scottsboro, AL
+AR;1050;KJBN;;Little Rock, AR
+CA;1050;KCAA;;Loma Linda, CA
+CA;1050;KJPG;;Frazier Park, CA
+CA;1050;KTCT;;San Mateo, CA
+FL;1050;WJCM;;Sebring, FL
+FL;1050;WJSB;;Crestview, FL
+FL;1050;WROS;;Jacksonville, FL
+GA;1050;WFAM;;Augusta, GA
+GA;1050;WMNZ;;Montezuma, GA
+IL;1050;WDZ;;Decatur, IL
+IN;1050;WTCA;;Plymouth, IN
+KY;1050;WNES;;Central City, KY
+LA;1050;KVPI;;Ville Platte, LA
+MD;1050;WBQH;;Silver Spring, MD
+MD;1050;WMSG;;Oakland, MD
+MI;1050;WTKA;;Ann Arbor, MI
+MN;1050;KLOH;;Pipestone, MN
+MO;1050;KMIS;;Portageville, MO
+MO;1050;KSIS;;Sedalia, MO
+MS;1050;WTWG;;Columbus, MS
+MT;1050;KMTA;;Miles City, MT
+NC;1050;WFSC;;Franklin, NC
+NC;1050;WLON;;Lincolnton, NC
+NC;1050;WWGP;;Sanford, NC
+NM;1050;KTBL;;Los Ranchos, NM
+NY;1050;WEPN;;New York, NY
+OH;1050;WGRI;;Cincinnati, OH
+OK;1050;KGTO;;Tulsa, OK
+OK;1050;KKRX;;Lawton, OK
+OR;1050;KORE;;Springfield-Eugene, OR
+PA;1050;WBUT;;Butler, PA
+PA;1050;WLYC;;Williamsport, PA
+SC;1050;WAYS;;Conway, SC
+TN;1050;WSMT;;Sparta, TN
+TX;1050;KCHN;;Brookshire, TX
+VA;1050;WBRG;;Lynchburg, VA
+VA;1050;WVXX;;Norfolk, VA
+WA;1050;KBLE;;Seattle, WA
+WA;1050;KSPO;;Dishman, WA
+WI;1050;WDVM;;Eau Claire, WI
+WI;1050;WJOK;;Kaukauna, WI
+WI;1050;WLIP;;Kenosha, WI
+WV;1050;WAMN;;Green Valley, WV
+WV;1050;WLYQ;;Parkersburg, WV
+AZ;1060;KDUS;;Tempe, AZ
+CA;1060;KTNS;;Oakhurst, CA
+CO;1060;KRCN;;Longmont, CO
+FL;1060;WIXC;;Titusville, FL
+GA;1060;WKNG;;Tallapoosa, GA
+HI;1060;KIPA;;Hilo, HI
+ID;1060;KBGN;;Caldwell, ID
+IL;1060;WMCL;;McLeansboro, IL
+IL;1060;WRHL;;Rochelle, IL
+KY;1060;WJKY;;Jamestown, KY
+MA;1060;WQOM;;Natick, MA
+MI;1060;WHFB;;Benton Harbor, MI
+MN;1060;KFIL;;Preston, MN
+MO;1060;KBFL;;Springfield, MO
+MS;1060;WKMQ;;Tupelo, MS
+NC;1060;WCOK;;Sparta, NC
+NC;1060;WXNC;;Monroe, NC
+NE;1060;KNLV;;Ord, NE
+NV;1060;KFOY;;Sparks, NV
+NV;1060;KKVV;;Las Vegas, NV
+OH;1060;WILB;;Canton, OH
+PA;1060;KYW;;Philadelphia, PA
+PR;1060;WCGB;;Juana Diaz, PR
+SD;1060;KGFX;;Pierre, SD
+TN;1060;WNPC;;Newport, TN
+TN;1060;WQMV;;Waverly, TN
+TX;1060;KTSN;;Lockhart, TX
+UT;1060;KDYL;;South Salt Lake, UT
+AL;1070;WAPI;;Birmingham, AL
+CA;1070;KNX;;Los Angeles, CA
+FL;1070;WFRF;;Tallahassee, FL
+FL;1070;WNVY;;Cantonment, FL
+FL;1070;WWCD;;Solana, FL
+IA;1070;KILR;;Estherville, IA
+IN;1070;WFNI;;Indianapolis, IN
+KS;1070;KFTI;;Wichita, KS
+KY;1070;WEKT;;Elkton, KY
+LA;1070;KBCL;;Bossier City, LA
+MN;1070;KSKK;;Verndale, MN
+MO;1070;KHMO;;Hannibal, MO
+MT;1070;KATQ;;Plentywood, MT
+NC;1070;WGOS;;High Point, NC
+NC;1070;WNCT;;Greenville, NC
+NJ;1070;WKMB;;Stirling, NJ
+NY;1070;WJMP;;Plattsburgh, NY
+NY;1070;WZUN;;Sandy Creek-Pulaski, NY
+PA;1070;WKOK;;Sunbury, PA
+PR;1070;WMIA;;Arecibo, PR
+SC;1070;WCSZ;;Sans Souci, SC
+TN;1070;WDIA;;Memphis, TN
+TN;1070;WFLI;;Lookout Mountain, TN
+TX;1070;KNTH;;Houston, TX
+TX;1070;KOPY;;Alice, TX
+TX;1070;KWEL;;Midland, TX
+VA;1070;WINA;;Charlottesville, VA
+WI;1070;WTSO;;Madison, WI
+WV;1070;WBKW;;Beckley, WV
+AK;1080;KOAN;;Anchorage, AK
+AL;1080;WKAC;;Athens, AL
+AZ;1080;KGVY;;Green Valley, AZ
+CA;1080;KSCO;;Santa Cruz, CA
+CT;1080;WTIC;;Hartford, CT
+FL;1080;WHOO;;Kissimmee, FL
+FL;1080;WQOS;;Coral Gables, FL
+GA;1080;WFTD;;Marietta, GA
+IA;1080;KOAK;;Red Oak, IA
+ID;1080;KVNI;;Coeur D'Alene, ID
+IL;1080;WNWI;;Oak Lawn, IL
+IL;1080;WRYT;;Edwardsville, IL
+KY;1080;WKJK;;Louisville, KY
+KY;1080;WOKT;;Cannonsburg, KY
+MI;1080;WOAP;;Owosso, MI
+MN;1080;KYMN;;Northfield, MN
+MO;1080;KYMO;;East Prairie, MO
+NC;1080;WKGX;;Lenoir, NC
+NC;1080;WWDR;;Murfreesboro, NC
+ND;1080;KNDK;;Langdon, ND
+NM;1080;KEMR;;Moriarty, NM
+NY;1080;WUFO;;Amherst, NY
+OR;1080;KRSK;;Portland, OR
+PA;1080;WWNL;;Pittsburgh, PA
+PR;1080;WLEY;;Cayey, PR
+SC;1080;WALD;;Johnsonville, SC
+TX;1080;KRLD;;Dallas, TX
+UT;1080;KSLL;;Price, UT
+VA;1080;WKBY;;Chatham, VA
+AL;1090;WWGC;;Albertville, AL
+AR;1090;KAAY;;Little Rock, AR
+CO;1090;KMXA;;Aurora, CO
+GA;1090;WBAF;;Barnesville, GA
+IA;1090;KNWS;;Waterloo, IA
+IA;1090;KSOU;;Sioux Center, IA
+IL;1090;WCRA;;Effingham, IL
+IN;1090;WFCV;;Fort Wayne, IN
+MA;1090;WILD;;Boston, MA
+MD;1090;WBAL;;Baltimore, MD
+MI;1090;WCAR;;Livonia, MI
+MI;1090;WKBZ;;Muskegon, MI
+MO;1090;KEXS;;Excelsior Springs, MO
+MT;1090;KBOZ;;Bozeman, MT
+NC;1090;WKTE;;King, NC
+NC;1090;WTSB;;Selma, NC
+ND;1090;KTGO;;Tioga, ND
+OH;1090;WKFI;;Wilmington, OH
+PR;1090;WSOL;;San German, PR
+SC;1090;WCZZ;;Greenwood, SC
+TN;1090;WENR;;Englewood, TN
+TN;1090;WHGG;;Kingsport, TN
+TN;1090;WTNK;;Hartsville, TN
+TX;1090;KVOP;;Plainview, TX
+WA;1090;KPTR;;Seattle, WA
+WI;1090;WAQE;;Rice Lake, WI
+AZ;1100;KFNX;;Cave Creek, AZ
+CA;1100;KAFY;;Bakersfield, CA
+CA;1100;KFAX;;San Francisco, CA
+CO;1100;KNZZ;;Grand Junction, CO
+GA;1100;WCGA;;Woodbine, GA
+GA;1100;WJZA;;Hapeville, GA
+MN;1100;WZFG;;Dilworth, MN
+MO;1100;KJCW;;Webb City, MO
+NM;1100;KRKE;;Peralta, NM
+NV;1100;KWWN;;Las Vegas, NV
+NY;1100;WHLI;;Hempstead, NY
+OH;1100;WTAM;;Cleveland, OH
+PA;1100;WGPA;;Bethlehem, PA
+TN;1100;WSGI;;Springfield, TN
+TX;1100;KDRY;;Alamo Heights, TX
+VT;1100;WTWN;;Wells River, VT
+WI;1100;WISS;;Berlin, WI
+AK;1110;KAGV;;Big Lake, AK
+AL;1110;WBIB;;Centreville, AL
+AL;1110;WTOF;;Bay Minette, AL
+AR;1110;KGFL;;Clinton, AR
+CA;1110;KLIB;;Roseville, CA
+CA;1110;KWVE;;Pasadena, CA
+FL;1110;WTIS;;Tampa, FL
+HI;1110;KAOI;;Kihei, HI
+IL;1110;WXES;;Chicago, IL
+KY;1110;WCBR;;Richmond, KY
+KY;1110;WKDZ;;Cadiz, KY
+LA;1110;KTTP;;Pineville, LA
+LA;1110;WOMN;;Franklinton, LA
+MI;1110;WUNN;;Mason, MI
+MI;1110;WWMN;;Petoskey, MI
+MS;1110;WKRA;;Holly Springs, MS
+NC;1110;WBT;;Charlotte, NC
+NE;1110;KFAB;;Omaha, NE
+NH;1110;WMVX;;Salem, NH
+NM;1110;KEJL;;Humble City, NM
+NY;1110;WSFW;;Seneca Falls, NY
+NY;1110;WTBQ;;Warwick, NY
+OH;1110;WGNZ;;Fairborn, OH
+OR;1110;KBND;;Bend, OR
+PA;1110;WJSM;;Martinsburg, PA
+PR;1110;WVJP;;Caguas, PR
+RI;1110;WPMZ;;East Providence, RI
+TN;1110;WSLV;;Ardmore, TN
+TN;1110;WUAT;;Pikeville, TN
+TX;1110;KTEK;;Alvin, TX
+TX;1110;KVTT;;Mineral Wells, TX
+VA;1110;WTJZ;;Norfolk, VA
+WA;1110;KRPA;;Oak Harbor, WA
+WV;1110;WYMW;;Hurricane, WV
+AL;1120;WHOG;;Hobson City, AL
+CA;1120;KZSJ;;San Martin, CA
+CO;1120;KCRN;;Limon, CO
+CT;1120;WPRX;;Bristol, CT
+DC;1120;WUST;;Washington, DC
+GA;1120;WXJO;;Douglasville, GA
+MA;1120;WBNW;;Concord, MA
+MO;1120;KMOX;;Saint Louis, MO
+MS;1120;WTWZ;;Clinton, MS
+NC;1120;WSME;;Camp Lejeune, NC
+NY;1120;WBBF;;Buffalo, NY
+NY;1120;WKAJ;;Saint Johnsville, NY
+OK;1120;KETU;;Catoosa, OK
+OR;1120;KPNW;;Eugene, OR
+PA;1120;WKQW;;Oil City, PA
+PR;1120;WMSW;;Hatillo, PR
+TN;1120;WTLT;;Maryville, TN
+TX;1120;KTXW;;Manor, TX
+UT;1120;KANN;;Roy, UT
+AL;1130;WALQ;;Carrville, AL
+AR;1130;KAAB;;Batesville, AR
+AZ;1130;KQNA;;Prescott Valley, AZ
+CA;1130;KRDU;;Dinuba, CA
+CA;1130;KSDO;;San Diego, CA
+FL;1130;WWBF;;Bartow, FL
+GA;1130;WLBA;;Gainesville, GA
+HI;1130;KPHI;;Honolulu, HI
+IA;1130;KILJ;;Mount Pleasant, IA
+IN;1130;WAMB;;Brazil, IN
+KS;1130;KLEY;;Wellington, KS
+KY;1130;WBZB;;Murray, KY
+LA;1130;KWKH;;Shreveport, LA
+MI;1130;WDFN;;Detroit, MI
+MN;1130;KTLK;;Minneapolis, MN
+MS;1130;WQFX;;Gulfport, MS
+NC;1130;WCLW;;Eden, NC
+NC;1130;WPYB;;Benson, NC
+ND;1130;KBMR;;Bismarck, ND
+NY;1130;WBBR;;New York, NY
+OH;1130;WEDI;;Eaton, OH
+OR;1130;KQRR;;Mount Angel, OR
+PR;1130;WOIZ;;Guayanilla, PR
+SC;1130;WEAF;;Camden, SC
+SC;1130;WHHW;;Hilton Head Island, SC
+TN;1130;WYXE;;Gallatin, TN
+TX;1130;KTMR;;Edna, TX
+WI;1130;WISN;;Milwaukee, WI
+WV;1130;WRRL;;Rainelle, WV
+AK;1140;KSLD;;Soldotna, AK
+AL;1140;WBXR;;Hazel Green, AL
+AR;1140;KLTK;;Centerton, AR
+CA;1140;KHTK;;Sacramento, CA
+CA;1140;KNWQ;;Palm Springs, CA
+CA;1140;KVLI;;Lake Isabella, CA
+CO;1140;KNAB;;Burlington, CO
+FL;1140;WPNS;;Destin, FL
+FL;1140;WQBA;;Miami, FL
+FL;1140;WVVO;;Orlando, FL
+ID;1140;KGEM;;Boise, ID
+IL;1140;WVEL;;Pekin, IL
+IN;1140;WAWK;;Kendallville, IN
+MI;1140;WVHF;;Kentwood, MI
+MO;1140;KCXL;;Liberty, MO
+MO;1140;KPWB;;Piedmont, MO
+MS;1140;WAPF;;McComb, MS
+NC;1140;WRNA;;China Grove, NC
+NY;1140;WCJW;;Warsaw, NY
+OK;1140;KRMP;;Oklahoma City, OK
+PR;1140;WQII;;San Juan, PR
+SD;1140;KXRB;;Sioux Falls, SD
+TN;1140;WLOD;;Loudon, TN
+TX;1140;KCPP;;Cleburne, TX
+TX;1140;KYOK;;Conroe, TX
+VA;1140;WHNQ;;Saint Paul, VA
+VA;1140;WRVA;;Richmond, VA
+WY;1140;KZMQ;;Greybull, WY
+AL;1150;WJRD;;Tuscaloosa, AL
+CA;1150;KEIB;;Los Angeles, CA
+CO;1150;KNRV;;Englewood, CO
+CT;1150;WMRD;;Middletown, CT
+DE;1150;WDEL;;Wilmington, DE
+FL;1150;WNDB;;Daytona Beach, FL
+FL;1150;WTMP;;Egypt Lake, FL
+GA;1150;WJEM;;Valdosta, GA
+GA;1150;WXKO;;Fort Valley, GA
+IA;1150;KCPS;;Burlington, IA
+IA;1150;KDLX;;Des Moines, IA
+IL;1150;WGGH;;Marion, IL
+KS;1150;KSAL;;Salina, KS
+KY;1150;WLOC;;Munfordville, KY
+KY;1150;WMST;;Mount Sterling, KY
+LA;1150;WJBO;;Baton Rouge, LA
+MA;1150;WWDJ;;Boston, MA
+MN;1150;KASM;;Albany, MN
+MO;1150;KRMS;;Osage Beach, MO
+MS;1150;WONG;;Canton, MS
+MT;1150;KSEN;;Shelby, MT
+NC;1150;WBAG;;Burlington-Graham, NC
+NC;1150;WGBR;;Goldsboro, NC
+NM;1150;KNMM;;Albuquerque, NM
+OH;1150;WCUE;;Cuyahoga Falls, OH
+OH;1150;WIMA;;Lima, OH
+OK;1150;KNED;;McAlester, OK
+OR;1150;KAGO;;Klamath Falls, OR
+PA;1150;WHUN;;Huntingdon, PA
+PA;1150;WMNY;;New Kensington, PA
+SC;1150;WAVO;;Rock Hill, SC
+SC;1150;WSNW;;Seneca, SC
+SD;1150;KIMM;;Rapid City, SD
+TN;1150;WCRK;;Morristown, TN
+TN;1150;WDTM;;Selmer, TN
+TN;1150;WGOW;;Chattanooga, TN
+TX;1150;KBPO;;Port Neches, TX
+TX;1150;KCCT;;Corpus Christi, TX
+TX;1150;KHRO;;El Paso, TX
+TX;1150;KOLJ;;Quanah, TX
+TX;1150;KZNE;;College Station, TX
+VA;1150;WNLR;;Churchville, VA
+WA;1150;KKNW;;Seattle, WA
+WA;1150;KQQQ;;Pullman, WA
+WI;1150;WEAQ;;Chippewa Falls, WI
+WI;1150;WHBY;;Kimberly, WI
+WV;1150;WELC;;Welch, WV
+FL;1160;WEWC;;Callahan, FL
+FL;1160;WRLZ;;St. Cloud, FL
+GA;1160;WCFO;;East Point, GA
+IL;1160;WYLL;;Chicago, IL
+KY;1160;WCVX;;Florence, KY
+KY;1160;WKCM;;Hawesville, KY
+MD;1160;WMET;;Gaithersburg, MD
+ME;1160;WSKW;;Skowhegan, ME
+MI;1160;WCXI;;Fenton, MI
+MO;1160;KCTO;;Cleveland, MO
+NC;1160;WWQT;;Tryon, NC
+NC;1160;WYDU;;Red Springs, NC
+NJ;1160;WJLK;;Lakewood Township, NJ
+NJ;1160;WVNJ;;Oakland, NJ
+NY;1160;WPIE;;Trumansburg, NY
+NY;1160;WSSV;;Mechanicville, NY
+PA;1160;WCCS;;Homer City, PA
+PR;1160;WMTI;;Barceloneta, PR
+TN;1160;WCRT;;Donelson, TN
+TX;1160;KBDT;;Highland Park, TX
+TX;1160;KRDY;;San Antonio, TX
+UT;1160;KSL;;Salt Lake City, UT
+VA;1160;WODY;;Fieldale, VA
+AK;1170;KJNP;;North Pole, AK
+AL;1170;WGMP;;Montgomery, AL
+AZ;1170;KYET;;Golden Valley, AZ
+CA;1170;KCBQ;;San Diego, CA
+CA;1170;KLOK;;San Jose, CA
+CO;1170;KJJD;;Windsor, CO
+CT;1170;WCTF;;Vernon, CT
+FL;1170;WAVS;;Davie, FL
+FL;1170;WKFL;;Bushnell, FL
+FL;1170;WSOS;;St. Augustine Beach, FL
+KY;1170;WDFB;;Junction City, KY
+MA;1170;WFPB;;Orleans, MA
+MN;1170;KFOW;;Waseca, MN
+MO;1170;KJXX;;Jackson, MO
+MS;1170;WRPM;;Poplarville, MS
+NC;1170;WCLN;;Clinton, NC
+NC;1170;WCXN;;Claremont, NC
+NJ;1170;WWTR;;Bridgewater, NJ
+NY;1170;WWLE;;Cornwall, NY
+OK;1170;KOTV;;Tulsa, OK
+PR;1170;WLEO;;Ponce, PR
+SC;1170;WDEK;;Lexington, SC
+WA;1170;KPUG;;Bellingham, WA
+WI;1170;WFDL;;Waupun, WI
+WV;1170;WWVA;;Wheeling, WV
+AR;1180;WGUE;;Turrell, AR
+CA;1180;KERN;;Wasco-Greenacres, CA
+GA;1180;WZQZ;;Trion, GA
+IL;1180;WLDS;;Jacksonville, IL
+IL;1180;WSQR;;Sycamore, IL
+IN;1180;WGAB;;Newburgh, IN
+MI;1180;WXLA;;Dimondale, MI
+MN;1180;KYES;;Rockville, MN
+MS;1180;WJNT;;Pearl, MS
+MT;1180;KOFI;;Kalispell, MT
+NE;1180;KZOT;;Bellevue, NE
+NY;1180;WHAM;;Rochester, NY
+PA;1180;WFYL;;King of Prussia, PA
+RI;1180;WSKP;;Hope Valley, RI
+SC;1180;WFGN;;Gaffney, SC
+TN;1180;WKCE;;Knoxville, TN
+TX;1180;KGOL;;Humble, TX
+TX;1180;KLPF;;Midland, TX
+WA;1180;KLAY;;Lakewood, WA
+AL;1190;WEUV;;Moulton, AL
+AR;1190;KASZ;;White Hall, AR
+AR;1190;KREB;;Gentry, AR
+AZ;1190;KNUV;;Tolleson, AZ
+CA;1190;KDYA;;Vallejo, CA
+CA;1190;KGBN;;Anaheim, CA
+CO;1190;KVCU;;Boulder, CO
+FL;1190;WAMT;;Pine Castle-Sky Lake, FL
+FL;1190;WPSP;;Royal Palm Beach, FL
+GA;1190;WAFS;;Atlanta, GA
+GA;1190;WPAA;;St. Marys, GA
+IA;1190;KDAO;;Marshalltown, IA
+IN;1190;WOWO;;Fort Wayne, IN
+KS;1190;KVSV;;Beloit, KS
+MN;1190;KKOJ;;Jackson, MN
+MN;1190;WPVW;;Wabasha, MN
+MO;1190;KDMR;;Kansas City, MO
+MS;1190;WMEJ;;Bay St. Louis, MS
+NC;1190;WIXE;;Monroe, NC
+NM;1190;KXKS;;Albuquerque, NM
+NY;1190;WLIB;;New York, NY
+NY;1190;WSDE;;Cobleskill, NY
+OR;1190;KEX;;Portland, OR
+PR;1190;WBMJ;;San Juan, PR
+TN;1190;WJPJ;;Humboldt, TN
+TN;1190;WSDQ;;Dunlap, TN
+TX;1190;KFXR;;Dallas, TX
+VA;1190;WTSD;;Leesburg, VA
+WI;1190;WNWC;;Sun Prairie, WI
+WV;1190;WVUS;;Grafton, WV
+CA;1200;KYAA;;Soquel, CA
+IL;1200;WRTO;;Chicago, IL
+KY;1200;WBCE;;Wickliffe, KY
+MA;1200;WXKS;;Newton, MA
+MI;1200;WMUZ;;Taylor, MI
+MO;1200;KYOO;;Bolivar, MO
+NC;1200;WSML;;Graham, NC
+NC;1200;WXIT;;Blowing Rock, NC
+ND;1200;KFNW;;West Fargo, ND
+NY;1200;WTLA;;North Syracuse, NY
+PA;1200;WRKK;;Muncy Antron, PA
+PA;1200;WUZZ;;New Castle, PA
+PR;1200;WGDL;;Lares, PR
+SC;1200;WMIR;;Atlantic Beach, SC
+TN;1200;WFCN;;Nashville, TN
+TX;1200;WOAI;;San Antonio, TX
+WV;1200;WNRJ;;Huntington, WV
+AL;1210;WTXK;;Pike Road, AL
+CA;1210;KPRZ;;San Marcos, CA
+CA;1210;KQEQ;;Fowler, CA
+CA;1210;KRPU;;Rocklin, CA
+FL;1210;WNMA;;Miami Springs, FL
+HI;1210;KZOO;;Honolulu, HI
+IL;1210;WILY;;Centralia, IL
+MI;1210;WJNL;;Kingsley, MI
+OH;1210;WDAO;;Dayton, OH
+OK;1210;KGYN;;Guymon, OK
+PA;1210;WANB;;Waynesburg, PA
+PA;1210;WPHT;;Philadelphia, PA
+PR;1210;WHOY;;Salinas, PR
+SD;1210;KOKK;;Huron, SD
+TN;1210;WMPS;;Bartlett, TN
+TN;1210;WSBI;;Static, TN
+TX;1210;KUBR;;San Juan, TX
+WA;1210;KMIA;;Auburn, WA
+WY;1210;KHAT;;Laramie, WY
+WY;1210;KRSV;;Afton, WY
+AL;1220;WAYE;;Birmingham, AL
+AL;1220;WERM;;Fairhope, AL
+CA;1220;KDOW;;Palo Alto Radio, CA
+CA;1220;KHTS;;Canyon Country, CA
+CA;1220;KTMZ;;Pomona, CA
+CO;1220;KLDC;;Denver, CO
+CT;1220;WATX;;Hamden, CT
+FL;1220;WKTZ;;Jacksonville, FL
+FL;1220;WOTS;;Kissimmee, FL
+FL;1220;WSRQ;;Sarasota, FL
+GA;1220;WZOT;;Rockmart, GA
+IA;1220;KJAN;;Atlantic, IA
+IA;1220;KQMG;;Independence, IA
+IL;1220;WKRS;;Waukegan, IL
+IL;1220;WLPO;;Lasalle, IL
+IN;1220;WSLM;;Salem, IN
+KS;1220;KOFO;;Ottawa, KS
+KY;1220;WFKN;;Franklin, KY
+ME;1220;WWSF;;Sanford, ME
+MI;1220;WBCH;;Hastings, MI
+MO;1220;KCAX;;Branson, MO
+MO;1220;KGIR;;Cape Girardeau, MO
+MO;1220;KLPW;;Brighton, MO
+MS;1220;WOEG;;Hazlehurst, MS
+NC;1220;WDYT;;Kings Mountain, NC
+NC;1220;WENC;;Whiteville, NC
+NC;1220;WREV;;Reidsville, NC
+ND;1220;KDDR;;Oakes, ND
+NH;1220;WZBK;;Keene, NH
+NY;1220;WGNY;;Newburgh, NY
+OH;1220;WERT;;Van Wert, OH
+OH;1220;WHKW;;Cleveland, OH
+OK;1220;KTLV;;Midwest City, OK
+OR;1220;KSLM;;Salem, OR
+PA;1220;WJUN;;Mexico, PA
+RI;1220;WSTL;;Providence, RI
+TN;1220;WCPH;;Etowah, TN
+TX;1220;KMVL;;Madisonville, TX
+TX;1220;KZEE;;Weatherford, TX
+VA;1220;WFAX;;Falls Church, VA
+VA;1220;WLSD;;Big Stone Gap, VA
+AK;1230;KIFW;;Sitka, AK
+AK;1230;KVAK;;Valdez, AK
+AL;1230;WAUD;;Auburn, AL
+AL;1230;WKWL;;Florala, AL
+AL;1230;WTBC;;Tuscaloosa, AL
+AR;1230;KBTM;;Jonesboro, AR
+AR;1230;KFPW;;Fort Smith, AR
+AZ;1230;KAAA;;Kingman, AZ
+AZ;1230;KATO;;Safford, AZ
+AZ;1230;KINO;;Winslow, AZ
+AZ;1230;KOY;;Phoenix, AZ
+CA;1230;KBOV;;Bishop, CA
+CA;1230;KDAC;;Fort Bragg, CA
+CA;1230;KGEO;;Bakersfield, CA
+CA;1230;KLXR;;Redding, CA
+CA;1230;KPRL;;Paso Robles, CA
+CA;1230;KSZL;;Barstow, CA
+CA;1230;KWG;;Stockton, CA
+CA;1230;KXO;;El Centro, CA
+CA;1230;KYPA;;Los Angeles, CA
+CO;1230;KDZA;;Pueblo, CO
+CO;1230;KEXO;;Grand Junction, CO
+CO;1230;KKSB;;Steamboat Springs, CO
+CO;1230;KSTC;;Sterling, CO
+CT;1230;WNEZ;;Manchester, CT
+FL;1230;WBZT;;West Palm Beach, FL
+FL;1230;WDWR;;Pensacola, FL
+FL;1230;WMAF;;Madison, FL
+FL;1230;WONN;;Lakeland, FL
+FL;1230;WRBD;;Gainesville, FL
+FL;1230;WSBB;;New Smyrna Beach, FL
+GA;1230;WAYX;;Waycross, GA
+GA;1230;WBLJ;;Dalton, GA
+GA;1230;WEZO;;Augusta, GA
+GA;1230;WFOM;;Marietta, GA
+GA;1230;WJUL;;Hiawassee, GA
+GA;1230;WSOK;;Savannah, GA
+GA;1230;WXLI;;Dublin, GA
+IA;1230;KFJB;;Marshalltown, IA
+ID;1230;KBAR;;Burley, ID
+ID;1230;KORT;;Grangeville, ID
+IL;1230;WFXN;;Moline, IL
+IL;1230;WHCO;;Sparta, IL
+IL;1230;WJBC;;Bloomington, IL
+IN;1230;WJOB;;Hammond, IN
+IN;1230;WSAL;;Logansport, IN
+IN;1230;WTCJ;;Tell City, IN
+KY;1230;WCDS;;Glasgow, KY
+KY;1230;WHIR;;Danville, KY
+KY;1230;WHOP;;Hopkinsville, KY
+KY;1230;WQJM;;Pineville, KY
+LA;1230;KSLO;;Opelousas, LA
+LA;1230;WBOK;;New Orleans, LA
+MA;1230;WESX;;Nahant, MA
+MA;1230;WNAW;;North Adams, MA
+MA;1230;WNEB;;Worcester, MA
+MD;1230;WCMD;;Cumberland, MD
+MD;1230;WFOA;;Baltimore, MD
+ME;1230;WGUY;;Veazie, ME
+MI;1230;WBET;;Sturgis, MI
+MI;1230;WFER;;Iron River, MI
+MI;1230;WMPC;;Lapeer, MI
+MI;1230;WSOO;;Sault Ste. Marie, MI
+MI;1230;WTKG;;Grand Rapids, MI
+MN;1230;KFSP;;Mankato, MN
+MN;1230;KGHS;;International Falls, MN
+MN;1230;KMRS;;Morris, MN
+MN;1230;KTRF;;Thief River Fall, MN
+MN;1230;KWNO;;Winona, MN
+MN;1230;WKLK;;Cloquet, MN
+MO;1230;KWIX;;Moberly, MO
+MO;1230;KZYM;;Joplin, MO
+MT;1230;KHDN;;Hardin, MT
+MT;1230;KLCB;;Libby, MT
+MT;1230;KOBB;;Bozeman, MT
+MT;1230;KXLO;;Lewistown, MT
+NC;1230;WCBT;;Roanoke Rapids, NC
+NC;1230;WFAY;;Fayetteville, NC
+NC;1230;WLNR;;Kinston, NC
+NC;1230;WMFR;;High Point, NC
+NC;1230;WNNC;;Newton, NC
+NC;1230;WSKY;;Asheville, NC
+ND;1230;KDIX;;Dickinson, ND
+NE;1230;KHAS;;Hastings, NE
+NE;1230;KTNC;;Falls City, NE
+NH;1230;WMOU;;Berlin, NH
+NH;1230;WTSV;;Claremont, NH
+NJ;1230;WCMC;;Wildwood, NJ
+NM;1230;KFUN;;Las Vegas, NM
+NM;1230;KOTS;;Deming, NM
+NM;1230;KRSY;;Alamogordo, NM
+NM;1230;KSFX;;Roswell, NM
+NM;1230;KYVA;;Gallup, NM
+NV;1230;KBZZ;;Reno, NV
+NV;1230;KELY;;Ely, NV
+NV;1230;KLAV;;Las Vegas, NV
+NY;1230;WECK;;Cheektowaga, NY
+NY;1230;WHUC;;Hudson, NY
+NY;1230;WIXT;;Little Falls, NY
+NY;1230;WMAJ;;Elmira, NY
+NY;1230;WMML;;Glens Falls, NY
+OH;1230;WCWA;;Toledo, OH
+OH;1230;WDBZ;;Cincinnati, OH
+OH;1230;WITO;;Ironton, OH
+OH;1230;WYTS;;Columbus, OH
+OK;1230;KADA;;Ada, OK
+OK;1230;WBBZ;;Ponca City, OK
+OR;1230;KCUP;;Toledo, OR
+OR;1230;KHSN;;Coos Bay, OR
+OR;1230;KKOR;;Astoria, OR
+OR;1230;KRYN;;Gresham, OR
+OR;1230;KSJK;;Talent, OR
+OR;1230;KZHC;;Burns, OR
+PA;1230;WBPZ;;Lock Haven, PA
+PA;1230;WBVP;;Beaver Falls, PA
+PA;1230;WCRO;;Johnstown, PA
+PA;1230;WEEX;;Easton, PA
+PA;1230;WKBO;;Harrisburg, PA
+PA;1230;WTIV;;Titusville, PA
+PR;1230;WNIK;;Arecibo, PR
+RI;1230;WBLQ;;Westerly, RI
+SC;1230;WAIM;;Anderson, SC
+SC;1230;WOLH;;Florence, SC
+SD;1230;KWSN;;Sioux Falls, SD
+TN;1230;WAKI;;McMinnville, TN
+TN;1230;WMLR;;Hohenwald, TN
+TX;1230;KCOH;;Houston, TX
+TX;1230;KDRN;;Del Rio, TX
+TX;1230;KERV;;Kerrville, TX
+TX;1230;KGRO;;Pampa, TX
+TX;1230;KLVT;;Levelland, TX
+TX;1230;KSIX;;Corpus Christi, TX
+TX;1230;KSST;;Sulphur Springs, TX
+TX;1230;KWTX;;Waco, TX
+UT;1230;KJJC;;Murray, UT
+VA;1230;WABN;;Abingdon, VA
+VA;1230;WFVA;;Fredericksburg, VA
+VT;1230;WJOY;;Burlington, VT
+WA;1230;KDYM;;Sunnyside, WA
+WA;1230;KOZI;;Chelan, WA
+WA;1230;KSBN;;Spokane, WA
+WA;1230;KWYZ;;Everett, WA
+WI;1230;WCLO;;Janesville, WI
+WI;1230;WXCO;;Wausau, WI
+WV;1230;WPKB;;Parkersburg, WV
+WY;1230;KVOC;;Casper, WY
+AL;1240;WEBJ;;Brewton, AL
+AL;1240;WJLX;;Jasper, AL
+AL;1240;WMGJ;;Gadsden, AL
+AR;1240;KTLO;;Mountain Home, AR
+AR;1240;KVRC;;Arkadelphia, AR
+AR;1240;KWAK;;Stuttgart, AR
+AZ;1240;KJAA;;Globe, AZ
+CA;1240;KCVV;;Sacramento, CA
+CA;1240;KEZY;;San Bernardino, CA
+CA;1240;KJOP;;Lemoore, CA
+CA;1240;KLOA;;Ridgecrest, CA
+CA;1240;KMBY;;Monterey, CA
+CA;1240;KNSN;;San Diego, CA
+CA;1240;KPOD;;Crescent City, CA
+CA;1240;KSMA;;Santa Maria, CA
+CA;1240;KSUE;;Susanville, CA
+CO;1240;KBGV;;Monte Vista, CO
+CO;1240;KCRT;;Trinidad, CO
+CO;1240;KDGO;;Durango, CO
+CO;1240;KRDO;;Colorado Springs, CO
+CT;1240;WWCO;;Waterbury, CT
+FL;1240;WBGC;;Chipley, FL
+FL;1240;WFOY;;Saint Augustine, FL
+FL;1240;WKIQ;;Eustis, FL
+FL;1240;WMMB;;Melbourne, FL
+FL;1240;WZCC;;Cross City, FL
+GA;1240;WGGA;;Gainesville, GA
+GA;1240;WLAG;;La Grange, GA
+GA;1240;WPAX;;Thomasville, GA
+GA;1240;WTWA;;Thomson, GA
+GA;1240;WWNS;;Statesboro, GA
+HI;1240;KWOE;;Kahului, HI
+IA;1240;KBIZ;;Ottumwa, IA
+IA;1240;KDEC;;Decorah, IA
+IA;1240;KICD;;Spencer, IA
+IA;1240;KWLC;;Decorah, IA
+ID;1240;KMHI;;Mountain Home, ID
+ID;1240;KOFE;;St. Maries, ID
+ID;1240;KWIK;;Pocatello, ID
+IL;1240;WEBQ;;Harrisburg, IL
+IL;1240;WSBC;;Chicago, IL
+IL;1240;WSDR;;Sterling, IL
+IL;1240;WTAX;;Springfield, IL
+IN;1240;WHBU;;Anderson, IN
+KS;1240;KFH;;Wichita, KS
+KS;1240;KIUL;;Garden City, KS
+KY;1240;WFTM;;Maysville, KY
+KY;1240;WLLV;;Louisville, KY
+KY;1240;WPKE;;Pikeville, KY
+KY;1240;WSFC;;Somerset, KY
+LA;1240;KANE;;New Iberia, LA
+LA;1240;KASO;;Minden, LA
+MA;1240;WGTX;;West Yarmouth, MA
+MD;1240;WJEJ;;Hagerstown, MD
+ME;1240;WIGY;;Lewiston, ME
+ME;1240;WSYY;;Millinocket, ME
+MI;1240;WATT;;Cadillac, MI
+MI;1240;WCBY;;Cheboygan, MI
+MI;1240;WJIM;;Lansing, MI
+MN;1240;WJON;;St. Cloud, MN
+MN;1240;WMFG;;Hibbing, MN
+MO;1240;KFMO;;Flat River, MO
+MO;1240;KLIK;;Jefferson City, MO
+MO;1240;KNEM;;Nevada, MO
+MS;1240;WGCM;;Gulfport, MS
+MS;1240;WMIS;;Natchez, MS
+MS;1240;WMSO;;Southaven, MS
+MS;1240;WWZQ;;Aberdeen, MS
+MS;1240;WZQK;;Flowood, MS
+MT;1240;KHNK;;Whitefish, MT
+MT;1240;KJCR;;Billings, MT
+MT;1240;KLTZ;;Glasgow, MT
+MT;1240;KLYQ;;Hamilton, MT
+NC;1240;WCNC;;Elizabeth City, NC
+NC;1240;WHVN;;Charlotte, NC
+NC;1240;WJNC;;Jacksonville, NC
+NC;1240;WPJL;;Knightdale, NC
+NC;1240;WSQL;;Brevard, NC
+NC;1240;WWWC;;Wilkesboro, NC
+ND;1240;KDLR;;Devils Lake, ND
+NE;1240;KFOR;;Lincoln, NE
+NE;1240;KODY;;North Platte, NE
+NH;1240;WFTN;;Franklin, NH
+NJ;1240;WSNJ;;Bridgeton, NJ
+NM;1240;KAMQ;;Carlsbad, NM
+NM;1240;KCLV;;Clovis, NM
+NM;1240;KDSK;;Los Ranchos de Albuquerque, NM
+NV;1240;KELK;;Elko, NV
+NY;1240;WATN;;Watertown, NY
+NY;1240;WGBB;;Freeport, NY
+NY;1240;WGVA;;Geneva, NY
+NY;1240;WJTN;;Jamestown, NY
+NY;1240;WPTR;;Schenectady, NY
+NY;1240;WVOS;;Liberty, NY
+NY;1240;WVSL;;Saranac Lake, NY
+OH;1240;WBBW;;Youngstown, OH
+OH;1240;WHIZ;;Zanesville, OH
+OK;1240;KADS;;Elk City, OK
+OK;1240;KBEL;;Idabel, OK
+OK;1240;KOKL;;Okmulgee, OK
+OK;1240;KVSO;;Ardmore, OK
+OR;1240;KEJO;;Corvallis, OR
+OR;1240;KQEN;;Roseburg, OR
+OR;1240;KRDM;;Redmond, OR
+OR;1240;KRJW;;Altamont, OR
+OR;1240;KTIX;;Pendleton, OR
+PA;1240;WFUZ;;Wilkes-Barre, PA
+PA;1240;WRLD;;Reading, PA
+PA;1240;WRTA;;Altoona, PA
+PR;1240;WALO;;Humacao, PR
+RI;1240;WOON;;Woonsocket, RI
+SC;1240;WDXY;;Sumter, SC
+SC;1240;WKDK;;Newberry, SC
+SC;1240;WLSQ;;Loris, SC
+SD;1240;KCCR;;Pierre, SD
+TN;1240;WBEJ;;Elizabethton, TN
+TN;1240;WEKR;;Fayetteville, TN
+TN;1240;WENK;;Union City, TN
+TN;1240;WIFA;;Knoxville, TN
+TN;1240;WNVL;;Nashville, TN
+TX;1240;KDOK;;Kilgore, TX
+TX;1240;KSOX;;Raymondville, TX
+TX;1240;KTAM;;Bryan, TX
+TX;1240;KVLF;;Alpine, TX
+TX;1240;KXIT;;Dalhart, TX
+TX;1240;KXOX;;Sweetwater, TX
+TX;1240;KXYL;;Brownwood, TX
+VA;1240;WGMN;;Roanoke, VA
+VA;1240;WTON;;Staunton, VA
+VA;1240;WTPS;;Petersburg, VA
+VT;1240;WSKI;;Montpelier, VT
+WA;1240;KBUP;;Olympia, WA
+WA;1240;KCVL;;Colville, WA
+WA;1240;KXLE;;Ellensburg, WA
+WI;1240;WHFA;;Poynette, WI
+WI;1240;WJMC;;Rice Lake, WI
+WI;1240;WOBT;;Rhinelander, WI
+WI;1240;WOMT;;Manitowoc, WI
+WV;1240;WDNE;;Elkins, WV
+WV;1240;WKEZ;;Bluefield, WV
+WV;1240;WVTS;;Charleston, WV
+WY;1240;KASL;;Newcastle, WY
+WY;1240;KFBC;;Cheyenne, WY
+WY;1240;KRAL;;Rawlins, WY
+AL;1250;WRBZ;;Wetumpka, AL
+AL;1250;WZOB;;Fort Payne, AL
+AR;1250;KFOG;;Little Rock, AR
+AR;1250;KPBI;;Fayetteville, AR
+AZ;1250;KHIL;;Willcox, AZ
+CA;1250;KHOT;;Madera, CA
+CA;1250;KLLK;;Willits, CA
+CA;1250;KNWH;;Twenty Nine Palm, CA
+CA;1250;KZER;;Santa Barbara, CA
+FL;1250;WHNZ;;Tampa, FL
+FL;1250;WQHL;;Live Oak, FL
+GA;1250;WSRA;;Albany, GA
+GA;1250;WYTH;;Madison, GA
+IA;1250;KCFI;;Cedar Falls, IA
+IN;1250;WGL;;Fort Wayne, IN
+IN;1250;WRAY;;Princeton, IN
+KS;1250;KYYS;;Kansas City, KS
+KY;1250;WLCK;;Scottsville, KY
+KY;1250;WLRT;;Nicholasville, KY
+MA;1250;WARE;;Ware, MA
+MI;1250;WJMK;;Bay City, MI
+MN;1250;KBRF;;Fergus Falls, MN
+MN;1250;KCUE;;Red Wing, MN
+MO;1250;KBTC;;Houston, MO
+MT;1250;KIKC;;Forsyth, MT
+NC;1250;WBRM;;Marion, NC
+NC;1250;WGHB;;Farmville, NC
+NC;1250;WKDX;;Hamlet, NC
+NE;1250;KZOI;;Dakota City, NE
+NH;1250;WGAM;;Manchester, NH
+NJ;1250;WMTR;;Morristown, NJ
+OH;1250;WCHO;;Washington Court House, OH
+OR;1250;KCFM;;Florence, OR
+PA;1250;WLEM;;Emporium, PA
+PA;1250;WPGP;;Pittsburgh, PA
+PA;1250;WYYC;;York, PA
+PR;1250;WJIT;;Sabana, PR
+SC;1250;WTMA;;Charleston, SC
+TN;1250;WKBL;;Covington, TN
+TN;1250;WRKQ;;Madisonville, TN
+TX;1250;KDEI;;Port Arthur, TX
+TX;1250;KIKZ;;Seminole, TX
+TX;1250;KZDC;;San Antonio, TX
+TX;1250;KZHN;;Paris, TX
+UT;1250;KNEU;;Roosevelt, UT
+VA;1250;WDVA;;Danville, VA
+VA;1250;WJZU;;Franklin, VA
+WA;1250;KKDZ;;Seattle, WA
+WA;1250;KWSU;;Pullman, WA
+WI;1250;WSSP;;Milwaukee, WI
+WV;1250;WYKM;;Rupert, WV
+AL;1260;WYDE;;Birmingham, AL
+AR;1260;KCCB;;Corning, AR
+AZ;1260;KBSZ;;Wickenburg, AZ
+CA;1260;KMZT;;Beverly Hills, CA
+CA;1260;KSFB;;San Francisco, CA
+CT;1260;WSHU;;Westport, CT
+DC;1260;WQOF;;Washington, DC
+FL;1260;WFTW;;Fort Walton Beach, FL
+FL;1260;WIYD;;Palatka, FL
+FL;1260;WSUA;;Miami, FL
+GA;1260;WMDG;;East Point, GA
+GA;1260;WUFE;;Baxley, GA
+IA;1260;KDLF;;Boone, IA
+ID;1260;KKOO;;Weiser, ID
+ID;1260;KNBL;;Idaho Falls, ID
+IL;1260;WSDZ;;Belleville, IL
+IN;1260;WNDE;;Indianapolis, IN
+LA;1260;KBRH;;Baton Rouge, LA
+MA;1260;WBIX;;Boston, MA
+MI;1260;WPNW;;Zeeland, MI
+MN;1260;KDUZ;;Hutchinson, MN
+MN;1260;KROX;;Crookston, MN
+MO;1260;KSGF;;Springfield, MO
+MS;1260;WGVM;;Greenville, MS
+NC;1260;WKXR;;Asheboro, NC
+NC;1260;WZBO;;Edenton, NC
+NJ;1260;WFJS;;Trenton, NJ
+NM;1260;KTRC;;Santa Fe, NM
+NY;1260;WBNR;;Beacon, NY
+NY;1260;WSKO;;Syracuse, NY
+OH;1260;WCCR;;Cleveland, OH
+OH;1260;WNXT;;Portsmouth, OH
+OK;1260;KWSH;;Wewoka, OK
+OR;1260;KLYC;;McMinnville, OR
+PA;1260;WLGJ;;Philipsburg, PA
+PA;1260;WRIE;;Erie, PA
+PR;1260;WVOZ;;Ponce, PR
+SC;1260;WPJF;;Greenville, SC
+SD;1260;KWYR;;Winner, SD
+TN;1260;WDKN;;Dickson, TN
+TN;1260;WMCH;;Church Hill, TN
+TN;1260;WNOO;;Chattanooga, TN
+TX;1260;KKSA;;San Angelo, TX
+TX;1260;KLDS;;Falfurrias, TX
+TX;1260;KSML;;Diboll, TX
+TX;1260;KTAE;;Elgin, TX
+VA;1260;WCHV;;Charlottesville, VA
+VA;1260;WWVT;;Christiansburg, VA
+WI;1260;WEKZ;;Monroe, WI
+WI;1260;WLAK;;Amery, WI
+WI;1260;WOCO;;Oconto, WI
+WI;1260;WWIS;;Black River Falls, WI
+WY;1260;KPOW;;Powell, WY
+AL;1270;WGSV;;Guntersville, AL
+AL;1270;WIJD;;Prichard, AL
+AZ;1270;KDJI;;Holbrook, AZ
+CA;1270;KFSQ;;Thousand Palms, CA
+CA;1270;KVMI;;Tulare, CA
+CA;1270;KXBX;;Lakeport, CA
+FL;1270;WIWA;;Eatonville, FL
+FL;1270;WTLY;;Tallahassee, FL
+GA;1270;WBOJ;;Columbus, GA
+GA;1270;WJJC;;Commerce, GA
+HI;1270;KNDI;;Honolulu, HI
+ID;1270;KTFI;;Twin Falls, ID
+IN;1270;WCMR;;Elkhart, IN
+IN;1270;WWCA;;Gary, IN
+IN;1270;WXGO;;Madison, IN
+KS;1270;KSCB;;Liberal, KS
+KY;1270;WAIN;;Columbia, KY
+MA;1270;WACM;;Springfield, MA
+MD;1270;WCBC;;Cumberland, MD
+MI;1270;WMKT;;Charlevoix, MI
+MI;1270;WXYT;;Detroit, MI
+MN;1270;KFAN;;Rochester, MN
+MN;1270;WWWI;;Baxter, MN
+MO;1270;KIIK;;Waynesville, MO
+MO;1270;KYSJ;;St. Joseph, MO
+NC;1270;WCGC;;Belmont, NC
+NC;1270;WMPM;;Smithfield, NC
+ND;1270;KLXX;;Bismarck-Mandan, ND
+NH;1270;WTSN;;Dover, NH
+NJ;1270;WMIZ;;Vineland, NJ
+NM;1270;KINN;;Alamogordo, NM
+NV;1270;KZTQ;;Sparks, NV
+NY;1270;WDLA;;Walton, NY
+NY;1270;WUSW;;Niagara Falls, NY
+OH;1270;WDLR;;Marysville, OH
+OH;1270;WILE;;Cambridge, OH
+OK;1270;KRXO;;Claremore, OK
+OR;1270;KAJO;;Grants Pass, OR
+PA;1270;WLBR;;Lebanon, PA
+SC;1270;WHGS;;Hampton, SC
+SD;1270;KNWC;;Sioux Falls, SD
+TN;1270;WLIK;;Newport, TN
+TN;1270;WQKR;;Portland, TN
+TX;1270;KFLC;;Fort Worth, TX
+VA;1270;WHEO;;Stuart, VA
+VA;1270;WPMH;;Newport News, VA
+WA;1270;KEDO;;Longview, WA
+WI;1270;WRJC;;Mauston, WI
+AL;1280;WMXB;;Tuscaloosa, AL
+AR;1280;KNBY;;Newport, AR
+AZ;1280;KXEG;;Phoenix, AZ
+CA;1280;KFRN;;Long Beach, CA
+CA;1280;KWSX;;Stockton, CA
+CA;1280;KXTK;;Arroyo Grande, CA
+CO;1280;KBNO;;Denver, CO
+DE;1280;WSUX;;Seaford, DE
+FL;1280;WIPC;;Lake Wales, FL
+FL;1280;WTMY;;Sarasota, FL
+GA;1280;WIHB;;Macon, GA
+IA;1280;KCOB;;Newton, IA
+IL;1280;WBIG;;Aurora, IL
+IN;1280;WGBF;;Evansville, IN
+KS;1280;KSOK;;Arkansas City, KS
+KY;1280;WZXI;;Lancaster, KY
+LA;1280;WODT;;New Orleans, LA
+MA;1280;WPKZ;;Fitchburg, MA
+ME;1280;WHTP;;Gardiner, ME
+MI;1280;WFYC;;Alma, MI
+MN;1280;KVXR;;Moorhead, MN
+MN;1280;WWTC;;Minneapolis, MN
+MO;1280;KYRO;;Troy, MO
+NC;1280;WSAT;;Salisbury, NC
+NC;1280;WYAL;;Scotland Neck, NC
+NE;1280;KCNI;;Broken Bow, NE
+NM;1280;KRZE;;Farmington, NM
+NV;1280;KQLL;;Henderson, NV
+NY;1280;WADO;;New York, NY
+NY;1280;WHTK;;Rochester, NY
+OH;1280;WONW;;Defiance, OH
+OK;1280;KPRV;;Poteau, OK
+OR;1280;KRVM;;Eugene, OR
+PA;1280;WBWX;;Berwick, PA
+PA;1280;WHVR;;Hanover, PA
+PA;1280;WKST;;New Castle, PA
+PR;1280;WCMN;;Arecibo, PR
+SC;1280;WJAY;;Mullins, SC
+TN;1280;WALI;;Dayton, TN
+TN;1280;WMCP;;Columbia, TN
+TX;1280;KMFR;;Pearsall, TX
+TX;1280;KWHI;;Brenham, TX
+UT;1280;KZNS;;Salt Lake City, UT
+VA;1280;WYVE;;Wytheville, VA
+WA;1280;KIT;;Yakima, WA
+WA;1280;KLDY;;Lacey, WA
+WA;1280;KZFS;;Spokane, WA
+WI;1280;WNAM;;Neenah-Menasha, WI
+AL;1290;WBTG;;Sheffield, AL
+AL;1290;WYEA;;Sylacauga, AL
+AR;1290;KDMS;;El Dorado, AR
+AR;1290;KUOA;;Siloam Springs, AR
+AZ;1290;KCUB;;Tucson, AZ
+CA;1290;KAZA;;Gilroy, CA
+CA;1290;KKDD;;San Bernardino, CA
+CA;1290;KPAY;;Chico, CA
+CA;1290;KZSB;;Santa Barbara, CA
+CT;1290;WNWW;;West Hartford, CT
+DE;1290;WWTX;;Wilmington, DE
+FL;1290;WJNO;;West Palm Beach, FL
+FL;1290;WPCF;;Panama City Beach, FL
+GA;1290;WCHK;;Canton, GA
+GA;1290;WTKS;;Savannah, GA
+ID;1290;KOUU;;Pocatello, ID
+IL;1290;WIRL;;Peoria, IL
+KS;1290;KMMM;;Pratt, KS
+KY;1290;WCBL;;Benton, KY
+KY;1290;WKLB;;Manchester, KY
+MI;1290;WLBY;;Saline, MI
+MI;1290;WNIL;;Niles, MI
+MN;1290;KBMO;;Benson, MN
+MO;1290;KALM;;Thayer, MO
+MS;1290;WJBI;;Batesville, MS
+MS;1290;WTYL;;Tylertown, MS
+MT;1290;KGVO;;Missoula, MT
+NC;1290;WHKY;;Hickory, NC
+NC;1290;WJCV;;Jacksonville, NC
+NC;1290;WXKL;;Sanford, NC
+NE;1290;KOIL;;Omaha, NE
+NH;1290;WKBK;;Keene, NH
+NY;1290;WNBF;;Binghamton, NY
+OH;1290;WHIO;;Dayton, OH
+OH;1290;WLYV;;Bellaire, OH
+OR;1290;KUMA;;Pendleton, OR
+PA;1290;WFBG;;Altoona, PA
+RI;1290;WPVD;;Providence, RI
+SC;1290;WWHM;;Sumter, SC
+TX;1290;KIVY;;Crockett, TX
+TX;1290;KRGE;;Weslaco, TX
+TX;1290;KWFS;;Wichita Falls, TX
+VA;1290;WDZY;;Colonial Heights, VA
+WI;1290;WKLJ;;Sparta, WI
+WI;1290;WZTI;;Greenfield, WI
+WV;1290;WVOW;;Logan, WV
+WY;1290;KOWB;;Laramie, WY
+AL;1300;WBSA;;Boaz, AL
+AL;1300;WTLS;;Tallassee, AL
+CA;1300;KAZN;;Pasadena, CA
+CA;1300;KPMO;;Mendocino, CA
+CA;1300;KROP;;Brawley, CA
+CA;1300;KWRU;;Fresno, CA
+CO;1300;KCSF;;Colorado Springs, CO
+CT;1300;WAVZ;;New Haven, CT
+FL;1300;WFFG;;Marathon, FL
+FL;1300;WKQK;;Cocoa Beach, FL
+FL;1300;WQBN;;Temple Terrace, FL
+GA;1300;WJBB;;Winder, GA
+GA;1300;WMTM;;Moultrie, GA
+GA;1300;WNEA;;Newnan, GA
+IA;1300;KGLO;;Mason City, IA
+ID;1300;KLER;;Orofino, ID
+IL;1300;WFRX;;West Frankfort, IL
+IL;1300;WRDZ;;La Grange, IL
+IN;1300;WBZQ;;Huntington, IN
+KY;1300;WLXG;;Lexington, KY
+LA;1300;KSYB;;Shreveport, LA
+MA;1300;WJDA;;Quincy, MA
+MD;1300;WJZ;;Baltimore, MD
+MI;1300;WOOD;;Grand Rapids, MI
+MN;1300;KPMI;;Bemidji, MN
+MN;1300;WQPM;;Princeton, MN
+MO;1300;KMMO;;Marshall, MO
+MS;1300;WOAD;;Jackson, MS
+NC;1300;WLNC;;Laurinburg, NC
+NC;1300;WSSG;;Goldsboro, NC
+NC;1300;WSYD;;Mount Airy, NC
+NE;1300;KBRL;;McCook, NE
+NH;1300;WPNH;;Plymouth, NH
+NJ;1300;WIMG;;Ewing, NJ
+NV;1300;KCMY;;Carson City, NV
+NY;1300;WGDJ;;Rensselaer, NY
+NY;1300;WOSW;;Fulton, NY
+NY;1300;WXRL;;Lancaster, NY
+OH;1300;WJMO;;Cleveland, OH
+OK;1300;KAKC;;Tulsa, OK
+OR;1300;KDSO;;Phoenix, OR
+OR;1300;KTDS;;The Dalles, OR
+PA;1300;WLMZ;;West Hazleton, PA
+PA;1300;WWCH;;Clarion, PA
+PR;1300;WOSO;;Mayag ez, PR
+SC;1300;WCKI;;Greer, SC
+SD;1300;KOLY;;Mobridge, SD
+TN;1300;WMTN;;Morristown, TN
+TN;1300;WNQM;;Nashville, TN
+TX;1300;KHTW;;Lumberton, TX
+TX;1300;KKUB;;Brownfield, TX
+TX;1300;KLAR;;Laredo, TX
+TX;1300;KVET;;Austin, TX
+VA;1300;WKCY;;Harrisonburg, VA
+WA;1300;KKOL;;Seattle, WA
+WV;1300;WJYP;;St. Albans, WV
+WV;1300;WPDX;;Morgantown, WV
+AL;1310;WAFN;;Priceville, AL
+AL;1310;WHEP;;Foley, AL
+AL;1310;WJUS;;Marion, AL
+AR;1310;KZYP;;Malvern, AR
+AZ;1310;KIHP;;Mesa, AZ
+CA;1310;KKZI;;Barstow, CA
+CA;1310;KMKY;;Oakland, CA
+CO;1310;KFKA;;Greeley, CO
+CT;1310;WICH;;Norwich, CT
+FL;1310;WAUC;;Wauchula, FL
+FL;1310;WYND;;Deland, FL
+GA;1310;WOKA;;Douglas, GA
+GA;1310;WPCH;;West Point, GA
+GA;1310;WWWE;;Decatur, GA
+IA;1310;KDLS;;Perry, IA
+IA;1310;KOKX;;Keokuk, IA
+ID;1310;KLIX;;Twin Falls, ID
+IN;1310;WTLC;;Indianapolis, IN
+KS;1310;KYUL;;Scott City, KS
+KY;1310;WDOC;;Prestonsburg, KY
+KY;1310;WTTL;;Madisonville, KY
+LA;1310;KMBS;;West Monroe, LA
+MA;1310;WORC;;Worcester, MA
+ME;1310;WLOB;;Portland, ME
+MI;1310;WCCW;;Traverse City, MI
+MI;1310;WDTW;;Dearborn, MI
+MN;1310;KGLB;;St. Peter, MN
+MO;1310;KZRG;;Joplin, MO
+MT;1310;KEIN;;Great Falls, MT
+NC;1310;WGSP;;Charlotte, NC
+NC;1310;WISE;;Asheville, NC
+NC;1310;WTIK;;Durham, NC
+ND;1310;KNOX;;Grand Forks, ND
+NE;1310;KGMT;;Fairbury, NE
+NJ;1310;WEMG;;Camden, NJ
+NJ;1310;WOBM;;Asbury Park, NJ
+NJ;1310;WXMC;;Parsippany-Troy Hill, NJ
+NM;1310;KKNS;;Corrales, NM
+NY;1310;WOKR;;Canandaigua, NY
+NY;1310;WRVP;;Mount Kisco, NY
+NY;1310;WTLB;;Utica, NY
+OH;1310;WDPN;;Alliance, OH
+PA;1310;WBFD;;Bedford, PA
+PA;1310;WICU;;Warren, PA
+PA;1310;WTZN;;Troy, PA
+TN;1310;WDXI;;Jackson, TN
+TX;1310;KAHL;;San Antonio, TX
+TX;1310;KTCK;;Dallas, TX
+TX;1310;KZIP;;Amarillo, TX
+VA;1310;WDCT;;Fairfax, VA
+VA;1310;WGH;;Newport News, VA
+WA;1310;KZXR;;Prosser, WA
+WI;1310;WIBA;;Madison, WI
+WV;1310;WSLW;;White Sulphur Springs, WV
+AL;1320;WDSA;;Dothan, AL
+AL;1320;WENN;;Birmingham, AL
+AR;1320;KRLW;;Walnut Ridge, AR
+AR;1320;KWHN;;Fort Smith, AR
+AZ;1320;KOFA;;Yuma, AZ
+CA;1320;KIFM;;Sacramento, CA
+CA;1320;KKSM;;Oceanside, CA
+CA;1320;KWQQ;;Hemet, CA
+CT;1320;WATR;;Waterbury, CT
+FL;1320;WDIZ;;Venice, FL
+FL;1320;WJNJ;;Jacksonville, FL
+FL;1320;WLQY;;Hollywood, FL
+IA;1320;KMAQ;;Maquoketa, IA
+IA;1320;KNIA;;Knoxville, IA
+IL;1320;WKAN;;Kankakee, IL
+KS;1320;KLWN;;Lawrence, KS
+KY;1320;WBRT;;Bardstown, KY
+KY;1320;WCVG;;Covington, KY
+KY;1320;WNGO;;Mayfield, KY
+LA;1320;KNCB;;Vivian, LA
+MA;1320;WARA;;Attleboro, MA
+MD;1320;WJKI;;Salisbury, MD
+MI;1320;WDMJ;;Marquette, MI
+MI;1320;WILS;;Lansing, MI
+MN;1320;KOZY;;Grand Rapids, MN
+MO;1320;KSIV;;Clayton, MO
+MS;1320;WRJW;;Picayune, MS
+NC;1320;WAGY;;Forest City, NC
+NC;1320;WCOG;;Greensboro, NC
+NC;1320;WKRK;;Murphy, NC
+NH;1320;WDER;;Derry, NH
+OH;1320;WLOH;;Lancaster, OH
+OH;1320;WOBL;;Oberlin, OH
+OK;1320;KCLI;;Clinton, OK
+PA;1320;WGET;;Gettysburg, PA
+PA;1320;WJAS;;Pittsburgh, PA
+PA;1320;WTKZ;;Allentown, PA
+PR;1320;WSKN;;San Juan, PR
+SD;1320;KELO;;Sioux Falls, SD
+TN;1320;WGOC;;Kingsport, TN
+TN;1320;WMSR;;Manchester, TN
+TX;1320;KVMC;;Colorado City, TX
+TX;1320;KXYZ;;Houston, TX
+UT;1320;KNIT;;Salt Lake City, UT
+VA;1320;WBTL;;Richmond, VA
+VA;1320;WVGM;;Lynchburg, VA
+VT;1320;WCVR;;Randolph, VT
+WA;1320;KGDC;;Walla Walla, WA
+WA;1320;KXRO;;Aberdeen, WA
+WI;1320;WFHR;;Wisconsin Rapids, WI
+AK;1330;KXXJ;;Juneau, AK
+CA;1330;KJPR;;Shasta Lake City, CA
+CA;1330;KLBS;;Los Banos, CA
+CA;1330;KWKW;;Los Angeles, CA
+FL;1330;WCVC;;Tallahassee, FL
+FL;1330;WEBY;;Milton, FL
+FL;1330;WJNX;;Fort Pierce, FL
+FL;1330;WWAB;;Lakeland, FL
+GA;1330;WGTJ;;Murrayville, GA
+GA;1330;WLBB;;Carrollton, GA
+GA;1330;WMLT;;Dublin, GA
+IA;1330;KPTY;;Waterloo, IA
+IL;1330;WKTA;;Evanston, IL
+IL;1330;WNTA;;Rockford, IL
+IL;1330;WRAM;;Monmouth, IL
+IN;1330;WBGW;;Evansville, IN
+IN;1330;WTRE;;Greensburg, IN
+KS;1330;KNSS;;Wichita, KS
+KY;1330;WKDP;;Corbin, KY
+LA;1330;KVOL;;Lafayette, LA
+MA;1330;WRCA;;Watertown, MA
+MD;1330;WHGM;;Havre de Grace, MD
+MI;1330;WTRX;;Flint, MI
+MN;1330;WLOL;;Minneapolis, MN
+MS;1330;WNIX;;Greenville, MS
+NM;1330;KGAK;;Gallup, NM
+NY;1330;WEBO;;Owego, NY
+NY;1330;WHAZ;;Troy, NY
+NY;1330;WWRV;;New York, NY
+OH;1330;WFIN;;Findlay, OH
+OH;1330;WGFT;;Campbell, OH
+OH;1330;WINT;;Willoughby, OH
+OH;1330;WYPC;;Wellston, OH
+PA;1330;WFNN;;Erie, PA
+PR;1330;WENA;;Yauco, PR
+SC;1330;WPJS;;Conway, SC
+SC;1330;WYRD;;Greenville, SC
+TN;1330;WAEW;;Crossville, TN
+TX;1330;KCKM;;Monahans, TX
+TX;1330;KGLD;;Tyler, TX
+TX;1330;KINE;;Kingsville, TX
+TX;1330;KTON;;Cameron, TX
+VA;1330;WBTM;;Danville, VA
+VA;1330;WESR;;Onley-Onancock, VA
+VA;1330;WHNK;;Marion, VA
+VA;1330;WRAA;;Luray, VA
+WA;1330;KGRG;;Enumclaw, WA
+WA;1330;KYOZ;;Spokane, WA
+WI;1330;WHBL;;Sheboygan, WI
+WV;1330;WETZ;;New Martinsville, WV
+WY;1330;KOVE;;Lander, WY
+AL;1340;WFEB;;Sylacauga, AL
+AL;1340;WJAM;;Selma, AL
+AL;1340;WLVS;;Florence, AL
+AL;1340;WMHZ;;Holt, AL
+AR;1340;KBTA;;Batesville, AR
+AR;1340;KCAT;;Pine Bluff, AR
+AR;1340;KQIS;;Bethel Heights, AR
+AR;1340;KZNG;;Hot Springs, AR
+AZ;1340;KIKO;;Apache Junction, AZ
+AZ;1340;KPGE;;Page, AZ
+CA;1340;KATA;;Arcata, CA
+CA;1340;KCBL;;Fresno, CA
+CA;1340;KCLU;;Santa Barbara, CA
+CA;1340;KOMY;;La Selva Beach, CA
+CA;1340;KPYV;;Oroville, CA
+CA;1340;KTOX;;Needles, CA
+CA;1340;KTPI;;Mojave, CA
+CA;1340;KVGC;;Jackson, CA
+CA;1340;KWXY;;Cathedral City, CA
+CA;1340;KYNS;;San Luis Obispo, CA
+CO;1340;KDCO;;Denver, CO
+CO;1340;KGKG;;Salida, CO
+CO;1340;KTMM;;Grand Junction, CO
+CT;1340;WYBC;;New Haven, CT
+DC;1340;WYCB;;Washington, DC
+FL;1340;WDSR;;Lake City, FL
+FL;1340;WITS;;Sebring, FL
+FL;1340;WPBR;;Lantana, FL
+FL;1340;WROD;;Daytona Beach, FL
+FL;1340;WTAN;;Clearwater, FL
+FL;1340;WTYS;;Marianna, FL
+FL;1340;WWFL;;Clermont, FL
+GA;1340;WBBT;;Lyons, GA
+GA;1340;WGAA;;Cedartown, GA
+GA;1340;WGAU;;Athens, GA
+GA;1340;WIFN;;Atlanta, GA
+GA;1340;WOKS;;Phenix City, GA
+GA;1340;WTIF;;Tifton, GA
+GA;1340;WYNF;;San Jose, GA
+IA;1340;KROS;;Clinton, IA
+ID;1340;KACH;;Preston, ID
+ID;1340;KXQZ;;Wendell, ID
+IL;1340;WJOL;;Joliet, IL
+IL;1340;WJPF;;Herrin, IL
+IL;1340;WSOY;;Decatur, IL
+IN;1340;WBIW;;Bedford, IN
+IN;1340;WMUN;;Muncie, IN
+IN;1340;WTRC;;Elkhart, IN
+KS;1340;KDTD;;Kansas City, KS
+KS;1340;KGGS;;Garden City, KS
+KS;1340;KSEK;;Pittsburg, KS
+KY;1340;WBVR;;Bowling Green, KY
+KY;1340;WCMI;;Ashland, KY
+KY;1340;WEKY;;Richmond, KY
+KY;1340;WKCB;;Hindman, KY
+KY;1340;WNBS;;Murray, KY
+MA;1340;WBRK;;Pittsfield, MA
+MA;1340;WGAW;;Gardner, MA
+MA;1340;WNBH;;New Bedford, MA
+ME;1340;WBAN;;Veazie, ME
+ME;1340;WMDR;;Augusta, ME
+MI;1340;WAGN;;Menominee, MI
+MI;1340;WCHB;;Royal Oak, MI
+MI;1340;WCSR;;Hillsdale, MI
+MI;1340;WJRW;;Grand Rapids, MI
+MI;1340;WLEW;;Bad Axe, MI
+MI;1340;WMBN;;Petoskey, MI
+MN;1340;KDLM;;Detroit Lakes, MN
+MN;1340;KRBT;;Eveleth, MN
+MN;1340;KROC;;Rochester, MN
+MN;1340;KVBR;;Brainerd, MN
+MN;1340;KWLM;;Willmar, MN
+MO;1340;KICK;;Springfield, MO
+MO;1340;KLID;;Poplar Bluff, MO
+MO;1340;KSMO;;Salem, MO
+MO;1340;KXEO;;Mexico, MO
+MS;1340;WAML;;Laurel, MS
+MT;1340;KPRK;;Livingston, MT
+MT;1340;KQDE;;Evergreen, MT
+MT;1340;KYLT;;Missoula, MT
+NC;1340;WADE;;Wadesboro, NC
+NC;1340;WAGR;;Lumberton, NC
+NC;1340;WCBQ;;Oxford, NC
+NC;1340;WJRI;;Lenoir, NC
+NC;1340;WLSG;;Wilmington, NC
+NC;1340;WPOL;;Winston-Salem, NC
+ND;1340;KPOK;;Bowman, ND
+ND;1340;KXPO;;Grafton, ND
+NE;1340;KGFW;;Kearney, NE
+NE;1340;KHUB;;Fremont, NE
+NE;1340;KSID;;Sidney, NE
+NH;1340;WBNC;;Conway, NH
+NJ;1340;WMID;;Atlantic City, NJ
+NM;1340;KCQL;;Aztec, NM
+NM;1340;KVOT;;Taos, NM
+NV;1340;KKGK;;Las Vegas, NV
+NV;1340;KXEQ;;Reno, NV
+NY;1340;WALL;;Middletown, NY
+NY;1340;WENT;;Gloversville, NY
+NY;1340;WKSN;;Jamestown, NY
+NY;1340;WLVL;;Lockport, NY
+NY;1340;WMBO;;Auburn, NY
+NY;1340;WMSA;;Massena, NY
+OH;1340;WIZE;;Springfield, OH
+OH;1340;WNCO;;Ashland, OH
+OH;1340;WOUB;;Athens, OH
+OK;1340;KGHM;;Calumet, OK
+OK;1340;KJMU;;Sand Springs, OK
+OR;1340;KBBR;;North Bend, OR
+OR;1340;KBNW;;Bend, OR
+OR;1340;KIHR;;Hood River, OR
+OR;1340;KLOO;;Corvallis, OR
+OR;1340;KWVR;;Enterprise, OR
+PA;1340;WHAT;;Philadelphia, PA
+PA;1340;WRAW;;Reading, PA
+PA;1340;WTRN;;Tyrone, PA
+PA;1340;WWPA;;Williamsport, PA
+PA;1340;WYCK;;Plains, PA
+PR;1340;WWNA;;Aguadilla, PR
+SC;1340;WRHI;;Rock Hill, SC
+SC;1340;WSSC;;Sumter, SC
+SD;1340;KIJV;;Huron, SD
+SD;1340;KTOQ;;Rapid City, SD
+TN;1340;WBAC;;Cleveland, TN
+TN;1340;WCDT;;Winchester, TN
+TN;1340;WGRV;;Greeneville, TN
+TN;1340;WKGN;;Knoxville, TN
+TN;1340;WKRM;;Columbia, TN
+TN;1340;WLOK;;Memphis, TN
+TX;1340;KAND;;Corsicana, TX
+TX;1340;KCCE;;San Angelo, TX
+TX;1340;KKAM;;Lubbock, TX
+TX;1340;KOLE;;Port Arthur, TX
+TX;1340;KRBA;;Lufkin, TX
+TX;1340;KVIV;;El Paso, TX
+TX;1340;KVNN;;Victoria, TX
+TX;1340;KWKC;;Abilene, TX
+UT;1340;KTMP;;Heber City, UT
+VA;1340;WBLB;;Pulaski, VA
+VA;1340;WHAP;;Hopewell, VA
+VA;1340;WVCV;;Orange, VA
+VI;1340;WSTA;;Charlotte Amalie, VI
+VT;1340;WSTJ;;St. Johnsbury, VT
+WA;1340;KJOX;;Kennewick, WA
+WA;1340;KUOW;;Tumwater, WA
+WA;1340;KWLE;;Anacortes, WA
+WA;1340;KYSP;;Wenatchee, WA
+WI;1340;WJOI;;Milwaukee, WI
+WI;1340;WLDY;;Ladysmith, WI
+WV;1340;WEPM;;Martinsburg, WV
+WV;1340;WMON;;Montgomery, WV
+WY;1340;KSGT;;Jackson, WY
+WY;1340;KWOR;;Worland, WY
+WY;1340;KYCN;;Wheatland, WY
+AL;1350;WTDR;;Gadsden, AL
+CA;1350;KLHC;;Bakersfield, CA
+CA;1350;KPWK;;San Bernardino, CA
+CA;1350;KSRO;;Santa Rosa, CA
+CO;1350;KUBE;;Pueblo, CO
+CT;1350;WINY;;Putnam, CT
+CT;1350;WNLK;;Norwalk, CT
+FL;1350;WDCF;;Dade City, FL
+FL;1350;WMMV;;Cocoa, FL
+FL;1350;WZKO;;Fort Myers, FL
+GA;1350;WBML;;Warner Robins, GA
+GA;1350;WFNS;;Blackshear, GA
+GA;1350;WRWH;;Cleveland, GA
+GU;1350;KUSG;;Agana, GU
+IA;1350;KRNT;;Des Moines, IA
+ID;1350;KTIK;;Nampa, ID
+IL;1350;WSIQ;;Salem, IL
+IL;1350;WVBP;;Peoria, IL
+IN;1350;WIOU;;Kokomo, IN
+KS;1350;KMAN;;Manhattan, KS
+KY;1350;WLOU;;Louisville, KY
+LA;1350;WWWL;;New Orleans, LA
+MI;1350;WGDN;;Gladwin, MI
+MN;1350;KCHK;;New Prague, MN
+MN;1350;KDIO;;Ortonville, MN
+MN;1350;WCMP;;Pine City, MN
+MO;1350;KRAP;;Washington, MO
+MS;1350;WKCU;;Corinth, MS
+NC;1350;WHIP;;Mooresville, NC
+NC;1350;WLLY;;Wilson, NC
+NC;1350;WZGM;;Black Mountain, NC
+NE;1350;KBRX;;O'Neill, NE
+NH;1350;WHNM;;Laconia, NH
+NJ;1350;WHWH;;Princeton, NJ
+NM;1350;KABQ;;Albuquerque, NM
+NY;1350;WRNY;;Rome, NY
+OH;1350;WARF;;Akron, OH
+OH;1350;WCHI;;Chillicothe, OH
+OH;1350;WCSM;;Celina, OH
+OK;1350;KFTP;;Duncan, OK
+OK;1350;KTLQ;;Tahlequah, OK
+PA;1350;WOYK;;York, PA
+PR;1350;WEGA;;Vega Baja, PR
+TN;1350;WRKM;;Carthage, TN
+TX;1350;KCOX;;Jasper, TX
+TX;1350;KHDY;;Clarksville, TX
+TX;1350;KXTN;;San Antonio, TX
+VA;1350;WBLT;;Bedford, VA
+VA;1350;WGPL;;Portsmouth, VA
+VA;1350;WNTX;;Fredericksburg, VA
+VA;1350;WNVA;;Norton, VA
+WI;1350;WAUN;;Portage, WI
+AL;1360;WIXI;;Jasper, AL
+AL;1360;WLWE;;Roanoke, AL
+AR;1360;KFFA;;Helena, AR
+AR;1360;KGMR;;Clarksville, AR
+AZ;1360;KPXQ;;Glendale, AZ
+CA;1360;KFIV;;Modesto, CA
+CA;1360;KLSD;;San Diego, CA
+CA;1360;KWDJ;;Ridgecrest, CA
+CO;1360;KHNC;;Johnstown, CO
+CT;1360;WDRC;;Hartford, CT
+FL;1360;WCGL;;Jacksonville, FL
+FL;1360;WHNR;;Cypress Gardens, FL
+FL;1360;WQVN;;North Miami, FL
+GA;1360;WEGC;;Metter, GA
+GA;1360;WGJK;;Rome, GA
+IA;1360;KBKB;;Fort Madison, IA
+IA;1360;KMJM;;Cedar Rapids, IA
+IA;1360;KSCJ;;Sioux City, IA
+IL;1360;WLBK;;Dekalb, IL
+KS;1360;KPHN;;El Dorado, KS
+KY;1360;WFLW;;Monticello, KY
+LA;1360;KNIR;;New Iberia, LA
+MA;1360;WLYN;;Lynn, MA
+MI;1360;WKMI;;Kalamazoo, MI
+MI;1360;WKYO;;Caro, MI
+MN;1360;KKBJ;;Bemidji, MN
+MN;1360;KRWC;;Buffalo, MN
+MO;1360;KMRN;;Cameron, MO
+MS;1360;WFFF;;Columbia, MS
+NC;1360;WCHL;;Chapel Hill, NC
+NE;1360;KNGN;;McCook, NE
+NJ;1360;WTOC;;Newton, NJ
+NM;1360;KBUY;;Ruidoso, NM
+NY;1360;WOEN;;Olean, NY
+OH;1360;WSAI;;Cincinnati, OH
+OH;1360;WWOW;;Conneaut, OH
+OR;1360;KOHU;;Hermiston, OR
+OR;1360;KUIK;;Boring, OR
+PA;1360;WGBN;;McKeesport, PA
+PA;1360;WPPA;;Pottsville, PA
+SC;1360;WELP;;Easley, SC
+TN;1360;WBLC;;Lenoir City, TN
+TN;1360;WNAH;;Nashville, TN
+TX;1360;KACT;;Andrews, TX
+TX;1360;KKTX;;Corpus Christi, TX
+TX;1360;KMNY;;Hurst, TX
+TX;1360;KTNZ;;Amarillo, TX
+TX;1360;KWWJ;;Baytown, TX
+VA;1360;WCGX;;Galax, VA
+VA;1360;WHBG;;Harrisonburg, VA
+WA;1360;KKMO;;Tacoma, WA
+WI;1360;WTAQ;;Green Bay, WI
+WI;1360;WVRQ;;Viroqua, WI
+WV;1360;WHJC;;Matewan, WV
+WV;1360;WMOV;;Ravenswood, WV
+WY;1360;KRKK;;Rock Springs, WY
+AR;1370;KAWW;;Heber Springs, AR
+CA;1370;KGEN;;Tulare, CA
+CA;1370;KRAC;;Red Bluff, CA
+CA;1370;KWRM;;Corona, CA
+CA;1370;KZSF;;San Jose, CA
+FL;1370;WCOA;;Pensacola, FL
+FL;1370;WOCA;;Ocala, FL
+FL;1370;WZTA;;Vero Beach, FL
+GA;1370;WFDR;;Manchester, GA
+GA;1370;WLOP;;Jesup, GA
+GA;1370;WLOV;;Washington, GA
+HI;1370;KHXM;;Pearl City, HI
+IA;1370;KDTH;;Dubuque, IA
+IL;1370;WLLM;;Lincoln, IL
+IN;1370;WLTH;;Gary, IN
+IN;1370;WWZN;;Bloomington, IN
+KS;1370;KGNO;;Dodge City, KS
+KS;1370;KIOL;;Iola, KS
+KY;1370;WGOH;;Grayson, KY
+KY;1370;WQEZ;;Fort Campbell, KY
+KY;1370;WTKY;;Tompkinsville, KY
+MD;1370;WQLL;;Pikesville, MD
+ME;1370;WDEA;;Ellsworth, ME
+MI;1370;WGHA;;Grand Haven, MI
+MI;1370;WLJW;;Cadillac, MI
+MN;1370;KSUM;;Fairmont, MN
+MO;1370;KCRV;;Caruthersville, MO
+MO;1370;KWRT;;Boonville, MO
+MS;1370;WMGO;;Canton, MS
+MT;1370;KXTL;;Butte, MT
+NC;1370;WGIV;;Pineville, NC
+NC;1370;WLLN;;Lillington, NC
+ND;1370;KWTL;;Grand Forks, ND
+NE;1370;KAWL;;York, NE
+NH;1370;WFEA;;Manchester, NH
+NY;1370;WJJP;;Ellenville, NY
+NY;1370;WLID;;East Patchogue, NY
+NY;1370;WXXI;;Rochester, NY
+OH;1370;WSPD;;Toledo, OH
+OR;1370;KAST;;Astoria, OR
+PA;1370;WKMC;;Roaring Spring, PA
+PA;1370;WPAZ;;Pottstown, PA
+PA;1370;WWCB;;Corry, PA
+PR;1370;WIVV;;Viequez Island, PR
+TN;1370;WDXE;;Lawrenceburg, TN
+TN;1370;WRGS;;Rogersville, TN
+TN;1370;WXCT;;Chattanooga, TN
+TX;1370;KFRO;;Longview, TX
+TX;1370;KJCE;;Rollingwood, TX
+UT;1370;KSOP;;South Salt Lake, UT
+VA;1370;WHEE;;Martinsville, VA
+VA;1370;WSHV;;South Hill, VA
+VT;1370;WBTN;;Bennington, VT
+WA;1370;KWNC;;Quincy, WA
+WI;1370;WCCN;;Neillsville, WI
+WV;1370;WVLY;;Moundsville, WV
+WV;1370;WVMR;;Frost, WV
+AL;1380;WGYV;;Greenville, AL
+AL;1380;WRAB;;Arab, AL
+AL;1380;WVSA;;Vernon, AL
+AR;1380;KZTS;;North Little Rock, AR
+CA;1380;KOSS;;Lancaster, CA
+CA;1380;KTKZ;;Sacramento, CA
+CA;1380;KVSM;;Santa Maria, CA
+CT;1380;WFNW;;Naugatuck, CT
+DE;1380;WTMC;;Wilmington, DE
+FL;1380;WELE;;Ormond Beach, FL
+FL;1380;WWMI;;St. Petersburg, FL
+FL;1380;WWRF;;Lake Worth, FL
+GA;1380;WAOK;;Atlanta, GA
+IA;1380;KCII;;Washington, IA
+IA;1380;KCIM;;Carroll, IA
+IL;1380;WBEL;;South Beloit, IL
+IN;1380;WKJG;;Fort Wayne, IN
+KS;1380;KCNW;;Fairway, KS
+KY;1380;WMJR;;Winchester, KY
+KY;1380;WMTA;;Central City, KY
+LA;1380;WPYR;;Baton Rouge, LA
+MI;1380;WGLM;;Greenville, MI
+MI;1380;WPHM;;Port Huron, MI
+MN;1380;KHWK;;Winona, MN
+MN;1380;KLIZ;;Brainerd, MN
+MO;1380;KXFN;;St. Louis, MO
+NC;1380;WKJV;;Asheville, NC
+NC;1380;WWNT;;Winston-Salem, NC
+NE;1380;KUVR;;Holdrege, NE
+NY;1380;WABH;;Bath, NY
+NY;1380;WKDM;;New York, NY
+OH;1380;WDLW;;Lorain, OH
+OK;1380;KMUS;;Sperry, OK
+OK;1380;KXCA;;Lawton, OK
+PA;1380;WIKG;;Waynesboro, PA
+PA;1380;WKFO;;Kittanning, PA
+PA;1380;WMLP;;Milton, PA
+PR;1380;WOLA;;Barranquitas, PR
+RI;1380;WNRI;;Woonsocket, RI
+SC;1380;WNRR;;North Augusta, SC
+SD;1380;KOTA;;Rapid City, SD
+SD;1380;KQKD;;Redfield, SD
+TN;1380;WHEW;;Franklin, TN
+TN;1380;WLRM;;Millington, TN
+TN;1380;WYSH;;Clinton, TN
+TX;1380;KBWD;;Brownwood, TX
+TX;1380;KHEY;;El Paso, TX
+TX;1380;KRCM;;Shenandoah, TX
+TX;1380;KWMF;;Pleasanton, TX
+VA;1380;WBTK;;Richmond, VA
+VA;1380;WLRV;;Lebanon, VA
+VT;1380;WSYB;;Rutland, VT
+WA;1380;KRKO;;Everett, WA
+WI;1380;WOTE;;Clintonville, WI
+WV;1380;WMTD;;Hinton, WV
+AL;1390;WHMA;;Anniston, AL
+AR;1390;KDQN;;De Queen, AR
+AR;1390;KFFK;;Rogers, AR
+CA;1390;KLOC;;Turlock, CA
+CA;1390;KLTX;;Long Beach, CA
+CO;1390;KGNU;;Denver, CO
+FL;1390;WAJD;;Gainesville, FL
+FL;1390;WAVP;;Avon Park, FL
+GA;1390;WTNL;;Reidsville, GA
+IA;1390;KCLN;;Clinton, IA
+IL;1390;WFIW;;Fairfield, IL
+IL;1390;WGRB;;Chicago, IL
+IN;1390;WZZB;;Seymour, IN
+KS;1390;KNCK;;Concordia, KS
+KY;1390;WKIC;;Hazard, KY
+LA;1390;KFRA;;Franklin, LA
+MA;1390;WPLM;;Plymouth, MA
+ME;1390;WEGP;;Presque Isle, ME
+MI;1390;WLCM;;Charlotte, MI
+MN;1390;KRFO;;Owatonna, MN
+MN;1390;KXSS;;Waite Park, MN
+MO;1390;KJPW;;Waynesville, MO
+MS;1390;WMER;;Meridian, MS
+MS;1390;WNLA;;Indianola, MS
+MS;1390;WROA;;Gulfport, MS
+NC;1390;WEED;;Rocky Mount, NC
+NC;1390;WJRM;;Troy, NC
+NC;1390;WOHS;;Shelby, NC
+ND;1390;KRRZ;;Minot, ND
+NM;1390;KENN;;Farmington, NM
+NY;1390;WEOK;;Poughkeepsie, NY
+NY;1390;WFBL;;Syracuse, NY
+NY;1390;WRIV;;Riverhead, NY
+OH;1390;WBLL;;Bellefontaine, OH
+OH;1390;WMPO;;Middleport-Pomeroy, OH
+OH;1390;WNIO;;Youngstown, OH
+OK;1390;KCRC;;Enid, OK
+OR;1390;KZGD;;Salem, OR
+PA;1390;WBHV;;State College, PA
+PA;1390;WLAN;;Lancaster, PA
+PR;1390;WISA;;Isabela, PR
+SC;1390;WABB;;Belton, SC
+SC;1390;WSPO;;Charleston, SC
+SD;1390;KJAM;;Madison, SD
+TN;1390;WMCT;;Mountain City, TN
+TN;1390;WTJF;;Jackson, TN
+TN;1390;WYXI;;Athens, TN
+TX;1390;KBEC;;Waxahachie, TX
+TX;1390;KULP;;El Campo, TX
+UT;1390;KLGN;;Logan, UT
+VA;1390;WPLY;;Lynchburg, VA
+VA;1390;WZHF;;Arlington, VA
+WA;1390;KBBO;;Yakima, WA
+WI;1390;WRIG;;Schofield, WI
+WV;1390;WKLP;;Keyser, WV
+AL;1400;WANI;;Opelika, AL
+AL;1400;WJLD;;Fairfield, AL
+AL;1400;WWTM;;Decatur, AL
+AR;1400;KELD;;El Dorado, AR
+AR;1400;KWYN;;Wynne, AR
+AZ;1400;KCYK;;Yuma, AZ
+AZ;1400;KRVZ;;Springerville, AZ
+AZ;1400;KSUN;;Phoenix, AZ
+AZ;1400;KTUC;;Tucson, AZ
+CA;1400;KIHH;;Eureka, CA
+CA;1400;KKJL;;San Luis Obispo, CA
+CA;1400;KNRO;;Redding, CA
+CA;1400;KRZR;;Visalia, CA
+CA;1400;KUKI;;Ukiah, CA
+CA;1400;KUNX;;Santa Paula, CA
+CA;1400;KVTO;;Berkeley, CA
+CO;1400;KBLJ;;La Junta, CO
+CO;1400;KFTM;;Fort Morgan, CO
+CO;1400;KJYE;;Delta, CO
+CO;1400;KRLN;;Canon City, CO
+CO;1400;KWUF;;Pagosa Springs, CO
+CT;1400;WILI;;Willimantic, CT
+CT;1400;WSTC;;Stamford, CT
+FL;1400;WFLL;;Coral Springs, FL
+FL;1400;WIRA;;Fort Pierce, FL
+FL;1400;WPRY;;Perry, FL
+FL;1400;WSDO;;Sanford, FL
+FL;1400;WZAZ;;Jacksonville, FL
+FL;1400;WZHR;;Zephyrhills, FL
+GA;1400;WAWO;;Alma, GA
+GA;1400;WHLJ;;Moultrie, GA
+GA;1400;WLTA;;Alpharetta, GA
+GA;1400;WRZX;;Newnan, GA
+GA;1400;WSEG;;Savannah, GA
+GA;1400;WUXL;;Macon, GA
+GA;1400;WVGC;;Elberton, GA
+IA;1400;KADR;;Elkader, IA
+IA;1400;KCOG;;Centerville, IA
+IA;1400;KVFD;;Fort Dodge, IA
+ID;1400;KART;;Jerome, ID
+ID;1400;KRPL;;Moscow, ID
+ID;1400;KSPT;;Sandpoint, ID
+IL;1400;WDWS;;Champaign, IL
+IL;1400;WGIL;;Galesburg, IL
+IN;1400;WBAT;;Marion, IN
+IN;1400;WEOA;;Evansville, IN
+KS;1400;KAYS;;Hays, KS
+KS;1400;KVOE;;Emporia, KS
+KY;1400;WCYN;;Cynthiana, KY
+KY;1400;WFTG;;London, KY
+KY;1400;WIEL;;Elizabethtown, KY
+LA;1400;KAOK;;Lake Charles, LA
+LA;1400;WFPR;;Hammond, LA
+MA;1400;WHMP;;Northampton, MA
+MA;1400;WHTB;;Fall River, MA
+MA;1400;WLLH;;Lowell, MA
+MD;1400;WWIN;;Baltimore, MD
+ME;1400;WHZP;;Veazie, ME
+ME;1400;WJZN;;Augusta, ME
+ME;1400;WVAE;;Biddeford, ME
+MI;1400;WBFN;;Battle Creek, MI
+MI;1400;WCCY;;Houghton, MI
+MI;1400;WDTK;;Detroit, MI
+MI;1400;WKNW;;Saul St Marie, MI
+MI;1400;WLJN;;Elmwood Township, MI
+MI;1400;WQXO;;Munising, MI
+MI;1400;WQYQ;;St. Joseph, MI
+MI;1400;WSAM;;Saginaw, MI
+MN;1400;KEYL;;Long Prairie, MN
+MN;1400;KMHL;;Marshall, MN
+MN;1400;KMNV;;Saint Paul, MN
+MO;1400;KFRU;;Columbia, MO
+MO;1400;KGMY;;Springfield, MO
+MO;1400;KJFF;;Festus, MO
+MO;1400;KSIM;;Sikeston, MO
+MS;1400;WBIP;;Booneville, MS
+MS;1400;WFOR;;Hattiesburg, MS
+MS;1400;WJQS;;Jackson, MS
+MT;1400;KXGF;;Great Falls, MT
+MT;1400;KXGN;;Glendive, MT
+NC;1400;WAVQ;;Jacksonville, NC
+NC;1400;WKEW;;Greensboro, NC
+NC;1400;WMFA;;Raeford, NC
+NC;1400;WMXF;;Waynesville, NC
+NC;1400;WSIC;;Statesville, NC
+NC;1400;WSMY;;Weldon, NC
+ND;1400;KQDJ;;Jamestown, ND
+NE;1400;KBRB;;Ainsworth, NE
+NE;1400;KCOW;;Alliance, NE
+NE;1400;KLIN;;Lincoln, NE
+NH;1400;WLTN;;Littleton, NH
+NJ;1400;WOND;;Pleasantville, NJ
+NM;1400;KCHS;;Truth Or Consequences, NM
+NM;1400;KTNM;;Tucumcari, NM
+NM;1400;KVSF;;Santa Fe, NM
+NV;1400;KNNR;;Sparks, NV
+NV;1400;KSHP;;North Las Vegas, NV
+NY;1400;WAMC;;Albany, NY
+NY;1400;WDNY;;Dansville, NY
+NY;1400;WSLB;;Ogdensburg, NY
+NY;1400;WWWS;;Buffalo, NY
+OH;1400;WMAN;;Mansfield, OH
+OK;1400;KREF;;Norman, OK
+OK;1400;KTMC;;McAlester, OK
+OK;1400;KWON;;Bartlesville, OK
+OR;1400;KBCH;;Lincoln City, OR
+OR;1400;KFJL;;Central Point, OR
+OR;1400;KJDY;;John Day, OR
+OR;1400;KNND;;Cottage Grove, OR
+PA;1400;WEST;;Easton, PA
+PA;1400;WHGB;;Harrisburg, PA
+PA;1400;WICK;;Scranton, PA
+PA;1400;WJET;;Erie, PA
+PA;1400;WKBI;;St. Marys, PA
+PA;1400;WRAK;;Williamsport, PA
+PA;1400;WYUP;;Loretto, PA
+PR;1400;WIDA;;Carolina, PR
+SC;1400;WCOS;;Columbia, SC
+SC;1400;WGTN;;Georgetown, SC
+SC;1400;WJMX;;Darlington, SC
+SC;1400;WSPG;;Spartanburg, SC
+SD;1400;KBJM;;Lemmon, SD
+TN;1400;WGAP;;Maryville, TN
+TN;1400;WHUB;;Cookeville, TN
+TN;1400;WKPT;;Kingsport, TN
+TN;1400;WNZE;;Clarksville, TN
+TN;1400;WZNG;;Shelbyville, TN
+TX;1400;KBYG;;Big Spring, TX
+TX;1400;KEBE;;Jacksonville, TX
+TX;1400;KEYE;;Perryton, TX
+TX;1400;KGVL;;Greenville, TX
+TX;1400;KGWU;;Uvalde, TX
+TX;1400;KHCB;;Galveston, TX
+TX;1400;KIUN;;Pecos, TX
+TX;1400;KKTK;;Texarkana, TX
+TX;1400;KREW;;Plainview, TX
+TX;1400;KRUN;;Ballinger, TX
+TX;1400;KTEM;;Temple, TX
+TX;1400;KUNO;;Corpus Christi, TX
+TX;1400;KVRP;;Stamford, TX
+UT;1400;KAZZ;;Parowan, UT
+UT;1400;KIXR;;Provo, UT
+VA;1400;WAJL;;South Boston, VA
+VA;1400;WHHV;;Hillsville, VA
+VA;1400;WINC;;Winchester, VA
+VA;1400;WKAV;;Charlottesville, VA
+VA;1400;WPCE;;Portsmouth, VA
+WA;1400;KBAM;;Longview, WA
+WA;1400;KLCK;;Goldendale, WA
+WA;1400;KRSC;;Othello, WA
+WI;1400;WATW;;Ashland, WI
+WI;1400;WBIZ;;Eau Claire, WI
+WI;1400;WDUZ;;Green Bay, WI
+WI;1400;WRDB;;Reedsburg, WI
+WI;1400;WRJN;;Racine, WI
+WV;1400;WBBD;;Wheeling, WV
+WV;1400;WBTH;;Williamson, WV
+WV;1400;WVRC;;Spencer, WV
+WY;1400;KKTL;;Casper, WY
+WY;1400;KODI;;Cody, WY
+AL;1410;WNGL;;Mobile, AL
+AL;1410;WZZA;;Tuscumbia, AL
+AR;1410;KTCS;;Fort Smith, AR
+CA;1410;KCAL;;Redlands, CA
+CA;1410;KERI;;Bakersfield, CA
+CA;1410;KMYC;;Marysville, CA
+CA;1410;KRML;;Carmel, CA
+CA;1410;KTNK;;Lompoc, CA
+CO;1410;KIIX;;Fort Collins, CO
+CT;1410;WPOP;;Hartford, CT
+DE;1410;WDOV;;Dover, DE
+FL;1410;WMYR;;Fort Myers, FL
+FL;1410;WQBQ;;Leesburg, FL
+GA;1410;WKKP;;McDonough, GA
+GA;1410;WLAQ;;Rome, GA
+GA;1410;WYIS;;McRae, GA
+IA;1410;KGRN;;Grinnell, IA
+IA;1410;KLEM;;Le Mars, IA
+IL;1410;WIHM;;Taylorville, IL
+IL;1410;WRMN;;Elgin, IL
+IN;1410;WSHY;;Lafayette, IN
+KS;1410;KGSO;;Wichita, KS
+KS;1410;KKLO;;Leavenworth, KS
+KY;1410;WHLN;;Harlan, KY
+LA;1410;KDBS;;Alexandria, LA
+MD;1410;WHAG;;Halfway, MD
+MI;1410;WNWZ;;Grand Rapids, MI
+MN;1410;KLFD;;Litchfield, MN
+MN;1410;KRWB;;Roseau, MN
+NC;1410;WRJD;;Durham, NC
+ND;1410;KDKT;;Beulah, ND
+NE;1410;KOOQ;;North Platte, NE
+NJ;1410;WHTG;;Eatontown, NJ
+NY;1410;WDOE;;Dunkirk, NY
+NY;1410;WELM;;Elmira, NY
+NY;1410;WENU;;South Glen Falls, NY
+NY;1410;WNER;;Watertown, NY
+OH;1410;WING;;Dayton, OH
+OR;1410;KBNP;;Portland, OR
+PA;1410;KQV;;Pittsburgh, PA
+PA;1410;WLSH;;Lansford, PA
+PR;1410;WRSS;;San Sebastian, PR
+SC;1410;WPCC;;Clinton, SC
+TN;1410;WCMT;;Martin, TN
+TN;1410;WVVB;;Kingston, TN
+TX;1410;KHCH;;Huntsville, TX
+TX;1410;KITE;;Victoria, TX
+TX;1410;KLVQ;;Athens, TX
+TX;1410;KNTX;;Bowie, TX
+TX;1410;KROY;;San Saba, TX
+VA;1410;WRTZ;;Roanoke, VA
+WI;1410;WIZM;;La Crosse, WI
+WV;1410;WSCW;;South Charleston, WV
+WY;1410;KWYO;;Sheridan, WY
+AL;1420;WACT;;Tuscaloosa, AL
+AR;1420;KBHS;;Hot Springs, AR
+AR;1420;KPOC;;Pocahontas, AR
+AZ;1420;KMOG;;Payson, AZ
+AZ;1420;KTAN;;Sierra Vista, AZ
+CA;1420;KSTN;;Stockton, CA
+CT;1420;WLIS;;Old Saybrook, CT
+FL;1420;WAOC;;St. Augustine, FL
+FL;1420;WBRD;;Palmetto, FL
+FL;1420;WDJA;;Delray Beach, FL
+GA;1420;WKWN;;Trenton, GA
+GA;1420;WPEH;;Louisville, GA
+GA;1420;WRCG;;Columbus, GA
+GA;1420;WWSZ;;Decatur, GA
+HI;1420;KKEA;;Honolulu, HI
+IA;1420;WOC;;Davenport, IA
+ID;1420;KIGO;;St. Anthony, ID
+IL;1420;WINI;;Murphysboro, IL
+IN;1420;WIMS;;Michigan City, IN
+KS;1420;KJCK;;Junction City, KS
+KS;1420;KULY;;Ulysses, KS
+KY;1420;WHBN;;Harrodsburg, KY
+KY;1420;WVJS;;Owensboro, KY
+LA;1420;KPEL;;Lafayette, LA
+MA;1420;WBEC;;Pittsfield, MA
+MA;1420;WBSM;;New Bedford, MA
+MI;1420;WFLT;;Flint, MI
+MN;1420;KTOE;;Mankato, MN
+MO;1420;KBTN;;Neosho, MO
+MO;1420;KRLL;;California, MO
+NC;1420;WGAS;;South Gastonia, NC
+NC;1420;WMYN;;Mayodan, NC
+NE;1420;KXCB;;Omaha, NE
+NH;1420;WASR;;Wolfeboro, NH
+NY;1420;WACK;;Newark, NY
+NY;1420;WLNA;;Peekskill, NY
+NY;1420;WNRS;;Herkimer, NY
+OH;1420;WHK;;Cleveland, OH
+OK;1420;KTJS;;Hobart, OK
+OR;1420;KMHS;;Coos Bay, OR
+PA;1420;WCED;;Du Bois, PA
+PA;1420;WCOJ;;Coatesville, PA
+PR;1420;WUKQ;;Ponce, PR
+SC;1420;WCRE;;Cheraw, SC
+SD;1420;KGIM;;Aberdeen, SD
+TN;1420;WEMB;;Erwin, TN
+TN;1420;WKSR;;Pulaski, TN
+TX;1420;KGNB;;New Braunfels, TX
+TX;1420;KPIR;;Granbury, TX
+TX;1420;KWBF;;Lubbock, TX
+VA;1420;WAMV;;Amherst, VA
+VA;1420;WKCW;;Warrenton, VA
+VA;1420;WXGM;;Gloucester, VA
+VT;1420;WKAF;;St. Albans, VT
+WA;1420;KITI;;Centralia-Chehalis, WA
+WA;1420;KRIZ;;Renton, WA
+WA;1420;KUJ;;Walla Walla, WA
+WI;1420;WGXI;;Plymouth, WI
+WV;1420;WZWB;;Kenova, WV
+AK;1430;KVHZ;;Hart Lake, AK
+AL;1430;WFHK;;Pell City, AL
+AL;1430;WRMG;;Red Bay, AL
+CA;1430;KFIG;;Fresno, CA
+CA;1430;KJAY;;Sacramento, CA
+CA;1430;KMRB;;San Gabriel, CA
+CA;1430;KVVN;;Santa Clara, CA
+CA;1430;KWST;;El Centro, CA
+CO;1430;KAMP;;Aurora, CO
+FL;1430;WLKF;;Lakeland, FL
+FL;1430;WLTG;;Panama City, FL
+FL;1430;WOIR;;Homestead, FL
+FL;1430;WTMN;;Gainesville, FL
+GA;1430;WDAL;;Dalton, GA
+GA;1430;WYKG;;Covington, GA
+IA;1430;KASI;;Ames, IA
+IL;1430;WCMY;;Ottawa, IL
+IL;1430;WEEF;;Highland Park, IL
+IN;1430;WXNT;;Indianapolis, IN
+KY;1430;WLCB;;Buffalo, KY
+KY;1430;WYMC;;Mayfield, KY
+LA;1430;KMRC;;Morgan City, LA
+MA;1430;WKOX;;Everett, MA
+MD;1430;WNAV;;Annapolis, MD
+MI;1430;WION;;Ionia, MI
+MN;1430;KNSP;;Staples, MN
+MO;1430;KKOZ;;Ava, MO
+MO;1430;KROL;;Carrollton, MO
+NC;1430;WDEX;;Monroe, NC
+NC;1430;WDJS;;Mount Olive, NC
+NC;1430;WMNC;;Morganton, NC
+NC;1430;WRXO;;Roxboro, NC
+NE;1430;KRGI;;Grand Island, NE
+NJ;1430;WNSW;;Newark, NJ
+NY;1430;WENE;;Endicott, NY
+OH;1430;WCLT;;Newark, OH
+OH;1430;WFOB;;Fostoria, OH
+OK;1430;KALV;;Alva, OK
+OK;1430;KTBZ;;Tulsa, OK
+OR;1430;KYKN;;Keizer, OR
+PA;1430;WTNA;;Altoona, PA
+PR;1430;WNEL;;Caguas, PR
+SC;1430;WBLR;;Batesburg, SC
+SD;1430;KBRK;;Brookings, SD
+TN;1430;WOWW;;Germantown, TN
+TN;1430;WYGI;;Madison, TN
+TX;1430;KEES;;Gladewater, TX
+TX;1430;KSHJ;;Houston, TX
+UT;1430;KMES;;Ogden, UT
+VA;1430;WHAN;;Ashland, VA
+VA;1430;WKEX;;Blacksburg, VA
+WA;1430;KBRC;;Mount Vernon, WA
+WA;1430;KCLK;;Asotin, WA
+WI;1430;WBEV;;Beaver Dam, WI
+WI;1430;WRDN;;Durand, WI
+WV;1430;WEIR;;Weirton, WV
+AL;1440;WLWI;;Montgomery, AL
+AR;1440;KTUV;;Little Rock, AR
+AZ;1440;KAZG;;Scottsdale, AZ
+CA;1440;KFOO;;Riverside, CA
+CA;1440;KUHL;;Santa Maria, CA
+CA;1440;KVON;;Napa, CA
+CO;1440;KRDZ;;Wray, CO
+FL;1440;WPRD;;Winter Park, FL
+FL;1440;WWCL;;Lehigh Acres, FL
+GA;1440;WDXQ;;Cochran, GA
+GA;1440;WGIG;;Brunswick, GA
+IA;1440;KCHE;;Cherokee, IA
+ID;1440;KHLY;;Hailey, ID
+IL;1440;WIBH;;Anna, IL
+IL;1440;WROK;;Rockford, IL
+IN;1440;WPGW;;Portland, IN
+KS;1440;KMAJ;;Topeka, KS
+KY;1440;WYGH;;Paris, KY
+MA;1440;WVEI;;Worcester, MA
+ME;1440;WRED;;Westbrook, ME
+MI;1440;WMAX;;Bay City, MI
+MI;1440;WMKM;;Inkster, MI
+MN;1440;KYCR;;Golden Valley, MN
+MP;1440;KKMP;;Saipan, MP
+MS;1440;WOCJ;;Pontotoc, MS
+MS;1440;WVGG;;Lucedale, MS
+NC;1440;WBLA;;Elizabethtown, NC
+NC;1440;WLXN;;Lexington, NC
+ND;1440;KKXL;;Grand Forks, ND
+NJ;1440;WMVB;;Millville, NJ
+NY;1440;WEBR;;Niagara Falls, NY
+NY;1440;WFNY;;Gloversville, NY
+NY;1440;WLIM;;Medford, NY
+NY;1440;WSGO;;Oswego, NY
+OH;1440;WHKZ;;Warren, OH
+OH;1440;WRGM;;Ontario, OH
+OR;1440;KODL;;The Dalles, OR
+PA;1440;WCDL;;Carbondale, PA
+PA;1440;WLCH;;Manchester Township, PA
+PA;1440;WNPV;;Lansdale, PA
+SC;1440;WGVL;;Greenville, SC
+SC;1440;WJBS;;Holly Hill, SC
+TN;1440;WHDM;;McKenzie, TN
+TN;1440;WZYX;;Cowan, TN
+TX;1440;KELG;;Manor, TX
+TX;1440;KETX;;Livingston, TX
+TX;1440;KEXB;;Denton, TX
+TX;1440;KEYS;;Corpus Christi, TX
+TX;1440;KPUR;;Amarillo, TX
+VA;1440;WKLV;;Blackstone, VA
+WI;1440;WNFL;;Green Bay, WI
+WV;1440;WAJR;;Morgantown, WV
+WV;1440;WHIS;;Bluefield, WV
+AK;1450;KLAM;;Cordova, AK
+AL;1450;WDIG;;Dothan, AL
+AL;1450;WDNG;;Anniston, AL
+AL;1450;WLAY;;Muscle Shoals, AL
+AL;1450;WTKI;;Huntsville, AL
+AL;1450;WZGX;;Bessemer, AL
+AR;1450;KNHD;;Camden, AR
+AZ;1450;KNOT;;Prescott, AZ
+AZ;1450;KTZR;;Tucson, AZ
+CA;1450;KEST;;San Francisco, CA
+CA;1450;KFSD;;Escondido, CA
+CA;1450;KOBO;;Yuba City, CA
+CA;1450;KQTE;;Helendale, CA
+CA;1450;KTIP;;Porterville, CA
+CA;1450;KVML;;Sonora, CA
+CO;1450;KAVP;;Colona, CO
+CO;1450;KGIW;;Alamosa, CO
+CO;1450;KGRE;;Greeley, CO
+CT;1450;WCUM;;Bridgeport, CT
+DC;1450;WOL;;Washington, DC
+DE;1450;WILM;;Wilmington, DE
+FL;1450;WBSR;;Pensacola, FL
+FL;1450;WKAT;;Miami, FL
+FL;1450;WMFJ;;Daytona Beach, FL
+FL;1450;WSDV;;Sarasota, FL
+FL;1450;WSTU;;Stuart, FL
+FL;1450;WTAL;;Tallahassee, FL
+FL;1450;WWJB;;Brooksville, FL
+GA;1450;WBHF;;Atlanta, GA
+GA;1450;WCON;;Cornelia, GA
+GA;1450;WKEU;;Griffin, GA
+GA;1450;WMVG;;Milledgeville, GA
+GA;1450;WVLD;;Valdosta, GA
+IA;1450;KMRY;;Cedar Rapids, IA
+ID;1450;KBFI;;Bonners Ferry, ID
+ID;1450;KEZJ;;Twin Falls, ID
+ID;1450;KTRP;;Notus, ID
+ID;1450;KVSI;;Montpelier, ID
+IL;1450;WFMB;;Springfield, IL
+IL;1450;WKEI;;Kewanee, IL
+IL;1450;WRLL;;Cicero, IL
+IN;1450;WAOV;;Vincennes, IN
+IN;1450;WASK;;Lafayette, IN
+IN;1450;WIOE;;Fort Wayne, IN
+IN;1450;WXVW;;Jeffersonville, IN
+KS;1450;KWBW;;Hutchinson, KS
+KY;1450;WDXR;;Paducah, KY
+KY;1450;WTCO;;Campbellsville, KY
+KY;1450;WWKU;;Glasgow, KY
+KY;1450;WWXL;;Manchester, KY
+LA;1450;KSIG;;Crowley, LA
+MA;1450;WHLL;;Springfield, MA
+MA;1450;WNBP;;Newburyport, MA
+MD;1450;WTBO;;Cumberland, MD
+MD;1450;WTHU;;Thurmont, MD
+ME;1450;WPNO;;South Paris, ME
+MI;1450;WHLS;;Port Huron, MI
+MI;1450;WHTC;;Holland, MI
+MI;1450;WIBM;;Jackson, MI
+MI;1450;WKLA;;Ludington, MI
+MI;1450;WMIQ;;Iron Mountain, MI
+MI;1450;WNBY;;Newberry, MI
+MN;1450;KATE;;Albert Lea, MN
+MN;1450;KBMW;;Breckenridge, MN
+MN;1450;KBUN;;Bemidji, MN
+MN;1450;KNSI;;St. Cloud, MN
+MN;1450;WELY;;Ely, MN
+MO;1450;KIRX;;Kirksville, MO
+MO;1450;KOKO;;Warrensburg, MO
+MO;1450;KQYX;;Joplin, MO
+MO;1450;KWPM;;West Plains, MO
+MS;1450;WCJU;;Columbia, MS
+MS;1450;WNAT;;Natchez, MS
+MS;1450;WROX;;Clarksdale, MS
+MS;1450;WYHL;;Meridian, MS
+MT;1450;KGRZ;;Missoula, MT
+MT;1450;KMMS;;Bozeman, MT
+MT;1450;KQDI;;Great Falls, MT
+MT;1450;KVCK;;Wolf Point, MT
+NC;1450;WATA;;Boone, NC
+NC;1450;WGNC;;Gastonia, NC
+NC;1450;WHKP;;Hendersonville, NC
+NC;1450;WIZS;;Flat Rock, NC
+NC;1450;WMRV;;Spring Lake, NC
+NC;1450;WNOS;;New Bern, NC
+ND;1450;KZZJ;;Rugby, ND
+NE;1450;KWBE;;Beatrice, NE
+NH;1450;WKXL;;Concord, NH
+NJ;1450;WCTC;;New Brunswick, NJ
+NJ;1450;WPGG;;Atlantic City, NJ
+NM;1450;KLMX;;Clayton, NM
+NM;1450;KOBE;;Las Cruces, NM
+NM;1450;KRZY;;Albuquerque, NM
+NM;1450;KSEL;;Portales, NM
+NM;1450;KWES;;Ruidoso, NM
+NV;1450;KHIT;;Reno, NV
+NY;1450;WENI;;Corning, NY
+NY;1450;WKAL;;Rome, NY
+NY;1450;WKIP;;Poughkeepsie, NY
+NY;1450;WOLY;;Olean, NY
+NY;1450;WWSC;;Glens Falls, NY
+OH;1450;WJER;;Dover-New Philadelphia, OH
+OH;1450;WLEC;;Sandusky, OH
+OH;1450;WMOH;;Hamilton, OH
+OK;1450;KGFF;;Shawnee, OK
+OK;1450;KSIW;;Woodward, OK
+OK;1450;KWHW;;Altus, OK
+OR;1450;KBPS;;Portland, OR
+OR;1450;KEED;;Eugene, OR
+OR;1450;KFLS;;Klamath Falls, OR
+OR;1450;KLBM;;La Grande, OR
+PA;1450;WDAD;;Indiana, PA
+PA;1450;WFRA;;Franklin, PA
+PA;1450;WJPA;;Washington, PA
+PA;1450;WLEJ;;State College, PA
+PA;1450;WPSE;;Erie, PA
+PA;1450;WYNY;;Milford, PA
+PR;1450;WCPR;;Coamo, PR
+RI;1450;WWRI;;West Warwick, RI
+SC;1450;WCRS;;Greenwood, SC
+SC;1450;WWHK;;Myrtle Beach, SC
+SD;1450;KBFS;;Belle Fourche, SD
+SD;1450;KYNT;;Yankton, SD
+TN;1450;WGNS;;Murfreesboro, TN
+TN;1450;WLAF;;La Follette, TN
+TN;1450;WLAR;;Athens, TN
+TN;1450;WLMR;;Chattanooga, TN
+TN;1450;WSMG;;Greeneville, TN
+TN;1450;WTRO;;Dyersburg, TN
+TX;1450;KCTI;;Gonzales, TX
+TX;1450;KCYL;;Lampasas, TX
+TX;1450;KIKR;;Beaumont, TX
+TX;1450;KMBL;;Junction, TX
+TX;1450;KMHT;;Marshall, TX
+TX;1450;KNET;;Palestine, TX
+TX;1450;KSNY;;Snyder, TX
+UT;1450;KEYY;;Provo, UT
+UT;1450;KSGO;;St. George, UT
+VA;1450;WFTR;;Front Royal, VA
+VA;1450;WREL;;Lexington, VA
+VA;1450;WVNZ;;Highland Springs, VA
+VT;1450;WTSA;;Brattleboro, VT
+WA;1450;KBKW;;Aberdeen, WA
+WA;1450;KCLX;;Colfax, WA
+WA;1450;KONP;;Port Angeles, WA
+WA;1450;KSUH;;Puyallup, WA
+WI;1450;KFIZ;;Fond Du Lac, WI
+WI;1450;WDLB;;Marshfield, WI
+WI;1450;WHRY;;Hurley, WI
+WI;1450;WRCE;;Richland Center, WI
+WV;1450;WLUX;;Dunbar, WV
+WV;1450;WVAM;;Parkersburg, WV
+WY;1450;KBBS;;Buffalo, WY
+WY;1450;KJCV;;Jackson, WY
+WY;1450;KVOW;;Riverton, WY
+AL;1460;WHTY;;Phenix City, AL
+CA;1460;KCNR;;Shasta, CA
+CA;1460;KION;;Salinas, CA
+CA;1460;KRRS;;Santa Rosa, CA
+CA;1460;KTYM;;Inglewood, CA
+CO;1460;KZNT;;Colorado Springs, CO
+FL;1460;WQOP;;Jacksonville, FL
+FL;1460;WQXM;;Bartow, FL
+FL;1460;WZEP;;Defuniak Springs, FL
+GA;1460;WXEM;;Buford, GA
+IA;1460;KXNO;;Des Moines, IA
+IL;1460;WIXN;;Dixon, IL
+IL;1460;WKJR;;Rantoul, IL
+IL;1460;WROY;;Carmi, IL
+IN;1460;WJCP;;North Vernon, IN
+IN;1460;WKAM;;Goshen, IN
+KS;1460;KKOY;;Chanute, KS
+KY;1460;WEKB;;Elkhorn City, KY
+KY;1460;WRVK;;Mount Vernon, KY
+LA;1460;KTKC;;Springhill, LA
+LA;1460;WXOK;;Baton Rouge, LA
+MA;1460;WBMS;;Brockton, MA
+MD;1460;WKHZ;;Easton, MD
+MI;1460;WBRN;;Big Rapids, MI
+MI;1460;WPON;;Walled Lake, MI
+MN;1460;KDMA;;Montevideo, MN
+MN;1460;KDWA;;Hastings, MN
+MN;1460;KKAQ;;Thief River Fall, MN
+MO;1460;KHOJ;;St. Charles, MO
+MS;1460;WELZ;;Belzoni, MS
+NC;1460;WEWO;;Laurinburg, NC
+NC;1460;WHBK;;Marshall, NC
+NC;1460;WRKB;;Kannapolis, NC
+ND;1460;KLTC;;Dickinson, ND
+NE;1460;KXPN;;Kearney, NE
+NJ;1460;WIFI;;Florence, NJ
+NV;1460;KENO;;Las Vegas, NV
+NY;1460;WHIC;;Rochester, NY
+NY;1460;WOPG;;Albany, NY
+NY;1460;WVOX;;New Rochelle, NY
+OH;1460;WBNS;;Columbus, OH
+OH;1460;WCCD;;Painesville, OH
+OK;1460;KZUE;;El Reno, OK
+OR;1460;KCKX;;Stayton, OR
+PA;1460;WGMM;;Tunkhannock, PA
+PA;1460;WMBA;;Ambridge, PA
+PA;1460;WTKT;;Harrisburg, PA
+PR;1460;WRRE;;Juncos, PR
+PR;1460;WLRP;;San Sebastian, PR
+SC;1460;WBCU;;Union, SC
+TN;1460;WEEN;;Lafayette, TN
+TN;1460;WJAK;;Jackson, TN
+TN;1460;WXRQ;;Mount Pleasant, TN
+TX;1460;KBRZ;;Freeport, TX
+TX;1460;KBZO;;Lubbock, TX
+TX;1460;KCLE;;Burleson, TX
+TX;1460;KCWM;;Hondo, TX
+VA;1460;WKDV;;Manassas, VA
+VA;1460;WRAD;;Radford, VA
+WI;1460;WBOG;;Tomah, WI
+WI;1460;WEMK;;West Allis, WI
+WV;1460;WBUC;;Buckhannon, WV
+AL;1470;WNWF;;Evergreen, AL
+AZ;1470;KNXN;;Sierra Vista, AZ
+AZ;1470;KXSL;;Show Low, AZ
+CA;1470;KIID;;Sacramento, CA
+CA;1470;KUTY;;Palmdale, CA
+CT;1470;WBOM;;Meriden, CT
+FL;1470;WMGG;;Egypt Lake, FL
+FL;1470;WWNN;;Pompano Beach, FL
+GA;1470;WCLA;;Claxton, GA
+GA;1470;WRGA;;Rome, GA
+GA;1470;WXAG;;Athens, GA
+IA;1470;KWAY;;Waverly, IA
+IA;1470;KWSL;;Sioux City, IA
+IL;1470;WMBD;;Peoria, IL
+IN;1470;WGNR;;Anderson, IN
+KS;1470;KSMM;;Liberal, KS
+KY;1470;WBFC;;Stanton, KY
+LA;1470;KLCL;;Lake Charles, LA
+MA;1470;WAZN;;Watertown, MA
+MD;1470;WJDY;;Salisbury, MD
+MD;1470;WTTR;;Westminster, MD
+ME;1470;WLAM;;Lewiston, ME
+MN;1470;KMNQ;;Brooklyn Park, MN
+MO;1470;KFMZ;;Brookfield, MO
+MO;1470;KMAL;;Malden, MO
+MS;1470;WCHJ;;Brookhaven, MS
+MS;1470;WNAU;;New Albany, MS
+NC;1470;WTOE;;Spruce Pine, NC
+NC;1470;WWBG;;Greensboro, NC
+ND;1470;KHND;;Harvey, ND
+NY;1470;WNYY;;Ithaca, NY
+NY;1470;WPDM;;Potsdam, NY
+OK;1470;KGND;;Vinita, OK
+PA;1470;WLOA;;Farrell, PA
+PA;1470;WSAN;;Allentown, PA
+PR;1470;WKUM;;Orocovis, PR
+SC;1470;WPIF;;Georgetown, SC
+SC;1470;WQXL;;Columbia, SC
+TN;1470;WBCR;;Alcoa, TN
+TN;1470;WVOL;;Berry Hill, TN
+TX;1470;KDHN;;Dimmitt, TX
+TX;1470;KWRD;;Henderson, TX
+TX;1470;KYYW;;Abilene, TX
+VA;1470;WBTX;;Broadway-Timberville, VA
+VA;1470;WTZE;;Tazewell, VA
+WA;1470;KBSN;;Moses Lake, WA
+WA;1470;KELA;;Centralia-Chehalis, WA
+WI;1470;WRYU;;West Bend, WI
+WY;1470;KKTY;;Douglas, WY
+AL;1480;WABF;;Mobile, AL
+AL;1480;WJTW;;Bridgeport, AL
+AL;1480;WMMA;;Irondale, AL
+AR;1480;KTHS;;Berryville, AR
+AZ;1480;KPHX;;Phoenix, AZ
+CA;1480;KEJB;;Eureka, CA
+CA;1480;KSBQ;;Santa Maria, CA
+CA;1480;KVNR;;Santa Ana, CA
+CA;1480;KYOS;;Merced, CA
+CO;1480;KIXD;;Pueblo, CO
+CT;1480;WKND;;Windsor, CT
+FL;1480;WCXS;;Arcadia, FL
+FL;1480;WUNA;;Ocoee, FL
+GA;1480;WYZE;;Atlanta, GA
+IA;1480;KLEE;;Ottumwa, IA
+ID;1480;KRXR;;Filer, ID
+IL;1480;WDYS;;Somonauk, IL
+IL;1480;WJBM;;Jerseyville, IL
+IN;1480;WPFR;;Terre Haute, IN
+IN;1480;WRSW;;Warsaw, IN
+KS;1480;KCZZ;;Mission, KS
+KS;1480;KQAM;;Wichita, KS
+KY;1480;WHVO;;Hopkinsville, KY
+KY;1480;WNKW;;Neon, KY
+KY;1480;WTLO;;Somerset, KY
+LA;1480;KIOU;;Shreveport, LA
+MA;1480;WSAR;;Fall River, MA
+MI;1480;WIOS;;Tawas City-East Tawa, MI
+MI;1480;WSDS;;Salem Township, MI
+MI;1480;WSLI;;Kentwood, MI
+MN;1480;KAUS;;Austin, MN
+MN;1480;KKCQ;;Fosston, MN
+MT;1480;KYWL;;Bozeman, MT
+NC;1480;WGFY;;Charlotte, NC
+NC;1480;WPFJ;;Franklin, NC
+NC;1480;WQTM;;Fair Bluff, NC
+NC;1480;WYRN;;Louisburg, NC
+NY;1480;WLEA;;Hornell, NY
+NY;1480;WRCK;;Remsen, NY
+NY;1480;WZRC;;New York, NY
+OH;1480;WDJO;;Covington, OH
+OH;1480;WHBC;;Canton, OH
+PA;1480;WDAS;;Philadelphia, PA
+PA;1480;WJFG;;Latrobe, PA
+PA;1480;WRDD;;Shippensburg, PA
+PR;1480;WMDD;;Fajardo, PR
+SC;1480;WZJY;;Mount Pleasant, SC
+SD;1480;KSDR;;Watertown, SD
+TN;1480;WBBP;;Memphis, TN
+TN;1480;WJFC;;Jefferson City, TN
+TN;1480;WJLE;;Smithville, TN
+TX;1480;KCHL;;San Antonio, TX
+TX;1480;KLVL;;Pasadena, TX
+TX;1480;KNGO;;Dallas, TX
+UT;1480;KHQN;;Spanish Fork, UT
+VA;1480;WPWC;;Dumfries-Triangle, VA
+VA;1480;WTOX;;Glen Allen, VA
+VA;1480;WTOY;;Salem, VA
+VT;1480;WCFR;;Springfield, VT
+WA;1480;KBMS;;Vancouver, WA
+WA;1480;KBRO;;Bremerton, WA
+WI;1480;WLMV;;Madison, WI
+WY;1480;KRAE;;Cheyenne, WY
+AL;1490;WFZX;;Anniston, AL
+AL;1490;WHBB;;Selma, AL
+AL;1490;WIEZ;;Decatur, AL
+AR;1490;KDRS;;Paragould, AR
+AR;1490;KWXT;;Dardanelle, AR
+AZ;1490;KCUZ;;Clifton, AZ
+AZ;1490;KFFN;;Tucson, AZ
+AZ;1490;KYCA;;Prescott, AZ
+AZ;1490;KZZZ;;Bullhead City, AZ
+CA;1490;KBLF;;Red Bluff, CA
+CA;1490;KGBA;;Calexico, CA
+CA;1490;KLZN;;Susanville, CA
+CA;1490;KMET;;Banning, CA
+CA;1490;KOSJ;;Santa Barbara, CA
+CA;1490;KOWL;;South Lake Tahoe, CA
+CA;1490;KRKC;;King City, CA
+CA;1490;KWAC;;Bakersfield, CA
+CA;1490;KZNB;;Petaluma, CA
+CO;1490;KCFC;;Boulder, CO
+CO;1490;KNAM;;Silt, CO
+CO;1490;KPKE;;Gunnison, CO
+CO;1490;KXRE;;Manitou Springs, CO
+CT;1490;WGCH;;Greenwich, CT
+FL;1490;WAFZ;;Immokalee, FL
+FL;1490;WMBM;;Miami Beach, FL
+FL;1490;WSIR;;Winter Haven, FL
+FL;1490;WTJV;;Deland, FL
+FL;1490;WTKE;;Milton, FL
+FL;1490;WTTB;;Vero Beach, FL
+FL;1490;WWPR;;Bradenton, FL
+GA;1490;WBGA;;Brunswick, GA
+GA;1490;WCHM;;Clarkesville, GA
+GA;1490;WKUN;;Monroe, GA
+GA;1490;WRLA;;West Point, GA
+GA;1490;WSFB;;Quitman, GA
+GA;1490;WSNT;;Sandersville, GA
+GA;1490;WYYZ;;Jasper, GA
+IA;1490;KBUR;;Burlington, IA
+IA;1490;KRIB;;Mason City, IA
+IA;1490;KXLQ;;Indianola, IA
+IA;1490;WDBQ;;Dubuque, IA
+ID;1490;KCID;;Caldwell, ID
+IL;1490;WDAN;;Danville, IL
+IL;1490;WEUR;;Oakwood Hills, IL
+IL;1490;WKRO;;Cairo, IL
+IL;1490;WZOE;;Princeton, IL
+IN;1490;WKBV;;Richmond, IN
+KS;1490;KKAN;;Phillipsburg, KS
+KS;1490;KTOP;;Topeka, KS
+KY;1490;WCLU;;Glasgow, KY
+KY;1490;WFXY;;Middlesboro, KY
+KY;1490;WKYW;;Frankfort, KY
+KY;1490;WOMI;;Owensboro, KY
+KY;1490;WSIP;;Paintsville, KY
+LA;1490;KEUN;;Eunice, LA
+LA;1490;KJIN;;Houma, LA
+LA;1490;KRUS;;Ruston, LA
+MA;1490;WCCM;;Haverhill, MA
+MA;1490;WMRC;;Milford, MA
+MA;1490;WSPR;;West Springfield, MA
+MD;1490;WARK;;Hagerstown, MD
+ME;1490;WBAE;;Portland, ME
+MI;1490;WABJ;;Adrian, MI
+MI;1490;WLAW;;Whitehall, MI
+MI;1490;WMPX;;Midland, MI
+MI;1490;WTIQ;;Manistique, MI
+MN;1490;KJOQ;;Duluth, MN
+MN;1490;KLGR;;Redwood Falls, MN
+MN;1490;KXRA;;Alexandria, MN
+MO;1490;KDMO;;Carthage, MO
+MO;1490;KDRO;;Sedalia, MO
+MO;1490;KTTR;;Rolla, MO
+MS;1490;WANG;;Biloxi, MS
+MS;1490;WCLD;;Cleveland, MS
+MS;1490;WHOC;;Philadelphia, MS
+MS;1490;WTUP;;Tupelo, MS
+MS;1490;WVBG;;Vicksburg, MS
+MT;1490;KDBM;;Dillon, MT
+MT;1490;KHTC;;Malmstrom AFB, MT
+NC;1490;WAZZ;;Fayetteville, NC
+NC;1490;WDUR;;Durham, NC
+NC;1490;WLOE;;Eden, NC
+NC;1490;WRMT;;Rocky Mount, NC
+NC;1490;WSTP;;Salisbury, NC
+NC;1490;WSVM;;Valdese, NC
+NC;1490;WWNB;;New Bern, NC
+ND;1490;KNDC;;Hettinger, ND
+ND;1490;KOVC;;Valley City, ND
+NE;1490;KIBM;;Omaha, NE
+NH;1490;WEMJ;;Laconia, NH
+NH;1490;WKDR;;Berlin, NH
+NH;1490;WUVR;;Lebanon, NH
+NJ;1490;WBSS;;Pleasantville, NJ
+NM;1490;KRTN;;Raton, NM
+NM;1490;KRUI;;Ruidoso Downs, NM
+NY;1490;WBTA;;Batavia, NY
+NY;1490;WCDO;;Sidney, NY
+NY;1490;WCSS;;Amsterdam, NY
+NY;1490;WDLC;;Port Jervis, NY
+NY;1490;WICY;;Malone, NY
+NY;1490;WKNY;;Kingston, NY
+NY;1490;WNGZ;;Watkins Glen, NY
+NY;1490;WOLF;;Syracuse, NY
+OH;1490;WBEX;;Chillicothe, OH
+OH;1490;WERE;;Cleveland Heights, OH
+OH;1490;WMOA;;Marietta, OH
+OH;1490;WMRN;;Marion, OH
+OH;1490;WOHI;;East Liverpool, OH
+OK;1490;KBIX;;Muskogee, OK
+OK;1490;KMFS;;Guthrie, OK
+OR;1490;KBKR;;Baker, OR
+OR;1490;KBZY;;Salem, OR
+OR;1490;KSKR;;Roseburg, OR
+PA;1490;WBCB;;Levittown, PA
+PA;1490;WESB;;Bradford, PA
+PA;1490;WGMA;;Hazleton, PA
+PA;1490;WMGW;;Meadville, PA
+PA;1490;WNDA;;Wellsboro, PA
+PA;1490;WNTJ;;Johnstown, PA
+PA;1490;WRKY;;Lancaster, PA
+PR;1490;WDEP;;Ponce, PR
+SC;1490;WGCD;;Chester, SC
+SC;1490;WPCI;;Greenville, SC
+SC;1490;WTQS;;Cameron, SC
+SC;1490;WVGB;;Beaufort, SC
+SD;1490;KFCR;;Custer, SD
+SD;1490;KORN;;Mitchell, SD
+TN;1490;WCOR;;Lebanon, TN
+TN;1490;WCSV;;Crossville, TN
+TN;1490;WITA;;Knoxville, TN
+TN;1490;WJJM;;Lewisburg, TN
+TN;1490;WJOC;;Chattanooga, TN
+TX;1490;KBST;;Big Spring, TX
+TX;1490;KHVL;;Huntsville, TX
+TX;1490;KIBL;;Beeville, TX
+TX;1490;KJFK;;Austin, TX
+TX;1490;KLNT;;Laredo, TX
+TX;1490;KNEL;;Brady, TX
+TX;1490;KPLT;;Paris, TX
+TX;1490;KVWC;;Vernon, TX
+TX;1490;KWMC;;Del Rio, TX
+TX;1490;KYZS;;Tyler, TX
+TX;1490;KZZN;;Littlefield, TX
+UT;1490;KCPX;;Spanish Valley, UT
+UT;1490;KOGN;;Ogden, UT
+UT;1490;KZEZ;;Santa Clara, UT
+VA;1490;WCVA;;Culpeper, VA
+VA;1490;WOPI;;Bristol, VA
+VA;1490;WPAK;;Farmville, VA
+VA;1490;WXTG;;Hampton, VA
+VT;1490;WFAD;;Middlebury, VT
+VT;1490;WIKE;;Newport, VT
+VT;1490;WINQ;;Brattleboro, VT
+WA;1490;KLOG;;Kelso, WA
+WA;1490;KTEL;;Walla Walla, WA
+WA;1490;KWOK;;Hoquiam, WA
+WA;1490;KYNR;;Toppenish, WA
+WI;1490;WGEZ;;Beloit, WI
+WI;1490;WIGM;;Medford, WI
+WI;1490;WLCX;;La Crosse, WI
+WI;1490;WOSH;;Oshkosh, WI
+WV;1490;WAEY;;Princeton, WV
+WV;1490;WSGB;;Sutton, WV
+WV;1490;WSWW;;Charleston, WV
+WV;1490;WVRM;;Fairmont, WV
+WY;1490;KGOS;;Torrington, WY
+WY;1490;KJNT;;Jackson, WY
+WY;1490;KUGR;;Green River, WY
+AL;1500;WKAX;;Russellville, AL
+AL;1500;WQCR;;Alabaster, AL
+AL;1500;WVSM;;Rainsville, AL
+CA;1500;KSJX;;San Jose, CA
+CT;1500;WFIF;;Milford, CT
+DC;1500;WFED;;Washington, DC
+FL;1500;WPSO;;New Port Richey, FL
+GA;1500;WDPC;;Dallas, GA
+HI;1500;KHKA;;Honolulu, HI
+IL;1500;WPJX;;Zion, IL
+IL;1500;WPMB;;Vandalia, IL
+IN;1500;WAKE;;Valparaiso, IN
+IN;1500;WBRI;;Indianapolis, IN
+KY;1500;WKXO;;Berea, KY
+LA;1500;KCLF;;New Roads, LA
+MI;1500;WLQV;;Detroit, MI
+MN;1500;KSTP;;St. Paul, MN
+MS;1500;WQMS;;Quitman, MS
+NC;1500;WSMX;;Winston-Salem, NC
+NJ;1500;WGHT;;Pompton Lakes, NJ
+OH;1500;WBZI;;Xenia, OH
+OK;1500;KPGM;;Pawhuska, OK
+PR;1500;WMNT;;Manati, PR
+SC;1500;WZZQ;;Gaffney, SC
+TN;1500;WDEB;;Jamestown, TN
+TN;1500;WPOT;;Trenton, TN
+TX;1500;KANI;;Wharton, TX
+TX;1500;KBRN;;Boerne, TX
+TX;1500;KJIM;;Sherman, TX
+TX;1500;KMXO;;Merkel, TX
+AZ;1510;KFNN;;Mesa, AZ
+CA;1510;KIRV;;Fresno, CA
+CA;1510;KSFN;;Piedmont, CA
+CA;1510;KSPA;;Ontario, CA
+CO;1510;KPLS;;Littleton, CO
+FL;1510;WWBC;;Cocoa, FL
+IA;1510;KIFG;;Iowa Falls, IA
+IL;1510;WCAZ;;Macomb, IL
+IL;1510;WWHN;;Joliet, IL
+KS;1510;KLQR;;Larned, KS
+LA;1510;KAGY;;Port Sulphur, LA
+MA;1510;WMEX;;Quincy, MA
+MI;1510;WJKN;;Jackson, MI
+MO;1510;KCTE;;Independence, MO
+MO;1510;KMRF;;Marshfield, MO
+NC;1510;WEAL;;Greensboro, NC
+NE;1510;KTTT;;Columbus, NE
+NJ;1510;WOCQ;;Salem, NJ
+NJ;1510;WRNJ;;Hackettstown, NJ
+NM;1510;KOAZ;;Alamo Community, NM
+OH;1510;WLGN;;Logan, OH
+OH;1510;WLKR;;Norwalk, OH
+PA;1510;WPGR;;Monroeville, PA
+PR;1510;WBSG;;Lajas, PR
+SC;1510;WQUL;;Woodruff, SC
+SD;1510;KMSD;;Milbank, SD
+TN;1510;WLAC;;Nashville, TN
+TX;1510;KAGC;;Bryan, TX
+TX;1510;KBED;;Nederland, TX
+TX;1510;KCTX;;Childress, TX
+TX;1510;KMND;;Midland, TX
+TX;1510;KROB;;Robstown, TX
+TX;1510;KSTV;;Stephenville, TX
+TX;1510;KWJB;;Canton, TX
+WA;1510;KGA;;Spokane, WA
+WI;1510;WGKB;;Waukesha, WI
+AL;1520;WTLM;;Opelika, AL
+CA;1520;KMPG;;Hollister, CA
+CA;1520;KVEN;;Port Hueneme, CA
+FL;1520;WEXY;;Wilton Manors, FL
+FL;1520;WNDO;;Apopka, FL
+FL;1520;WXYB;;Indian Rocks Beach, FL
+GA;1520;WDCY;;Douglasville, GA
+IA;1520;KSIB;;Creston, IA
+IL;1520;WHOW;;Clinton, IL
+IL;1520;WLUV;;Loves Park, IL
+IN;1520;WKVI;;Knox, IN
+IN;1520;WSVX;;Shelbyville, IN
+LA;1520;KFXZ;;Lafayette, LA
+MA;1520;WIZZ;;Greenfield, MA
+MI;1520;WRCI;;Three Rivers, MI
+MN;1520;KOLM;;Rochester, MN
+MO;1520;KRHW;;Sikeston, MO
+NC;1520;WARR;;Warrenton, NC
+NC;1520;WDSL;;Mocksville, NC
+ND;1520;KMSR;;Mayville, ND
+NY;1520;WWKB;;Buffalo, NY
+OH;1520;WINW;;Canton, OH
+OH;1520;WPAY;;Rossford, OH
+OH;1520;WQCT;;Bryan, OH
+OK;1520;KOKC;;Oklahoma City, OK
+OR;1520;KGDD;;Oregon City, OR
+PA;1520;WCHE;;West Chester, PA
+PR;1520;WRSJ;;San Juan, PR
+SD;1520;KZOY;;Sioux Falls, SD
+TN;1520;WNWS;;Brownsville, TN
+TX;1520;KQQB;;Stockdale, TX
+TX;1520;KYND;;Cypress, TX
+WA;1520;KKXA;;Snohomish, WA
+WI;1520;WZBU;;New Holstein, WI
+AR;1530;KVDW;;England, AR
+CA;1530;KFBK;;Sacramento, CA
+CO;1530;KQSC;;Colorado Springs, CO
+FL;1530;WENG;;Englewood, FL
+FL;1530;WYMM;;Jacksonville, FL
+GA;1530;WTTI;;Dalton, GA
+IA;1530;KDSN;;Denison, IA
+IL;1530;WCKG;;Elmhurst, IL
+IL;1530;WLIQ;;Quincy, IL
+KS;1530;KQNK;;Norton, KS
+MA;1530;WVBF;;Middleborough, MA
+MD;1530;WCTR;;Chestertown, MD
+MI;1530;WLCO;;Lapeer, MI
+MI;1530;WYGR;;Wyoming, MI
+NC;1530;WLLQ;;Chapel Hill, NC
+NC;1530;WOBX;;Wanchese, NC
+NY;1530;WJDM;;Mineola, NY
+OH;1530;WCKY;;Cincinnati, OH
+OK;1530;KXTD;;Wagoner, OK
+PA;1530;WZTE;;Union City, PA
+PR;1530;WUPR;;Utuado, PR
+SC;1530;WASC;;Spartanburg, SC
+TN;1530;WWDX;;Huntingdon, TN
+TX;1530;KYWW;;Harlingen, TX
+TX;1530;KZNX;;Creedmoor, TX
+AR;1540;KLYR;;Ozark, AR
+CA;1540;KMPC;;Los Angeles, CA
+GA;1540;WKVQ;;Eatonton, GA
+IA;1540;KXEL;;Waterloo, IA
+IL;1540;WSMI;;Litchfield, IL
+IN;1540;WBNL;;Boonville, IN
+IN;1540;WLOI;;La Porte, IN
+IN;1540;WMYJ;;Martinsville, IN
+KS;1540;KLKC;;Parsons, KS
+KS;1540;KMCP;;McPherson, KS
+LA;1540;WFNO;;Gretna, LA
+MD;1540;WDON;;Wheaton, MD
+MI;1540;KTGG;;Spring Arbor, MI
+MO;1540;KBOA;;Kennett, MO
+NC;1540;WOGR;;Charlotte, NC
+NC;1540;WTXY;;Whiteville, NC
+NC;1540;WYNC;;Yanceyville, NC
+NH;1540;WPKC;;Exeter, NH
+NV;1540;KENT;;Enterprise, NV
+NY;1540;WVOA;;East Syracuse, NY
+OH;1540;WBCO;;Bucyrus, OH
+OH;1540;WBTC;;Uhrichsville, OH
+OH;1540;WYOH;;Niles, OH
+PA;1540;WECZ;;Punxsutawney, PA
+PA;1540;WNWR;;Philadelphia, PA
+PR;1540;WIBS;;Guayama, PR
+RI;1540;WADK;;Newport, RI
+SC;1540;WBPB;;Pickens, SC
+TN;1540;WBRY;;Woodbury, TN
+TN;1540;WJJT;;Jellico, TN
+TX;1540;KAMM;;University Park, TX
+TX;1540;KEDA;;San Antonio, TX
+TX;1540;KGBC;;Galveston, TX
+VA;1540;WULT;;Sandston, VA
+WA;1540;KXPA;;Bellevue, WA
+WI;1540;WPTT;;Hartford, WI
+AL;1550;WLOR;;Huntsville, AL
+AZ;1550;KUAZ;;Tucson, AZ
+CA;1550;KWRN;;Apple Valley, CA
+CA;1550;KXEX;;Fresno, CA
+CA;1550;KZDG;;San Francisco, CA
+CO;1550;KKCL;;Golden, CO
+CT;1550;WSDK;;Bloomfield, CT
+FL;1550;WAMA;;Tampa, FL
+FL;1550;WNZF;;Bunnell, FL
+FL;1550;WRHC;;Doral, FL
+GA;1550;WAZX;;Smyrna, GA
+GA;1550;WKTF;;Vienna, GA
+GA;1550;WTHB;;Augusta, GA
+IA;1550;KIWA;;Sheldon, IA
+IL;1550;WAUR;;Somonauk, IL
+IL;1550;WJIL;;Jacksonville, IL
+IN;1550;WCVL;;Crawfordsville, IN
+IN;1550;WNDI;;Sullivan, IN
+IN;1550;WOCC;;Corydon, IN
+KS;1550;KKLE;;Winfield, KS
+KY;1550;WIRV;;Irvine, KY
+KY;1550;WUCO;;Morganfield, KY
+LA;1550;WPFC;;Baton Rouge, LA
+MA;1550;WNTN;;Cambridge, MA
+MD;1550;WSRY;;Newark, MD
+MO;1550;KAPE;;Cape Girardeau, MO
+MO;1550;KESJ;;St. Joseph, MO
+MO;1550;KRZD;;Springfield, MO
+NC;1550;WBFJ;;Winston-Salem, NC
+NE;1550;KICS;;Hastings, NE
+NM;1550;KQNM;;Albuquerque, NM
+NV;1550;KXTO;;Reno, NV
+NY;1550;WCGR;;Canandaigua, NY
+NY;1550;WUSP;;Utica, NY
+OH;1550;WQCD;;Delaware, OH
+OK;1550;KMAD;;Madill, OK
+OK;1550;KYAL;;Sapulpa, OK
+PA;1550;WITK;;Pittston, PA
+PA;1550;WTXW;;Towanda, PA
+PA;1550;WZUM;;Reserve Township, PA
+PR;1550;WKFE;;Yauco, PR
+TN;1550;WIGN;;Bristol, TN
+TX;1550;KCOM;;Comanche, TX
+TX;1550;KWBC;;Navasota, TX
+UT;1550;KOSL;;West Valley City, UT
+VA;1550;WKBA;;Vinton, VA
+WA;1550;KKOV;;Vancouver, WA
+WA;1550;KRPI;;Ferndale, WA
+WI;1550;WEVR;;River Falls, WI
+WI;1550;WHIT;;Fitchburg, WI
+WV;1550;WMRE;;Charlestown, WV
+CA;1560;KIQS;;Willows, CA
+CA;1560;KNZR;;Bakersfield, CA
+IA;1560;KLNG;;Council Bluffs, IA
+IL;1560;WBYS;;Canton, IL
+IN;1560;WRIN;;Rensselaer, IN
+IN;1560;WSEZ;;Paoli, IN
+KS;1560;KABI;;Abilene, KS
+KY;1560;WKDO;;Liberty, KY
+KY;1560;WPAD;;Paducah, KY
+LA;1560;WSLA;;Slidell, LA
+MN;1560;KBEW;;Blue Earth, MN
+MO;1560;KLTI;;Macon, MO
+MO;1560;KTUI;;Sullivan, MO
+MO;1560;WMBH;;Joplin, MO
+NC;1560;WYZD;;Dobson, NC
+NY;1560;WFME;;New York, NY
+OH;1560;WTNS;;Coshocton, OH
+OH;1560;WWYC;;Toledo, OH
+OK;1560;KEBC;;Oklahoma City, OK
+PR;1560;WBYM;;Bayam n, PR
+SC;1560;WAHT;;Clemson, SC
+TN;1560;WBOL;;Bolivar, TN
+TX;1560;KGOW;;Bellaire, TX
+TX;1560;KHBR;;Hillsboro, TX
+TX;1560;KTXZ;;West Lake Hills, TX
+TX;1560;KZQQ;;Abilene, TX
+VA;1560;WSBV;;South Boston, VA
+WA;1560;KVAN;;Burbank, WA
+WA;1560;KZIZ;;Pacific, WA
+WI;1560;WGLB;;Elm Grove, WI
+WV;1560;WFSP;;Kingwood, WV
+AL;1570;WCRL;;Oneonta, AL
+CA;1570;KCVR;;Lodi, CA
+CA;1570;KTGE;;Salinas, CA
+CO;1570;KXJJ;;Loveland, CO
+FL;1570;WOKC;;Okeechobee, FL
+FL;1570;WTWB;;Auburndale, FL
+FL;1570;WVOJ;;Fernandina Beach, FL
+GA;1570;WIGO;;Morrow, GA
+IA;1570;KMCD;;Fairfield, IA
+IA;1570;KZWC;;Webster City, IA
+IL;1570;WBGX;;Harvey, IL
+IL;1570;WBGZ;;Alton, IL
+IL;1570;WFRL;;Freeport, IL
+IL;1570;WTAY;;Robinson, IL
+IN;1570;WGLL;;Auburn, IN
+IN;1570;WILO;;Frankfort, IN
+IN;1570;WLRS;;New Albany, IN
+KS;1570;KNDY;;Marysville, KS
+KY;1570;WKKS;;Vanceburg, KY
+KY;1570;WLBQ;;Morgantown, KY
+LA;1570;KLLA;;Leesville, LA
+LA;1570;WABL;;Amite, LA
+MA;1570;WUBG;;Methuen, MA
+MD;1570;WNST;;Towson, MD
+MI;1570;WFUR;;Grand Rapids, MI
+MI;1570;WWCK;;Flint, MI
+MN;1570;KAKK;;Walker, MN
+MN;1570;KDIZ;;Golden Valley, MN
+MO;1570;KBCV;;Hollister, MO
+MO;1570;KLEX;;Lexington, MO
+MS;1570;WIZK;;Bay Springs, MS
+MS;1570;WLEE;;Winona, MS
+NC;1570;WECU;;Winterville, NC
+NC;1570;WNCA;;Siler City, NC
+NC;1570;WTLK;;Taylorsville, NC
+NY;1570;WDRE;;Riverhead, NY
+NY;1570;WFLR;;Rochester, NY
+NY;1570;WVTL;;Amsterdam, NY
+OH;1570;WHTX;;Warren, OH
+OH;1570;WPTW;;Piqua, OH
+OK;1570;KTUZ;;Pryor, OK
+PA;1570;WISP;;Doylestown, PA
+PA;1570;WPGM;;Danville, PA
+PA;1570;WXVE;;Latrobe, PA
+PR;1570;WPPC;;Penuelas, PR
+SD;1570;KVTK;;Vermillion, SD
+TN;1570;WCLE;;Cleveland, TN
+TN;1570;WMAK;;Lobelville, TN
+TN;1570;WTRB;;Ripley, TN
+TX;1570;KPYK;;Terrell, TX
+TX;1570;KVLG;;La Grange, TX
+VA;1570;WSWV;;Pennington Gap, VA
+VA;1570;WYTI;;Rocky Mount, VA
+WI;1570;WKBH;;Holmen, WI
+WI;1570;WLKD;;Minocqua, WI
+WI;1570;WSCO;;Appleton, WI
+AL;1580;WTAZ;;Oxford, AL
+AR;1580;KAGE;;Van Buren, AR
+AZ;1580;KQFN;;Tempe, AZ
+CA;1580;KBLA;;Santa Monica, CA
+CO;1580;KFCS;;Colorado Springs, CO
+FL;1580;WCCF;;Punta Gorda, FL
+FL;1580;WJXO;;Chattahoochee, FL
+FL;1580;WNTF;;Bithlo, FL
+FL;1580;WSRF;;Fort Lauderdale, FL
+GA;1580;WIOL;;Columbus, GA
+GA;1580;WPGY;;Ellijay, GA
+IA;1580;KCHA;;Charles City, IA
+IL;1580;WDQN;;Duquoin, IL
+IN;1580;WAMW;;Washington, IN
+IN;1580;WHLY;;South Bend, IN
+IN;1580;WLPK;;Connersville, IN
+KY;1580;WPKY;;Princeton, KY
+KY;1580;WWTF;;Georgetown, KY
+MD;1580;WJFK;;Morningside, MD
+MI;1580;WWSJ;;St. Johns, MI
+MN;1580;KDOM;;Windom, MN
+MO;1580;KNIM;;Maryville, MO
+MO;1580;KTGR;;Columbia, MO
+MS;1580;WAMY;;Amory, MS
+MS;1580;WESY;;Leland, MS
+MS;1580;WPMO;;Pascagoula-moss Poin, MS
+NC;1580;WZKY;;Albemarle, NC
+NE;1580;KAMI;;Cozad, NE
+NJ;1580;WGYM;;Hammonton, NJ
+NY;1580;WNYG;;Long Island, NY
+OH;1580;WXGT;;Columbus, OH
+OK;1580;KOKB;;Blackwell, OK
+OR;1580;KGAL;;Lebanon, OR
+PA;1580;WVZN;;Columbia, PA
+PR;1580;WBQN;;Morovis, PR
+SC;1580;WPJK;;Orangeburg, SC
+TN;1580;WLIJ;;Shelbyville, TN
+TN;1580;WNPZ;;Knoxville, TN
+TX;1580;KGAF;;Gainesville, TX
+TX;1580;KWED;;Seguin, TX
+UT;1580;KWLO;;Springville, UT
+VA;1580;WWDN;;Danville, VA
+WI;1580;WMDX;;Columbus, WI
+WY;1580;KKTS;;Evansville, WY
+AL;1590;WVNA;;Tuscumbia, AL
+AR;1590;KBJT;;Fordyce, AR
+AR;1590;KYNG;;Springdale, AR
+CA;1590;KLIV;;San Jose, CA
+CA;1590;KVTA;;Ventura, CA
+CA;1590;KVTR;;Victorville, CA
+FL;1590;WDJZ;;South Daytona, FL
+FL;1590;WHOT;;St. Petersburg Beach, FL
+FL;1590;WPSL;;Port St. Lucie, FL
+GA;1590;WALG;;Albany, GA
+GA;1590;WQCH;;Lafayette, GA
+GA;1590;WXRS;;Swainsboro, GA
+IA;1590;KWBG;;Boone, IA
+IL;1590;WCGO;;Evanston, IL
+IN;1590;WNTS;;Beech Grove, IN
+IN;1590;WPIW;;Mt. Vernon, IN
+KS;1590;KVGB;;Great Bend, KS
+KY;1590;WLBN;;Lebanon, KY
+LA;1590;KKAY;;White Castle, LA
+MD;1590;WFBR;;Glen Burnie, MD
+MD;1590;WHGT;;Maugansville, MD
+MI;1590;WHLX;;Marine City, MI
+MI;1590;WTVB;;Coldwater, MI
+MN;1590;KDJS;;Willmar, MN
+MN;1590;KGFK;;East Grand Forks, MN
+MO;1590;KDEX;;Dexter, MO
+MO;1590;KMOZ;;Rolla, MO
+MO;1590;KPRT;;Kansas City, MO
+NC;1590;WBHN;;Bryson City, NC
+NC;1590;WCSL;;Cherryville, NC
+NC;1590;WHPY;;Clayton, NC
+NC;1590;WVOE;;Chadbourn, NC
+NC;1590;WYSR;;High Point, NC
+NE;1590;KCTY;;Wayne, NE
+NH;1590;WSMN;;Nashua, NH
+NY;1590;WAUB;;Auburn, NY
+NY;1590;WGGO;;Salamanca, NY
+OH;1590;WAKR;;Akron, OH
+OH;1590;WSRW;;Hillsboro, OH
+OK;1590;KWEY;;Weatherford, OK
+OR;1590;KTIL;;Tillamook, OR
+PA;1590;WPSN;;Honesdale, PA
+PA;1590;WPWA;;Chester, PA
+PR;1590;WXRF;;Guayama, PR
+RI;1590;WARV;;Warwick, RI
+SC;1590;WABV;;Abbeville, SC
+SC;1590;WCAM;;Camden, SC
+TN;1590;WDBL;;Springfield, TN
+TN;1590;WKTP;;Jonesborough, TN
+TX;1590;KDAE;;Sinton, TX
+TX;1590;KDAV;;Lubbock, TX
+TX;1590;KEKR;;Mexia, TX
+TX;1590;KELP;;El Paso, TX
+TX;1590;KGAS;;Carthage, TX
+TX;1590;KMIC;;Houston, TX
+VA;1590;WNRN;;Richmond, VA
+WA;1590;KLFE;;Seattle, WA
+WI;1590;WGBW;;Denmark, WI
+WI;1590;WIXK;;New Richmond, WI
+WI;1590;WPVL;;Platteville, WI
+AL;1600;WHIY;;Huntsville, AL
+AL;1600;WXVI;;Montgomery, AL
+AR;1600;KNWA;;Bellefonte, AR
+AZ;1600;KXEW;;South Tucson, AZ
+AZ;1600;KYBC;;Cottonwood, AZ
+CA;1600;KAHZ;;Pomona, CA
+CA;1600;KGST;;Fresno, CA
+CA;1600;KTAP;;Santa Maria, CA
+CA;1600;KUBA;;Yuba City, CA
+CO;1600;KEPN;;Lakewood, CO
+FL;1600;WKWF;;Key West, FL
+FL;1600;WLAA;;Winter Garden, FL
+FL;1600;WPOM;;Riviera Beach, FL
+FL;1600;WZNZ;;Atlantic Beach, FL
+GA;1600;WAOS;;Austell, GA
+IA;1600;KGYM;;Cedar Rapids, IA
+IA;1600;KLGZ;;Algona, IA
+KS;1600;KMDO;;Fort Scott, KS
+KY;1600;WLUE;;Eminence, KY
+LA;1600;KLEB;;Golden Meadow, LA
+MA;1600;WUNR;;Brookline, MA
+MD;1600;WLXE;;Rockville, MD
+MI;1600;WAAM;;Ann Arbor, MI
+MO;1600;KATZ;;St. Louis, MO
+MO;1600;KTTN;;Trenton, MO
+NC;1600;WIDU;;Fayetteville, NC
+NC;1600;WTZQ;;Hendersonville, NC
+ND;1600;KDAK;;Carrington, ND
+NE;1600;KNCY;;Nebraska City, NE
+NE;1600;KRFS;;Superior, NE
+NM;1600;KIVA;;Albuquerque, NM
+NY;1600;WLVY;;Elmira Hts-Horsehds, NY
+NY;1600;WMCR;;Oneida, NY
+NY;1600;WRSB;;Brockport, NY
+NY;1600;WWRL;;New York, NY
+OH;1600;WTTF;;Tiffin, OH
+OH;1600;WULM;;Springfield, OH
+OK;1600;KUSH;;Cushing, OK
+OR;1600;KOHI;;St. Helens, OR
+OR;1600;KOPB;;Eugene, OR
+PA;1600;WEJS;;Jersey Shore, PA
+PA;1600;WHOL;;Allentown, PA
+PA;1600;WPDC;;Elizabethtown, PA
+PA;1600;WRAX;;Bedford, PA
+PR;1600;WCMA;;Bayam n, PR
+SC;1600;WKZK;;North Augusta, SC
+TN;1600;WMQM;;Lakeland, TN
+TN;1600;WUCT;;Algood, TN
+TX;1600;KOKE;;Pflugerville, TX
+TX;1600;KRVA;;Cockrell Hill, TX
+UT;1600;KTUB;;Centerville, UT
+VA;1600;WCPK;;Chesapeake, VA
+WA;1600;KVRI;;Blaine, WA
+WI;1600;WRPN;;Ripon, WI
+WV;1600;WKKX;;Wheeling, WV
+WV;1600;WZZW;;Milton, WV
+CA;1620;KSMH;;Auburn, CA
+FL;1620;WNRP;;Gulf Breeze, FL
+NE;1620;KOZN;;Bellevue, NE
+TX;1620;WTAW;;College Station, TX
+VI;1620;WDHP;;Fredericksted, VI
+WA;1620;KYIZ;;Renton, WA
+IA;1630;KCJJ;;Iowa City, IA
+TX;1630;KKGM;;Fort Worth, TX
+WY;1630;KFBU;;Fox Farm, WY
+CA;1640;KDIA;;Vallejo, CA
+OK;1640;KZLS;;Enid, OK
+OR;1640;KDZR;;Lake Oswego, OR
+UT;1640;KBJA;;Sandy, UT
+WI;1640;WSJP;;Sussex, WI
+AR;1650;KFSW;;Fort Smith, AR
+CA;1650;KFOX;;Torrance, CA
+CO;1650;KBJD;;Denver, CO
+IA;1650;KCNZ;;Cedar Falls, IA
+TX;1650;KSVE;;El Paso, TX
+VA;1650;WJFV;;Portsmouth, VA
+CA;1660;KBRE;;Merced, CA
+FL;1660;WCNZ;;Marco Island, FL
+KS;1660;KWOD;;Kansas City, KS
+MI;1660;WZOX;;Kalamazoo, MI
+ND;1660;KQWB;;West Fargo, ND
+NJ;1660;WWRU;;Jersey City, NJ
+PR;1660;WGIT;;Can vanas, PR
+TX;1660;KRZI;;Waco, TX
+CA;1670;KHPY;;Moreno Valley, CA
+CA;1670;KQMS;;Redding, CA
+GA;1670;WMGE;;Dry Branch, GA
+WI;1670;WOZN;;Madison, WI
+CA;1680;KGED;;Fresno, CA
+FL;1680;WOKB;;Winter Garden, FL
+LA;1680;KRJO;;Monroe, LA
+MI;1680;WPRR;;Ada, MI
+NJ;1680;WTTM;;Lindenwold, NJ
+WA;1680;KNTS;;Seattle, WA
+CA;1690;KFSG;;Roseville, CA
+CO;1690;KDMT;;Arvada, CO
+GA;1690;WMLB;;Avondale Estates, GA
+IL;1690;WVON;;Berwyn, IL
+MD;1690;WPTX;;Lexington Park, MD
+VI;1690;WIGT;;Charlotte Amalie, VI
+AL;1700;WEUP;;Huntsville, AL
+FL;1700;WJCC;;Miami Springs, FL
+IA;1700;KBGG;;Des Moines, IA
+NY;1700;WRCR;;Haverstraw, NY
+TX;1700;KKLF;;Richardson, TX
+TX;1700;KVNS;;Brownsville, TX
